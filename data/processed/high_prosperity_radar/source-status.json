@@ -4,10 +4,12 @@
     "source_name": "中国政府网-政策",
     "status": "ok",
     "fetched_count": 30,
-    "relevant_count": 30,
-    "duration_sec": 1.32,
+    "relevant_count": 5,
+    "body_fetched_count": 5,
+    "body_failed_count": 0,
+    "duration_sec": 1.74,
     "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -15,59 +17,71 @@
     "status": "ok",
     "fetched_count": 0,
     "relevant_count": 0,
-    "duration_sec": 2.12,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 0.19,
     "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "ndrc_news",
     "source_name": "国家发改委-新闻动态",
     "status": "ok",
     "fetched_count": 38,
-    "relevant_count": 38,
-    "duration_sec": 1.02,
+    "relevant_count": 9,
+    "body_fetched_count": 9,
+    "body_failed_count": 0,
+    "duration_sec": 2.38,
     "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "miit_news",
     "source_name": "工信部-新闻动态",
     "status": "ok",
     "fetched_count": 37,
-    "relevant_count": 37,
-    "duration_sec": 2.4,
+    "relevant_count": 4,
+    "body_fetched_count": 4,
+    "body_failed_count": 0,
+    "duration_sec": 1.05,
     "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "stats_cn",
     "source_name": "国家统计局-数据发布",
-    "status": "ok",
-    "fetched_count": 40,
-    "relevant_count": 40,
-    "duration_sec": 16.14,
-    "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 12.45,
+    "error": "URLError(SSLEOFError(8, 'EOF occurred in violation of protocol (_ssl.c:1129)'))",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "fed_press",
     "source_name": "Federal Reserve Press Releases",
     "status": "ok",
     "fetched_count": 20,
-    "relevant_count": 20,
-    "duration_sec": 0.19,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 0.38,
     "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "ecb_press",
     "source_name": "European Central Bank Press Releases",
     "status": "ok",
     "fetched_count": 15,
-    "relevant_count": 15,
-    "duration_sec": 1.19,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 0.84,
     "error": "",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "imf_news",
@@ -75,9 +89,11 @@
     "status": "error",
     "fetched_count": 0,
     "relevant_count": 0,
-    "duration_sec": 0.27,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 1.11,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   },
   {
     "source_id": "ap_business",
@@ -85,8 +101,118 @@
     "status": "error",
     "fetched_count": 0,
     "relevant_count": 0,
-    "duration_sec": 0.46,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 4.34,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-06-05T08:50:50.659665Z"
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "cninfo_announcement",
+    "source_name": "巨潮资讯-公告检索页",
+    "status": "ok",
+    "fetched_count": 19,
+    "relevant_count": 1,
+    "body_fetched_count": 1,
+    "body_failed_count": 0,
+    "duration_sec": 0.29,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "sse_disclosure",
+    "source_name": "上交所-披露公告",
+    "status": "ok",
+    "fetched_count": 40,
+    "relevant_count": 9,
+    "body_fetched_count": 10,
+    "body_failed_count": 0,
+    "duration_sec": 3.74,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "szse_disclosure",
+    "source_name": "深交所-上市公司公告",
+    "status": "ok",
+    "fetched_count": 40,
+    "relevant_count": 0,
+    "body_fetched_count": 5,
+    "body_failed_count": 0,
+    "duration_sec": 0.86,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "ccgp_purchase",
+    "source_name": "中国政府采购网-采购公告",
+    "status": "ok",
+    "fetched_count": 21,
+    "relevant_count": 14,
+    "body_fetched_count": 14,
+    "body_failed_count": 0,
+    "duration_sec": 2.63,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "customs_stats",
+    "source_name": "海关总署-统计数据",
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 0.19,
+    "error": "<HTTPError 412: 'Precondition Failed'>",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "mofcom_news",
+    "source_name": "商务部-新闻发布",
+    "status": "ok",
+    "fetched_count": 18,
+    "relevant_count": 3,
+    "body_fetched_count": 2,
+    "body_failed_count": 1,
+    "duration_sec": 0.56,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "caam_news",
+    "source_name": "中国汽车工业协会-行业信息",
+    "status": "ok",
+    "fetched_count": 40,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 0.23,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "cpia_news",
+    "source_name": "中国光伏行业协会-新闻动态",
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
+    "body_failed_count": 0,
+    "duration_sec": 0.62,
+    "error": "<HTTPError 404: 'Not Found'>",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
+  },
+  {
+    "source_id": "csrc_news",
+    "source_name": "证监会-新闻发布",
+    "status": "ok",
+    "fetched_count": 24,
+    "relevant_count": 3,
+    "body_fetched_count": 3,
+    "body_failed_count": 0,
+    "duration_sec": 0.78,
+    "error": "",
+    "checked_at": "2026-06-05T08:58:00.918310Z"
   }
 ]

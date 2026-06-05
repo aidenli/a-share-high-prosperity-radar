@@ -1,5 +1,5 @@
 {
-  "version": "mvp-2026-06-05",
+  "version": "mvp-2026-06-05-v2",
   "description": "A-share high-prosperity public signal radar MVP. Public internet signals only; no Tushare token, no trading advice.",
   "window_hours": 72,
   "max_items_per_source": 40,
@@ -11,7 +11,11 @@
       "url": "https://www.gov.cn/zhengce/",
       "region": "CN",
       "level": "A1",
-      "categories": ["policy", "macro", "industry"]
+      "categories": [
+        "policy",
+        "macro",
+        "industry"
+      ]
     },
     {
       "id": "xinhua_fortune",
@@ -20,7 +24,11 @@
       "url": "https://www.news.cn/fortune/",
       "region": "CN",
       "level": "A1",
-      "categories": ["macro", "policy", "industry"]
+      "categories": [
+        "macro",
+        "policy",
+        "industry"
+      ]
     },
     {
       "id": "ndrc_news",
@@ -29,7 +37,11 @@
       "url": "https://www.ndrc.gov.cn/xwdt/",
       "region": "CN",
       "level": "A1",
-      "categories": ["policy", "macro", "industry"]
+      "categories": [
+        "policy",
+        "macro",
+        "industry"
+      ]
     },
     {
       "id": "miit_news",
@@ -38,7 +50,11 @@
       "url": "https://www.miit.gov.cn/xwdt/",
       "region": "CN",
       "level": "A1",
-      "categories": ["policy", "technology", "manufacturing"]
+      "categories": [
+        "policy",
+        "technology",
+        "manufacturing"
+      ]
     },
     {
       "id": "stats_cn",
@@ -47,7 +63,10 @@
       "url": "https://www.stats.gov.cn/sj/zxfb/",
       "region": "CN",
       "level": "A1",
-      "categories": ["macro", "industry"]
+      "categories": [
+        "macro",
+        "industry"
+      ]
     },
     {
       "id": "fed_press",
@@ -56,7 +75,11 @@
       "url": "https://www.federalreserve.gov/feeds/press_all.xml",
       "region": "US",
       "level": "A1",
-      "categories": ["central_bank", "macro", "financial_risk"]
+      "categories": [
+        "central_bank",
+        "macro",
+        "financial_risk"
+      ]
     },
     {
       "id": "ecb_press",
@@ -65,7 +88,11 @@
       "url": "https://www.ecb.europa.eu/rss/press.html",
       "region": "EU",
       "level": "A1",
-      "categories": ["central_bank", "macro", "financial_risk"]
+      "categories": [
+        "central_bank",
+        "macro",
+        "financial_risk"
+      ]
     },
     {
       "id": "imf_news",
@@ -74,7 +101,11 @@
       "url": "https://www.imf.org/en/News/rss",
       "region": "Global",
       "level": "A1",
-      "categories": ["macro", "financial_risk", "geopolitics"]
+      "categories": [
+        "macro",
+        "financial_risk",
+        "geopolitics"
+      ]
     },
     {
       "id": "ap_business",
@@ -83,24 +114,386 @@
       "url": "https://apnews.com/hub/business?output=rss",
       "region": "Global",
       "level": "A2",
-      "categories": ["macro", "industry", "financial_risk"]
+      "categories": [
+        "macro",
+        "industry",
+        "financial_risk"
+      ]
+    },
+    {
+      "id": "cninfo_announcement",
+      "name": "巨潮资讯-公告检索页",
+      "type": "web",
+      "url": "http://www.cninfo.com.cn/new/commonUrl?url=disclosure/list/notice",
+      "region": "CN",
+      "level": "A1",
+      "categories": [
+        "announcement",
+        "company",
+        "disclosure"
+      ]
+    },
+    {
+      "id": "sse_disclosure",
+      "name": "上交所-披露公告",
+      "type": "web",
+      "url": "https://www.sse.com.cn/disclosure/listedinfo/announcement/",
+      "region": "CN",
+      "level": "A1",
+      "categories": [
+        "announcement",
+        "exchange",
+        "company"
+      ]
+    },
+    {
+      "id": "szse_disclosure",
+      "name": "深交所-上市公司公告",
+      "type": "web",
+      "url": "https://www.szse.cn/disclosure/listed/notice/index.html",
+      "region": "CN",
+      "level": "A1",
+      "categories": [
+        "announcement",
+        "exchange",
+        "company"
+      ]
+    },
+    {
+      "id": "ccgp_purchase",
+      "name": "中国政府采购网-采购公告",
+      "type": "web",
+      "url": "http://www.ccgp.gov.cn/cggg/",
+      "region": "CN",
+      "level": "A2",
+      "categories": [
+        "tender",
+        "procurement",
+        "demand"
+      ]
+    },
+    {
+      "id": "customs_stats",
+      "name": "海关总署-统计数据",
+      "type": "web",
+      "url": "http://www.customs.gov.cn/customs/302249/zfxxgk/2799825/302274/302277/index.html",
+      "region": "CN",
+      "level": "A1",
+      "categories": [
+        "export",
+        "macro",
+        "industry"
+      ]
+    },
+    {
+      "id": "mofcom_news",
+      "name": "商务部-新闻发布",
+      "type": "web",
+      "url": "http://www.mofcom.gov.cn/xwfbh/",
+      "region": "CN",
+      "level": "A1",
+      "categories": [
+        "trade",
+        "export",
+        "consumption"
+      ]
+    },
+    {
+      "id": "caam_news",
+      "name": "中国汽车工业协会-行业信息",
+      "type": "web",
+      "url": "http://www.caam.org.cn/chn/1/cate_2/list_1.html",
+      "region": "CN",
+      "level": "A2",
+      "categories": [
+        "auto",
+        "industry",
+        "demand"
+      ]
+    },
+    {
+      "id": "cpia_news",
+      "name": "中国光伏行业协会-新闻动态",
+      "type": "web",
+      "url": "https://www.chinapv.org.cn/xwdt.html",
+      "region": "CN",
+      "level": "A2",
+      "categories": [
+        "photovoltaic",
+        "industry",
+        "price"
+      ]
+    },
+    {
+      "id": "csrc_news",
+      "name": "证监会-新闻发布",
+      "type": "web",
+      "url": "http://www.csrc.gov.cn/csrc/c100028/common_list.shtml",
+      "region": "CN",
+      "level": "A1",
+      "categories": [
+        "regulation",
+        "financial_risk",
+        "market"
+      ]
     }
   ],
   "signal_keywords": {
-    "demand_strong": ["需求旺盛", "需求增长", "需求超预期", "订单增长", "订单饱满", "订单爆满", "大单", "中标", "招标", "采购", "销量增长", "出口增长", "capital expenditure", "capex", "demand", "orders", "backlog"],
-    "supply_tight": ["供不应求", "供给偏紧", "供应紧张", "库存低", "缺货", "满产", "排产", "交付周期", "产能瓶颈", "shortage", "supply tight", "tight supply", "inventory drawdown"],
-    "price_up": ["涨价", "提价", "价格上涨", "价格中枢", "报价上调", "price increase", "prices rise", "higher prices", "pricing power"],
-    "new_product": ["新品", "新产品", "上市", "放量", "验证", "认证", "突破", "迭代", "new product", "product launch", "breakthrough"],
-    "high_prosperity": ["高景气", "景气度", "超预期", "业绩预增", "业绩增长", "盈利改善", "毛利率提升", "profit growth", "outlook raised", "beat expectations"],
-    "policy_support": ["支持", "促进", "推动", "加快", "鼓励", "补贴", "专项", "行动方案", "规划", "政策", "support", "subsidy", "incentive"]
+    "demand_strong": [
+      "backlog",
+      "capex",
+      "capital expenditure",
+      "contract",
+      "demand",
+      "orders",
+      "sales",
+      "shipments",
+      "中标",
+      "交付",
+      "产销",
+      "出口增长",
+      "出口订单",
+      "出货量",
+      "合同",
+      "合同金额",
+      "大单",
+      "客户订单",
+      "客户需求",
+      "招标",
+      "装机",
+      "订单",
+      "订单增长",
+      "订单爆满",
+      "订单饱满",
+      "采购",
+      "采购需求",
+      "销量",
+      "销量增长",
+      "需求增长",
+      "需求旺盛",
+      "需求超预期"
+    ],
+    "supply_tight": [
+      "inventory drawdown",
+      "shortage",
+      "supply tight",
+      "tight supply",
+      "交付周期",
+      "产能利用率",
+      "产能瓶颈",
+      "供不应求",
+      "供应短缺",
+      "供应紧张",
+      "供给偏紧",
+      "供需偏紧",
+      "供需紧张",
+      "停产检修",
+      "库存低",
+      "库存去化",
+      "开工率",
+      "排产",
+      "满产",
+      "紧缺",
+      "缺货",
+      "限产"
+    ],
+    "price_up": [
+      "higher prices",
+      "price increase",
+      "price index",
+      "prices rise",
+      "pricing power",
+      "record high",
+      "价格上涨",
+      "价格上调",
+      "价格中枢",
+      "价格坚挺",
+      "价格指数",
+      "创历史新高",
+      "均价",
+      "报价",
+      "报价上调",
+      "提价",
+      "涨价",
+      "涨幅"
+    ],
+    "new_product": [
+      "breakthrough",
+      "new product",
+      "product launch",
+      "上市",
+      "商业化",
+      "客户认证",
+      "导入",
+      "批量交付",
+      "放量",
+      "新产品",
+      "新品",
+      "新技术",
+      "突破",
+      "认证",
+      "试产",
+      "迭代",
+      "量产",
+      "首发",
+      "验证"
+    ],
+    "high_prosperity": [
+      "beat expectations",
+      "outlook raised",
+      "profit growth",
+      "业绩增长",
+      "业绩预增",
+      "产销两旺",
+      "修复",
+      "净利润增长",
+      "同比增长",
+      "向好",
+      "扣非增长",
+      "持续改善",
+      "景气度",
+      "毛利率提升",
+      "环比增长",
+      "盈利改善",
+      "盈利能力",
+      "超预期",
+      "高景气"
+    ],
+    "policy_support": [
+      "incentive",
+      "subsidy",
+      "support",
+      "专项",
+      "产业升级",
+      "以旧换新",
+      "促进",
+      "加快",
+      "国产替代",
+      "推动",
+      "支持",
+      "政策",
+      "新质生产力",
+      "自主可控",
+      "行动方案",
+      "补贴",
+      "规划",
+      "设备更新",
+      "鼓励"
+    ]
   },
-  "risk_keywords": ["降价", "价格下跌", "库存增加", "产能过剩", "需求不及预期", "砍单", "订单取消", "毛利率下滑", "竞争加剧", "减持", "问询函", "亏损", "price cut", "oversupply", "weak demand", "inventory build", "margin pressure"],
+  "risk_keywords": [
+    "delay",
+    "impairment",
+    "inventory build",
+    "margin pressure",
+    "oversupply",
+    "price cut",
+    "weak demand",
+    "下滑",
+    "亏损",
+    "亏损扩大",
+    "产能过剩",
+    "价格下跌",
+    "减持",
+    "取消",
+    "同比下降",
+    "处罚",
+    "库存增加",
+    "延期",
+    "放缓",
+    "毛利率下滑",
+    "环比下降",
+    "砍单",
+    "立案",
+    "竞争加剧",
+    "终止",
+    "被问询",
+    "订单取消",
+    "调查",
+    "退市风险",
+    "问询函",
+    "降价",
+    "需求不及预期"
+  ],
   "theme_keywords": {
-    "AI算力": ["人工智能", "AI", "算力", "GPU", "服务器", "数据中心", "光模块", "液冷", "PCB", "HBM", "CPO"],
-    "半导体": ["半导体", "芯片", "集成电路", "晶圆", "光刻", "刻蚀", "封装", "存储", "SiC", "semiconductor", "chip"],
-    "机器人高端制造": ["机器人", "工业母机", "数控", "减速器", "丝杠", "伺服", "传感器", "高端装备", "robot"],
-    "电力储能": ["储能", "电网", "特高压", "变压器", "逆变器", "新能源", "风电", "光伏", "电力", "energy storage", "grid"],
-    "消费出海": ["消费", "家电", "以旧换新", "出口", "跨境", "海外", "consumer", "export"],
-    "资源品涨价": ["铜", "铝", "锂", "稀土", "钨", "钼", "黄金", "油价", "化工", "制冷剂", "维生素", "copper", "gold", "oil"]
-  }
+    "AI算力": [
+      "人工智能",
+      "AI",
+      "算力",
+      "GPU",
+      "服务器",
+      "数据中心",
+      "光模块",
+      "液冷",
+      "PCB",
+      "HBM",
+      "CPO"
+    ],
+    "半导体": [
+      "半导体",
+      "芯片",
+      "集成电路",
+      "晶圆",
+      "光刻",
+      "刻蚀",
+      "封装",
+      "存储",
+      "SiC",
+      "semiconductor",
+      "chip"
+    ],
+    "机器人高端制造": [
+      "机器人",
+      "工业母机",
+      "数控",
+      "减速器",
+      "丝杠",
+      "伺服",
+      "传感器",
+      "高端装备",
+      "robot"
+    ],
+    "电力储能": [
+      "储能",
+      "电网",
+      "特高压",
+      "变压器",
+      "逆变器",
+      "新能源",
+      "风电",
+      "光伏",
+      "电力",
+      "energy storage",
+      "grid"
+    ],
+    "消费出海": [
+      "消费",
+      "家电",
+      "以旧换新",
+      "出口",
+      "跨境",
+      "海外",
+      "consumer",
+      "export"
+    ],
+    "资源品涨价": [
+      "铜",
+      "铝",
+      "锂",
+      "稀土",
+      "钨",
+      "钼",
+      "黄金",
+      "油价",
+      "化工",
+      "制冷剂",
+      "维生素",
+      "copper",
+      "gold",
+      "oil"
+    ]
+  },
+  "fetch_body_for_score_threshold": 5,
+  "max_body_fetches_per_run": 60,
+  "body_max_chars": 5000
 }
