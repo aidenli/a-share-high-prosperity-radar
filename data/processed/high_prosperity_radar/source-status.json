@@ -5,9 +5,9 @@
     "status": "ok",
     "fetched_count": 30,
     "relevant_count": 30,
-    "duration_sec": 0.29,
+    "duration_sec": 1.32,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -15,9 +15,9 @@
     "status": "ok",
     "fetched_count": 0,
     "relevant_count": 0,
-    "duration_sec": 0.3,
+    "duration_sec": 2.12,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "ndrc_news",
@@ -25,9 +25,9 @@
     "status": "ok",
     "fetched_count": 38,
     "relevant_count": 38,
-    "duration_sec": 0.29,
+    "duration_sec": 1.02,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "miit_news",
@@ -35,9 +35,9 @@
     "status": "ok",
     "fetched_count": 37,
     "relevant_count": 37,
-    "duration_sec": 0.26,
+    "duration_sec": 2.4,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "stats_cn",
@@ -45,9 +45,9 @@
     "status": "ok",
     "fetched_count": 40,
     "relevant_count": 40,
-    "duration_sec": 0.44,
+    "duration_sec": 16.14,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "fed_press",
@@ -55,9 +55,9 @@
     "status": "ok",
     "fetched_count": 20,
     "relevant_count": 20,
-    "duration_sec": 0.37,
+    "duration_sec": 0.19,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "ecb_press",
@@ -65,9 +65,9 @@
     "status": "ok",
     "fetched_count": 15,
     "relevant_count": 15,
-    "duration_sec": 1.49,
+    "duration_sec": 1.19,
     "error": "",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "imf_news",
@@ -75,9 +75,9 @@
     "status": "error",
     "fetched_count": 0,
     "relevant_count": 0,
-    "duration_sec": 1.07,
+    "duration_sec": 0.27,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   },
   {
     "source_id": "ap_business",
@@ -85,8 +85,8 @@
     "status": "error",
     "fetched_count": 0,
     "relevant_count": 0,
-    "duration_sec": 4.1,
+    "duration_sec": 0.46,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-06-05T08:42:12.216705Z"
+    "checked_at": "2026-06-05T08:50:50.659665Z"
   }
 ]
