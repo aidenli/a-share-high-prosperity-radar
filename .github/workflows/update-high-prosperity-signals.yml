@@ -1,0 +1,47 @@
+name: Update A-share High Prosperity Signals
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Run hourly. GitHub cron is UTC and may be delayed.
+    - cron: "0 * * * *"
+
+concurrency:
+  group: update-a-share-high-prosperity-signals-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    timeout-minutes: 20
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.11"
+
+      - name: Update public high-prosperity signals
+        run: |
+          python scripts/collect_high_prosperity_signals.py \
+            --config config/high_prosperity_sources.json \
+            --output-dir data/processed/high_prosperity_radar \
+            --report-dir reports/high_prosperity_radar
+
+      - name: Commit and push generated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/processed/high_prosperity_radar/*.json data/processed/high_prosperity_radar/*.jsonl reports/high_prosperity_radar/latest.md
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+            exit 0
+          fi
+          git commit -m "chore: update high prosperity signals"
+          git push

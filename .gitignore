@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# Local/private
+*.log
+.DS_Store
+
+# Generated radar outputs are intentionally committed by GitHub Actions.

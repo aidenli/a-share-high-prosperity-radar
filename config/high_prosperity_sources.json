@@ -1,0 +1,106 @@
+{
+  "version": "mvp-2026-06-05",
+  "description": "A-share high-prosperity public signal radar MVP. Public internet signals only; no Tushare token, no trading advice.",
+  "window_hours": 72,
+  "max_items_per_source": 40,
+  "sources": [
+    {
+      "id": "gov_cn_policy",
+      "name": "中国政府网-政策",
+      "type": "web",
+      "url": "https://www.gov.cn/zhengce/",
+      "region": "CN",
+      "level": "A1",
+      "categories": ["policy", "macro", "industry"]
+    },
+    {
+      "id": "xinhua_fortune",
+      "name": "新华社-财经",
+      "type": "web",
+      "url": "https://www.news.cn/fortune/",
+      "region": "CN",
+      "level": "A1",
+      "categories": ["macro", "policy", "industry"]
+    },
+    {
+      "id": "ndrc_news",
+      "name": "国家发改委-新闻动态",
+      "type": "web",
+      "url": "https://www.ndrc.gov.cn/xwdt/",
+      "region": "CN",
+      "level": "A1",
+      "categories": ["policy", "macro", "industry"]
+    },
+    {
+      "id": "miit_news",
+      "name": "工信部-新闻动态",
+      "type": "web",
+      "url": "https://www.miit.gov.cn/xwdt/",
+      "region": "CN",
+      "level": "A1",
+      "categories": ["policy", "technology", "manufacturing"]
+    },
+    {
+      "id": "stats_cn",
+      "name": "国家统计局-数据发布",
+      "type": "web",
+      "url": "https://www.stats.gov.cn/sj/zxfb/",
+      "region": "CN",
+      "level": "A1",
+      "categories": ["macro", "industry"]
+    },
+    {
+      "id": "fed_press",
+      "name": "Federal Reserve Press Releases",
+      "type": "rss",
+      "url": "https://www.federalreserve.gov/feeds/press_all.xml",
+      "region": "US",
+      "level": "A1",
+      "categories": ["central_bank", "macro", "financial_risk"]
+    },
+    {
+      "id": "ecb_press",
+      "name": "European Central Bank Press Releases",
+      "type": "rss",
+      "url": "https://www.ecb.europa.eu/rss/press.html",
+      "region": "EU",
+      "level": "A1",
+      "categories": ["central_bank", "macro", "financial_risk"]
+    },
+    {
+      "id": "imf_news",
+      "name": "IMF News",
+      "type": "rss",
+      "url": "https://www.imf.org/en/News/rss",
+      "region": "Global",
+      "level": "A1",
+      "categories": ["macro", "financial_risk", "geopolitics"]
+    },
+    {
+      "id": "ap_business",
+      "name": "AP Business",
+      "type": "rss",
+      "url": "https://apnews.com/hub/business?output=rss",
+      "region": "Global",
+      "level": "A2",
+      "categories": ["macro", "industry", "financial_risk"]
+    }
+  ],
+  "signal_keywords": {
+    "demand_strong": ["需求旺盛", "需求增长", "需求超预期", "订单增长", "订单饱满", "订单爆满", "大单", "中标", "招标", "采购", "销量增长", "出口增长", "capital expenditure", "capex", "demand", "orders", "backlog"],
+    "supply_tight": ["供不应求", "供给偏紧", "供应紧张", "库存低", "缺货", "满产", "排产", "交付周期", "产能瓶颈", "shortage", "supply tight", "tight supply", "inventory drawdown"],
+    "price_up": ["涨价", "提价", "价格上涨", "价格中枢", "报价上调", "price increase", "prices rise", "higher prices", "pricing power"],
+    "new_product": ["新品", "新产品", "上市", "放量", "验证", "认证", "突破", "迭代", "new product", "product launch", "breakthrough"],
+    "high_prosperity": ["高景气", "景气度", "超预期", "业绩预增", "业绩增长", "盈利改善", "毛利率提升", "profit growth", "outlook raised", "beat expectations"],
+    "policy_support": ["支持", "促进", "推动", "加快", "鼓励", "补贴", "专项", "行动方案", "规划", "政策", "support", "subsidy", "incentive"]
+  },
+  "risk_keywords": ["降价", "价格下跌", "库存增加", "产能过剩", "需求不及预期", "砍单", "订单取消", "毛利率下滑", "竞争加剧", "减持", "问询函", "亏损", "price cut", "oversupply", "weak demand", "inventory build", "margin pressure"],
+  "theme_keywords": {
+    "AI算力": ["人工智能", "AI", "算力", "GPU", "服务器", "数据中心", "光模块", "液冷", "PCB", "HBM", "CPO"],
+    "半导体": ["半导体", "芯片", "集成电路", "晶圆", "光刻", "刻蚀", "封装", "存储", "SiC", "semiconductor", "chip"],
+    "机器人高端制造": ["机器人", "工业母机", "数控", "减速器", "丝杠", "伺服", "传感器", "高端装备", "robot"],
+    "电力储能": ["储能", "电网", "特高压", "变压器", "逆变器", "新能源", "风电", "光伏", "电力", "energy storage", "grid"],
+    "消费出海": ["消费", "家电", "以旧换新", "出口", "跨境", "海外", "consumer", "export"],
+    "资源品涨价": ["铜", "铝", "锂", "稀土", "钨", "钼", "黄金", "油价", "化工", "制冷剂", "维生素", "copper", "gold", "oil"]
+  }
+}

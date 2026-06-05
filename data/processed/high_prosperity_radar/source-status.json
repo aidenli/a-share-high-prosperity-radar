@@ -1,0 +1,92 @@
+[
+  {
+    "source_id": "gov_cn_policy",
+    "source_name": "中国政府网-政策",
+    "status": "ok",
+    "fetched_count": 30,
+    "relevant_count": 30,
+    "duration_sec": 0.29,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "xinhua_fortune",
+    "source_name": "新华社-财经",
+    "status": "ok",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "duration_sec": 0.3,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "ndrc_news",
+    "source_name": "国家发改委-新闻动态",
+    "status": "ok",
+    "fetched_count": 38,
+    "relevant_count": 38,
+    "duration_sec": 0.29,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "miit_news",
+    "source_name": "工信部-新闻动态",
+    "status": "ok",
+    "fetched_count": 37,
+    "relevant_count": 37,
+    "duration_sec": 0.26,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "stats_cn",
+    "source_name": "国家统计局-数据发布",
+    "status": "ok",
+    "fetched_count": 40,
+    "relevant_count": 40,
+    "duration_sec": 0.44,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "fed_press",
+    "source_name": "Federal Reserve Press Releases",
+    "status": "ok",
+    "fetched_count": 20,
+    "relevant_count": 20,
+    "duration_sec": 0.37,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "ecb_press",
+    "source_name": "European Central Bank Press Releases",
+    "status": "ok",
+    "fetched_count": 15,
+    "relevant_count": 15,
+    "duration_sec": 1.49,
+    "error": "",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "imf_news",
+    "source_name": "IMF News",
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "duration_sec": 1.07,
+    "error": "<HTTPError 403: 'Forbidden'>",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  },
+  {
+    "source_id": "ap_business",
+    "source_name": "AP Business",
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "duration_sec": 4.1,
+    "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
+    "checked_at": "2026-06-05T08:42:12.216705Z"
+  }
+]
