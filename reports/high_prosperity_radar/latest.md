@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-06-06T18:03:12.282764Z
+生成时间：2026-06-06T20:03:04.642252Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,7 +18,7 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
 | 巨潮资讯-公告检索页 | ok | 19 | 1 | 1 |  |
-| 上交所-披露公告 | ok | 40 | 9 | 9 |  |
+| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
 | 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
@@ -89,7 +89,17 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html
 
-### 7. 交易技术支持专区
+### 7. 企业上市服务
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["上市"], "policy_support": ["支持", "政策"]}
+- 风险词：无
+- 链接：https://www.sse.com.cn/services/listingwithsse/home/
+
+### 8. 交易技术支持专区
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -99,7 +109,7 @@
 - 风险词：无
 - 链接：https://www.sse.com.cn/services/tradingtech/notice/
 
-### 8. 消费品以旧换新
+### 9. 消费品以旧换新
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=10, signal=2, risk=0, 证据等级=C, 正文抓取=否
 - 主题：消费出海
@@ -109,7 +119,7 @@
 - 风险词：无
 - 链接：http://scyxs.mofcom.gov.cn/xfpyjhx/index.html
 
-### 9. 图表：2026年前4个月我国服务进出口总额同比增长4.9%
+### 10. 图表：2026年前4个月我国服务进出口总额同比增长4.9%
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海
@@ -119,7 +129,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7071301.htm
 
-### 10. 稳外贸稳外资政策措施
+### 11. 稳外贸稳外资政策措施
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海, 资源品涨价
@@ -129,7 +139,7 @@
 - 风险词：无
 - 链接：http://www.mofcom.gov.cn/zcfb/wwmwwzzccs/index.html
 
-### 11. 北京市发展改革委参加北京市共建“一带一路”直通车平台科创出海会客厅活动
+### 12. 北京市发展改革委参加北京市共建“一带一路”直通车平台科创出海会客厅活动
 - 来源：国家发改委-新闻动态 / A1 / CN
 - 分数：net=8, signal=0, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -139,7 +149,7 @@
 - 风险词：无
 - 链接：https://www.ndrc.gov.cn/xwdt/dt/dfdt/202605/t20260527_1405495.html
 
-### 12. 2026年5月中国采购经理指数运行情况
+### 13. 2026年5月中国采购经理指数运行情况
 - 来源：国家统计局-数据发布 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -149,7 +159,7 @@
 - 风险词：无
 - 链接：https://www.stats.gov.cn/sj/zxfb/202605/t20260531_1963824.html
 
-### 13. 债券发行上市一件事
+### 14. 债券发行上市一件事
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -159,7 +169,7 @@
 - 风险词：无
 - 链接：https://one.sse.com.cn/onething/zqfx/
 
-### 14. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
+### 15. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
 - 来源：证监会-新闻发布 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -169,7 +179,7 @@
 - 风险词：无
 - 链接：http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml
 
-### 15. 国务院关于印发《加快农业农村现代化“十五五”规划》的通知
+### 16. 国务院关于印发《加快农业农村现代化“十五五”规划》的通知
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -179,7 +189,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/content/202606/content_7070901.htm
 
-### 16. 加快农业农村现代化，“十五五”怎么干
+### 17. 加快农业农村现代化，“十五五”怎么干
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -189,7 +199,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202606/content_7070954.htm
 
-### 17. 图表：中央财政下达育儿补贴补助资金999亿元
+### 18. 图表：中央财政下达育儿补贴补助资金999亿元
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -199,7 +209,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7070900.htm
 
-### 18. 上市公司嵌入
+### 19. 上市公司嵌入
 - 来源：巨潮资讯-公告检索页 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -209,7 +219,7 @@
 - 风险词：无
 - 链接：http://webapi.cninfo.com.cn/
 
-### 19. 关于上市审核中心
+### 20. 关于上市审核中心
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=6, signal=7, risk=4, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -219,7 +229,7 @@
 - 风险词：终止
 - 链接：https://www.sse.com.cn/listing/aboutus/home/
 
-### 20. 上市公司信息
+### 21. 上市公司信息
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -229,7 +239,7 @@
 - 风险词：无
 - 链接：https://www.sse.com.cn/disclosure/listedinfo/announcement/
 
-### 21. 上市公司监管
+### 22. 上市公司监管
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -239,7 +249,7 @@
 - 风险词：无
 - 链接：https://www.sse.com.cn/regulation/supervision/dynamic/
 
-### 22. 发行上市审核监管
+### 23. 发行上市审核监管
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -248,16 +258,6 @@
 - 命中：{"new_product": ["上市"]}
 - 风险词：无
 - 链接：https://www.sse.com.cn/regulation/listing/measures/
-
-### 23. 企业上市服务
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=否
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/services/listingwithsse/home/
 
 ### 24. 上市公司服务
 - 来源：上交所-披露公告 / A1 / CN
@@ -342,7 +342,18 @@
   - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（工信部-新闻动态，net=10）
   - [消费品以旧换新](http://scyxs.mofcom.gov.cn/xfpyjhx/index.html)（商务部-新闻发布，net=10）
 
-### 2. 未分类 / new_product
+### 2. 未分类 / new_product+policy_support
+- 故事分：48
+- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：终止
+- 代表线索：
+  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
+  - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
+  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
+
+### 3. 未分类 / new_product
 - 故事分：39
 - 来源数：3，来源：上交所-披露公告, 巨潮资讯-公告检索页, 证监会-新闻发布
 - 产品：无
@@ -352,17 +363,6 @@
   - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
   - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
   - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
-
-### 3. 未分类 / new_product+policy_support
-- 故事分：38
-- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：终止
-- 代表线索：
-  - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
-  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
-  - [证监会组织开展“读懂上市公司报告”投资者教育专项活动](http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml)（证监会-新闻发布，net=8）
 
 ### 4. 未分类 / policy_support
 - 故事分：37
