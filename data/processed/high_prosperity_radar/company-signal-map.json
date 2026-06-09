@@ -338,12 +338,26 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "多中心知识检索增强服务器采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260609_26718063.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "新疆维吾尔自治区产业援疆算力供需对接会举行",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202606/t20260608_1405725.html",
@@ -361,12 +375,26 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "多中心知识检索增强服务器采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260609_26718063.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "新疆维吾尔自治区产业援疆算力供需对接会举行",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202606/t20260608_1405725.html",
@@ -384,12 +412,26 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "多中心知识检索增强服务器采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260609_26718063.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "新疆维吾尔自治区产业援疆算力供需对接会举行",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202606/t20260608_1405725.html",
@@ -407,12 +449,26 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "多中心知识检索增强服务器采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260609_26718063.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "新疆维吾尔自治区产业援疆算力供需对接会举行",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202606/t20260608_1405725.html",
