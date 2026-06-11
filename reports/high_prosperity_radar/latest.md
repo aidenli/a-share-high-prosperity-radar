@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-06-11T00:07:29.954646Z
+生成时间：2026-06-11T05:19:45.573760Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -17,10 +17,10 @@
 | European Central Bank Press Releases | ok | 15 | 0 | 0 |  |
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
-| 巨潮资讯-公告检索页 | error | 0 | 0 | 0 | TimeoutError('timed out') |
-| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
+| 巨潮资讯-公告检索页 | ok | 19 | 1 | 1 |  |
+| 上交所-披露公告 | ok | 40 | 9 | 9 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
-| 中国政府采购网-采购公告 | ok | 21 | 14 | 14 |  |
+| 中国政府采购网-采购公告 | ok | 21 | 13 | 13 |  |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 3 | 2 |  |
 | 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
@@ -59,7 +59,7 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html
 
-### 4. 宁波中基国际招标有限公司关于海曙区2026-2027年度市属区管道路桥梁养护项目中标(成交)结果公告
+### 4. 保定市公安局物业服务采购项目公开招标中标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=17, signal=15, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -67,7 +67,7 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["中标", "招标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26728082.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26729941.htm
 
 ### 5. 推动大规模设备更新和消费品以旧换新
 - 来源：国家发改委-新闻动态 / A1 / CN
@@ -89,7 +89,7 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html
 
-### 7. 江西骏马招标咨询有限公司关于南昌铁路公安局南昌公安处2026年度公务用车保险采购项目（第二...
+### 7. 交通运输部南海救助局南海救112轮艏侧推和副机大修项目公开招标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -97,67 +97,67 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["招标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/jzxtpgg/202606/t20260611_26728084.htm
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260611_26729925.htm
 
-### 8. 浙江省消防救援总队2026年火灾风险监测预警处置综合应用建设项目公开招标公告
+### 8. 水利部长江水利委员会办公室2026年度超标洪水防御能力提升中标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260610_26727512.htm
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260611_26729895.htm
 
-### 9. 中山大学2026年校园网运维及电话坐席服务外包项目招标公告
+### 9. 仓库租赁项目的中标（成交）结果公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260610_26727495.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26729945.htm
 
-### 10. 上海市第一康复医院检验流水线的公开招标公告
+### 10. 浙江省房地产管理咨询有限公司关于2026年余杭视觉艺术展览及市民流动文化展厅项目中标(成交)...
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260611_26728077.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26729943.htm
 
-### 11. 上海市杨浦区控江医院光学干涉断层成像移动系统OCT（FFR）项目（第三次）的公开招标公告
+### 11. 河北省石家庄监狱2026年信息化运维服务中标（成交）结果公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260611_26728073.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26729942.htm
 
-### 12. 2026-2027年内环高架（徐汇段）景观灯光维护（一期）的公开招标公告
+### 12. 肇东市文化馆文化馆书画展厅维修项目中标（成交）结果公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260611_26728079.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202606/t20260611_26729940.htm
 
-### 13. 上海市奉贤区政府采购2026-070--社区卫生服务中心医疗设备采购 （第一批）的公开招标公告
+### 13. 嫩江市高级中学标准化考场升级改造项目中标（成交）结果公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260611_26728081.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202606/t20260611_26729938.htm
 
 ### 14. 2023－2024年中国家电行业品牌评价结果发布
 - 来源：工信部-新闻动态 / A1 / CN
@@ -235,7 +235,7 @@
 - 主题：消费出海, 资源品涨价
 - 产品映射：无
 - 公司映射：无
-- 命中：{"policy_support": ["促进", "加快", "政策", "鼓励"]}
+- 命中：{"policy_support": ["促进", "政策", "鼓励"]}
 - 风险词：无
 - 链接：http://www.mofcom.gov.cn/zcfb/wwmwwzzccs/index.html
 
@@ -299,7 +299,7 @@
 - 风险词：无
 - 链接：http://www.china.com.cn/zhibo/content_118531198.htm
 
-### 28. 中华人民共和国清水河出入境边防检查站基层单位篮球场翻新采购项目竞争性磋商公告
+### 28. 中国疾病预防控制中心营养与健康所二期建设数据分析中心工作站采购项目询价公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -307,9 +307,9 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202606/t20260610_26727580.htm
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/xjgg/202606/t20260611_26729912.htm
 
-### 29. 中华人民共和国清水河出入境边防检查站机关营区房屋及附属设施维修改造采购项目竞争性磋商公告
+### 29. 中华人民共和国青茂出入境边防检查站口岸广告资源市场化运营服务采购项目更正公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -317,17 +317,17 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202606/t20260610_26727581.htm
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/gzgg/202606/t20260611_26729846.htm
 
-### 30. 北京化工大学2026级学生军事技能训练服装采购项目综合比选公告
+### 30. 乌鲁木齐铁路公安局2026年铁路公安防暑降温品采购项目竞争性磋商
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
-- 主题：资源品涨价
+- 主题：未分类
 - 产品映射：无
 - 公司映射：无
 - 命中：{"demand_strong": ["采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260610_26727467.htm
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202606/t20260611_26729812.htm
 
 ## 3. 合并故事线
 
@@ -338,9 +338,9 @@
 - 公司：无
 - 风险提示：无
 - 代表线索：
-  - [宁波中基国际招标有限公司关于海曙区2026-2027年度市属区管道路桥梁养护项目中标(成交)结果公告](http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26728082.htm)（中国政府采购网-采购公告，net=17）
+  - [保定市公安局物业服务采购项目公开招标中标公告](http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260611_26729941.htm)（中国政府采购网-采购公告，net=17）
   - [我国自主研制的载人飞艇AS700首架交付即将开启商业运营](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html)（工信部-新闻动态，net=13）
-  - [江西骏马招标咨询有限公司关于南昌铁路公安局南昌公安处2026年度公务用车保险采购项目（第二...](http://www.ccgp.gov.cn/cggg/zygg/jzxtpgg/202606/t20260611_26728084.htm)（中国政府采购网-采购公告，net=12）
+  - [交通运输部南海救助局南海救112轮艏侧推和副机大修项目公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260611_26729925.htm)（中国政府采购网-采购公告，net=12）
 
 ### 2. 消费出海 / policy_support
 - 故事分：54
@@ -364,7 +364,18 @@
   - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
   - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
 
-### 4. 未分类 / policy_support
+### 4. 未分类 / new_product
+- 故事分：39
+- 来源数：3，来源：上交所-披露公告, 巨潮资讯-公告检索页, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：无
+- 代表线索：
+  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
+  - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
+  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
+
+### 5. 未分类 / policy_support
 - 故事分：37
 - 来源数：2，来源：中国政府网-政策, 国家发改委-新闻动态
 - 产品：无
@@ -374,17 +385,6 @@
   - [国务院关于印发《加快农业农村现代化“十五五”规划》的通知](https://www.gov.cn/zhengce/content/202606/content_7070901.htm)（中国政府网-政策，net=7）
   - [加快农业农村现代化，“十五五”怎么干](https://www.gov.cn/zhengce/202606/content_7070954.htm)（中国政府网-政策，net=7）
   - [国家发展改革委相关工作负责同志参加国务院政策例行吹风会 介绍《城市更新“十五五”规划》有...](http://www.china.com.cn/zhibo/content_118531198.htm)（国家发改委-新闻动态，net=7）
-
-### 5. 未分类 / new_product
-- 故事分：36
-- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
-  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
-  - [发行上市审核监管](https://www.sse.com.cn/regulation/listing/measures/)（上交所-披露公告，net=6）
 
 ### 6. 未分类 / demand_strong+new_product
 - 故事分：34
@@ -432,15 +432,6 @@
 - 风险提示：无
 - 代表线索：
   - [图表：2026年前4个月我国服务进出口总额同比增长4.9%](https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7071301.htm)（中国政府网-政策，net=9）
-
-### 11. 资源品涨价 / demand_strong
-- 故事分：10
-- 来源数：1，来源：中国政府采购网-采购公告
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [北京化工大学2026级学生军事技能训练服装采购项目综合比选公告](http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260610_26727467.htm)（中国政府采购网-采购公告，net=7）
 
 ## 4. 公司线索映射
 
