@@ -334,5 +334,273 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "算力租赁服务采购项目（A）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260613_26745147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "算力租赁服务采购项目（A）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260613_26745147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "算力租赁服务采购项目（A）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260613_26745147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "算力租赁服务采购项目（A）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260613_26745147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中微公司",
+    "code": "688012.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学半导体学院办公家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745152.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "关于南方科技大学半导体学院食堂家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745151.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方华创",
+    "code": "002371.SZ",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学半导体学院办公家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745152.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "关于南方科技大学半导体学院食堂家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745151.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "拓荆科技",
+    "code": "688072.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学半导体学院办公家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745152.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "关于南方科技大学半导体学院食堂家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745151.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "盛美上海",
+    "code": "688082.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学半导体学院办公家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745152.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "关于南方科技大学半导体学院食堂家具采购项目的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260613_26745151.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
