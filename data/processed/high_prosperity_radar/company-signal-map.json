@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -35,6 +36,32 @@
             "支持",
             "政策",
             "新质生产力"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-G楼M楼N楼空调改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746252.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
           ]
         },
         "risk_hits": []
@@ -90,9 +117,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -119,6 +147,32 @@
             "支持",
             "政策",
             "新质生产力"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-G楼M楼N楼空调改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746252.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
           ]
         },
         "risk_hits": []
@@ -174,9 +228,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -203,6 +258,32 @@
             "支持",
             "政策",
             "新质生产力"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-G楼M楼N楼空调改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746252.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
           ]
         },
         "risk_hits": []
@@ -258,9 +339,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -287,6 +369,32 @@
             "支持",
             "政策",
             "新质生产力"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-G楼M楼N楼空调改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746252.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
           ]
         },
         "risk_hits": []
@@ -329,6 +437,118 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "平高电气",
+    "code": "600312.SH",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "思源电气",
+    "code": "002028.SZ",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "特变电工",
+    "code": "600089.SH",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "许继电气",
+    "code": "000400.SZ",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工业大学（威海）教学楼维修改造-空调室外配电改造中标（成交）公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260613_26746307.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
           ]
         },
         "risk_hits": []
