@@ -336,11 +336,11 @@
     ]
   },
   {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
     "max_score": 17,
@@ -349,13 +349,13 @@
     ],
     "signals": [
       {
-        "title": "江西三连建设工程咨询有限公司关于铜鼓县温泉新区学校周边交通安全设施设备建设项目（项目编...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260615_26748798.htm",
+        "title": "成方金融信息技术服务有限公司2026年服务器采购项目中标候选人公示",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260615_26753243.htm",
         "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
+            "中标",
             "采购"
           ]
         },
@@ -364,11 +364,11 @@
     ]
   },
   {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
     "max_score": 17,
@@ -377,13 +377,13 @@
     ],
     "signals": [
       {
-        "title": "江西三连建设工程咨询有限公司关于铜鼓县温泉新区学校周边交通安全设施设备建设项目（项目编...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260615_26748798.htm",
+        "title": "成方金融信息技术服务有限公司2026年服务器采购项目中标候选人公示",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260615_26753243.htm",
         "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
+            "中标",
             "采购"
           ]
         },
@@ -392,11 +392,11 @@
     ]
   },
   {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
     "max_score": 17,
@@ -405,13 +405,13 @@
     ],
     "signals": [
       {
-        "title": "江西三连建设工程咨询有限公司关于铜鼓县温泉新区学校周边交通安全设施设备建设项目（项目编...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260615_26748798.htm",
+        "title": "成方金融信息技术服务有限公司2026年服务器采购项目中标候选人公示",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260615_26753243.htm",
         "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
+            "中标",
             "采购"
           ]
         },
@@ -420,11 +420,11 @@
     ]
   },
   {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
     "max_score": 17,
@@ -433,13 +433,13 @@
     ],
     "signals": [
       {
-        "title": "江西三连建设工程咨询有限公司关于铜鼓县温泉新区学校周边交通安全设施设备建设项目（项目编...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260615_26748798.htm",
+        "title": "成方金融信息技术服务有限公司2026年服务器采购项目中标候选人公示",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260615_26753243.htm",
         "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
+            "中标",
             "采购"
           ]
         },
