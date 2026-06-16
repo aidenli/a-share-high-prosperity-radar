@@ -334,5 +334,113 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "汇川技术",
+    "code": "300124.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "锦州医科大学附属第一医院手术机器人设备维保服务采购项目单一来源公示",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202606/t20260617_26763204.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "秦川机床",
+    "code": "000837.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "锦州医科大学附属第一医院手术机器人设备维保服务采购项目单一来源公示",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202606/t20260617_26763204.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "绿的谐波",
+    "code": "688017.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "锦州医科大学附属第一医院手术机器人设备维保服务采购项目单一来源公示",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202606/t20260617_26763204.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "鸣志电器",
+    "code": "603728.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "锦州医科大学附属第一医院手术机器人设备维保服务采购项目单一来源公示",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202606/t20260617_26763204.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
