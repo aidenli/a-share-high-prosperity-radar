@@ -6,10 +6,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -51,18 +50,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -100,10 +87,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -145,18 +131,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -194,10 +168,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -239,18 +212,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -288,10 +249,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -338,18 +298,6 @@
         "risk_hits": []
       },
       {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "2023－2024年中国家电行业品牌评价结果发布",
         "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
         "net_score": 10,
@@ -369,114 +317,6 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "平高电气",
-    "code": "600312.SH",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 1,
-    "max_score": 14,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "思源电气",
-    "code": "002028.SZ",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 1,
-    "max_score": 14,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "特变电工",
-    "code": "600089.SH",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 1,
-    "max_score": 14,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "许继电气",
-    "code": "000400.SZ",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 1,
-    "max_score": 14,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "榆林市第三中学等三所学校空调安装及线路改造和变压器扩容工程竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202606/t20260621_26784525.htm",
-        "net_score": 14,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
