@@ -6,14 +6,28 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
+      {
+        "title": "南开大学膳食服务中心津南校区食堂空调采购项目（NK2026H024N）中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260623_26799795.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -87,14 +101,28 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
+      {
+        "title": "南开大学膳食服务中心津南校区食堂空调采购项目（NK2026H024N）中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260623_26799795.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -168,14 +196,28 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
+      {
+        "title": "南开大学膳食服务中心津南校区食堂空调采购项目（NK2026H024N）中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260623_26799795.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -249,14 +291,28 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
+      {
+        "title": "南开大学膳食服务中心津南校区食堂空调采购项目（NK2026H024N）中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260623_26799795.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -317,6 +373,118 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "汇川技术",
+    "code": "300124.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "西北工业大学耦合气动弹性的飞行器舵面伺服控制飞行环境模拟系统项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260623_26799797.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "秦川机床",
+    "code": "000837.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "西北工业大学耦合气动弹性的飞行器舵面伺服控制飞行环境模拟系统项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260623_26799797.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "绿的谐波",
+    "code": "688017.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "西北工业大学耦合气动弹性的飞行器舵面伺服控制飞行环境模拟系统项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260623_26799797.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "鸣志电器",
+    "code": "603728.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "西北工业大学耦合气动弹性的飞行器舵面伺服控制飞行环境模拟系统项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260623_26799797.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
           ]
         },
         "risk_hits": []
