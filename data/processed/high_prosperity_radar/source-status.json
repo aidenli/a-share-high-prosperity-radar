@@ -7,9 +7,9 @@
     "relevant_count": 9,
     "body_fetched_count": 9,
     "body_failed_count": 0,
-    "duration_sec": 6.21,
+    "duration_sec": 5.95,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -19,9 +19,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.74,
+    "duration_sec": 1.93,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "ndrc_news",
@@ -31,9 +31,9 @@
     "relevant_count": 9,
     "body_fetched_count": 9,
     "body_failed_count": 0,
-    "duration_sec": 5.71,
+    "duration_sec": 5.69,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "miit_news",
@@ -43,9 +43,9 @@
     "relevant_count": 4,
     "body_fetched_count": 4,
     "body_failed_count": 0,
-    "duration_sec": 6.16,
+    "duration_sec": 5.42,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "stats_cn",
@@ -55,9 +55,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 11.93,
+    "duration_sec": 14.74,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "fed_press",
@@ -67,9 +67,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.07,
+    "duration_sec": 0.09,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "ecb_press",
@@ -79,9 +79,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.64,
+    "duration_sec": 0.58,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "imf_news",
@@ -91,9 +91,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.08,
+    "duration_sec": 0.24,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "ap_business",
@@ -103,9 +103,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.21,
+    "duration_sec": 0.95,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "cninfo_announcement",
@@ -115,9 +115,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 9.35,
+    "duration_sec": 6.4,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "sse_disclosure",
@@ -127,9 +127,9 @@
     "relevant_count": 9,
     "body_fetched_count": 10,
     "body_failed_count": 0,
-    "duration_sec": 18.53,
+    "duration_sec": 18.89,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "szse_disclosure",
@@ -139,9 +139,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 3.26,
+    "duration_sec": 3.65,
     "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "ccgp_purchase",
@@ -151,9 +151,9 @@
     "relevant_count": 12,
     "body_fetched_count": 12,
     "body_failed_count": 0,
-    "duration_sec": 12.18,
+    "duration_sec": 15.35,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "customs_stats",
@@ -163,9 +163,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.77,
+    "duration_sec": 1.48,
     "error": "<HTTPError 412: 'Precondition Failed'>",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "mofcom_news",
@@ -175,9 +175,9 @@
     "relevant_count": 4,
     "body_fetched_count": 3,
     "body_failed_count": 1,
-    "duration_sec": 4.51,
+    "duration_sec": 4.55,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "caam_news",
@@ -187,9 +187,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.5,
+    "duration_sec": 1.66,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "cpia_news",
@@ -199,9 +199,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 3.14,
+    "duration_sec": 3.58,
     "error": "<HTTPError 404: 'Not Found'>",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   },
   {
     "source_id": "csrc_news",
@@ -211,8 +211,8 @@
     "relevant_count": 3,
     "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 3.53,
+    "duration_sec": 3.65,
     "error": "",
-    "checked_at": "2026-06-22T22:30:13.360076Z"
+    "checked_at": "2026-06-22T23:58:55.663348Z"
   }
 ]
