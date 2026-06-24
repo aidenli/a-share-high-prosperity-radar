@@ -6,31 +6,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 19,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
-      {
-        "title": "松原市中心医院（松原市儿童医院）医疗设备以旧换新建设项目中标(成交)结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260624_26803095.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -104,31 +87,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 19,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
-      {
-        "title": "松原市中心医院（松原市儿童医院）医疗设备以旧换新建设项目中标(成交)结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260624_26803095.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -202,31 +168,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 19,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
-      {
-        "title": "松原市中心医院（松原市儿童医院）医疗设备以旧换新建设项目中标(成交)结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260624_26803095.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -300,31 +249,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 19,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
     ],
     "signals": [
-      {
-        "title": "松原市中心医院（松原市儿童医院）医疗设备以旧换新建设项目中标(成交)结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260624_26803095.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
@@ -385,6 +317,118 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海高等研究院建模服务器公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260624_26807799.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海高等研究院建模服务器公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260624_26807799.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海高等研究院建模服务器公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260624_26807799.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海高等研究院建模服务器公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260624_26807799.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
           ]
         },
         "risk_hits": []
