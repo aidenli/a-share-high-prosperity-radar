@@ -322,5 +322,113 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "汇川技术",
+    "code": "300124.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院地质与地球物理研究所传感器部件加工及试验组件采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260625_26816447.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "秦川机床",
+    "code": "000837.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院地质与地球物理研究所传感器部件加工及试验组件采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260625_26816447.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "绿的谐波",
+    "code": "688017.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院地质与地球物理研究所传感器部件加工及试验组件采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260625_26816447.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "鸣志电器",
+    "code": "603728.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院地质与地球物理研究所传感器部件加工及试验组件采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260625_26816447.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
