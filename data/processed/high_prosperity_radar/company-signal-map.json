@@ -322,5 +322,117 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "贵州省气象数据中心（贵州省气象探测中心、贵州省气象档案馆）2025年贵州X波段天气雷达建设项...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260625_26810538.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "贵州省气象数据中心（贵州省气象探测中心、贵州省气象档案馆）2025年贵州X波段天气雷达建设项...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260625_26810538.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "贵州省气象数据中心（贵州省气象探测中心、贵州省气象档案馆）2025年贵州X波段天气雷达建设项...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260625_26810538.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "贵州省气象数据中心（贵州省气象探测中心、贵州省气象档案馆）2025年贵州X波段天气雷达建设项...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260625_26810538.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
