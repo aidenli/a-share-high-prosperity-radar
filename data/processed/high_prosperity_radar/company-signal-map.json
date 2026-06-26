@@ -1,269 +1,5 @@
 [
   {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 4,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十七、十八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827183.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（九至十五标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827182.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（一至八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827180.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十六标段）的废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202606/t20260626_26827179.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 4,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十七、十八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827183.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（九至十五标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827182.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（一至八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827180.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十六标段）的废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202606/t20260626_26827179.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 4,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十七、十八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827183.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（九至十五标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827182.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（一至八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827180.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十六标段）的废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202606/t20260626_26827179.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 4,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十七、十八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827183.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（九至十五标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827182.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（一至八标段）中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260626_26827180.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "青铜峡市树新林场2026年公益林管护项目（十六标段）的废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202606/t20260626_26827179.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
     "name": "格力电器",
     "code": "000651.SZ",
     "theme": "消费出海",
@@ -588,110 +324,118 @@
     ]
   },
   {
-    "name": "平高电气",
-    "code": "600312.SH",
-    "theme": "电力储能",
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
     "products": [
-      "电网设备/变压器"
+      "铜/铝/稀土等资源品"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 8,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "中国地质大学（武汉）水电基础设施改造-10KV中心配电室改造评标结果公示",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260626_26827099.htm",
-        "net_score": 12,
-        "evidence_level": "B",
+        "title": "青海区域医疗中心X射线乳腺钼靶采购项目 终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/fblbgg/202606/t20260626_26827979.htm",
+        "net_score": 8,
+        "evidence_level": "C",
         "signal_hits": {
           "demand_strong": [
             "采购"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
   {
-    "name": "思源电气",
-    "code": "002028.SZ",
-    "theme": "电力储能",
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
     "products": [
-      "电网设备/变压器"
+      "铜/铝/稀土等资源品"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 8,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "中国地质大学（武汉）水电基础设施改造-10KV中心配电室改造评标结果公示",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260626_26827099.htm",
-        "net_score": 12,
-        "evidence_level": "B",
+        "title": "青海区域医疗中心X射线乳腺钼靶采购项目 终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/fblbgg/202606/t20260626_26827979.htm",
+        "net_score": 8,
+        "evidence_level": "C",
         "signal_hits": {
           "demand_strong": [
             "采购"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
   {
-    "name": "特变电工",
-    "code": "600089.SH",
-    "theme": "电力储能",
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
     "products": [
-      "电网设备/变压器"
+      "铜/铝/稀土等资源品"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 8,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "中国地质大学（武汉）水电基础设施改造-10KV中心配电室改造评标结果公示",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260626_26827099.htm",
-        "net_score": 12,
-        "evidence_level": "B",
+        "title": "青海区域医疗中心X射线乳腺钼靶采购项目 终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/fblbgg/202606/t20260626_26827979.htm",
+        "net_score": 8,
+        "evidence_level": "C",
         "signal_hits": {
           "demand_strong": [
             "采购"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
   {
-    "name": "许继电气",
-    "code": "000400.SZ",
-    "theme": "电力储能",
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
     "products": [
-      "电网设备/变压器"
+      "铜/铝/稀土等资源品"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 8,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "中国地质大学（武汉）水电基础设施改造-10KV中心配电室改造评标结果公示",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260626_26827099.htm",
-        "net_score": 12,
-        "evidence_level": "B",
+        "title": "青海区域医疗中心X射线乳腺钼靶采购项目 终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/fblbgg/202606/t20260626_26827979.htm",
+        "net_score": 8,
+        "evidence_level": "C",
         "signal_hits": {
           "demand_strong": [
             "采购"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   }
