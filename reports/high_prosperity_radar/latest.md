@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-06-27T06:19:55.315839Z
+生成时间：2026-06-27T09:21:38.553801Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,9 +18,9 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
 | 巨潮资讯-公告检索页 | ok | 19 | 1 | 1 |  |
-| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
+| 上交所-披露公告 | ok | 40 | 9 | 8 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
-| 中国政府采购网-采购公告 | ok | 21 | 13 | 13 |  |
+| 中国政府采购网-采购公告 | ok | 21 | 11 | 11 |  |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
 | 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
@@ -69,17 +69,7 @@
 - 风险词：无
 - 链接：https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/
 
-### 5. 厦门中实-公开招标-2026-ZS3303[2026CGZXGKZB0007]-部分学生宿舍楼家具改造专项-采购公告
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=14, signal=12, risk=0, 证据等级=B, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"], "policy_support": ["专项"]}
-- 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260627_26828006.htm
-
-### 6. 图表：我国发电装机突破40亿千瓦 位居全球首位
+### 5. 图表：我国发电装机突破40亿千瓦 位居全球首位
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=13, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -89,7 +79,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7073272.htm
 
-### 7. 我国自主研制的载人飞艇AS700首架交付即将开启商业运营
+### 6. 我国自主研制的载人飞艇AS700首架交付即将开启商业运营
 - 来源：工信部-新闻动态 / A1 / CN
 - 分数：net=13, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -98,6 +88,16 @@
 - 命中：{"demand_strong": ["交付", "订单"]}
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html
+
+### 7. 华中科技大学同济医学院附属协和医院泌尿外科复合陡脉冲治疗设备1台公开招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260627_26828526.htm
 
 ### 8. 种子保藏科研用房防渗维修及消防改造公开招标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
@@ -109,37 +109,7 @@
 - 风险词：无
 - 链接：http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260627_26828378.htm
 
-### 9. 浙江师范大学关于2026年中文纸质图书中标(成交)结果公告
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"demand_strong": ["中标", "采购"]}
-- 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26828431.htm
-
-### 10. 浙江建科工程项目管理有限公司关于萧山三职AIGC数字内容创作实训室建设项目的公开招标公告
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
-- 主题：AI算力
-- 产品映射：无
-- 公司映射：无
-- 命中：{"demand_strong": ["招标", "采购"]}
-- 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26828430.htm
-
-### 11. 上海市徐汇区政府采购中心——上海市徐汇区教育局田林中学等学校修缮改造配套弱电采购（第二...
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"demand_strong": ["中标", "采购"]}
-- 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26828429.htm
-
-### 12. 浙江泛亚工程咨询有限公司关于2026年花港管理处绿化养护及其他服务项目的公开招标公告
+### 9. 三门县熠橙工程管理有限公司关于三门县沙柳街道集镇区卫生保洁服务项目的公开招标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -147,9 +117,39 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["招标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26828428.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26829086.htm
 
-### 13. 浙江华夏工程管理有限公司关于嘉善县第二实验小学2026年度学校校舍常规维修中标(成交)结果公告
+### 10. 浙江豪圣建设项目管理有限公司关于浙大城市学院图形工作站,图形工作站（一体机）的公开招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26829076.htm
+
+### 11. 兴庆区机关事务服务中心兴庆区机关餐厅食材配送服务五、六、七、八标段项目招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26829075.htm
+
+### 12. 二堡镇固体废物清理整治项目（二次）公开招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26829074.htm
+
+### 13. 芜湖市司法局购买合法性审查行政复议工作服务采购（一包）中标结果公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -157,27 +157,27 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["中标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26828425.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26829061.htm
 
-### 14. 浙江省房地产管理咨询有限公司关于杭州萧山技师学院2026年教职工疗休养项目中标(成交)结果公告
+### 14. 芜湖职业技术大学2026年新生军训服装采购项目招标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["中标", "采购"]}
+- 命中：{"demand_strong": ["招标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26828427.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26829048.htm
 
-### 15. 浙江华耀建设咨询有限公司关于湖州青塘高中运动场面层采购项目中标(成交)结果公告
+### 15. 鸠江经济开发区黑鱼西沟水体养护项目招标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["中标", "采购"]}
+- 命中：{"demand_strong": ["招标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26828422.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26829047.htm
 
 ### 16. 2023－2024年中国家电行业品牌评价结果发布
 - 来源：工信部-新闻动态 / A1 / CN
@@ -309,25 +309,25 @@
 - 风险词：无
 - 链接：http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260627_26828381.htm
 
-### 29. 中华人民共和国珠海海事局物业管理服务采购项目（第二次）成交公告
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
+### 29. 上市公司嵌入
+- 来源：巨潮资讯-公告检索页 / A1 / CN
+- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["采购"]}
+- 命中：{"new_product": ["上市"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260627_26828214.htm
+- 链接：http://webapi.cninfo.com.cn/
 
-### 30. 上海市华东模范中学深化数智化校园建设项目的采购公告更正公告
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
+### 30. 关于上市审核中心
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=否
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"demand_strong": ["采购"]}
+- 命中：{"new_product": ["上市"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202606/t20260627_26828423.htm
+- 链接：https://www.sse.com.cn/listing/aboutus/home/
 
 ## 3. 合并故事线
 
@@ -339,8 +339,8 @@
 - 风险提示：无
 - 代表线索：
   - [我国自主研制的载人飞艇AS700首架交付即将开启商业运营](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html)（工信部-新闻动态，net=13）
+  - [华中科技大学同济医学院附属协和医院泌尿外科复合陡脉冲治疗设备1台公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260627_26828526.htm)（中国政府采购网-采购公告，net=12）
   - [种子保藏科研用房防渗维修及消防改造公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260627_26828378.htm)（中国政府采购网-采购公告，net=12）
-  - [浙江师范大学关于2026年中文纸质图书中标(成交)结果公告](http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260627_26828431.htm)（中国政府采购网-采购公告，net=12）
 
 ### 2. 未分类 / demand_strong+new_product
 - 故事分：50
@@ -353,18 +353,7 @@
   - [图表：我国发电装机突破40亿千瓦 位居全球首位](https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7073272.htm)（中国政府网-政策，net=13）
   - [REITs发行上市一件事](https://one.sse.com.cn/onething/reits/)（上交所-披露公告，net=5）
 
-### 3. 未分类 / new_product+policy_support
-- 故事分：48
-- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：终止
-- 代表线索：
-  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
-  - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
-  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
-
-### 4. 消费出海 / policy_support
+### 3. 消费出海 / policy_support
 - 故事分：45
 - 来源数：3，来源：商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
 - 产品：家电以旧换新/出海
@@ -375,6 +364,17 @@
   - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（工信部-新闻动态，net=10）
   - [消费品以旧换新](http://scyxs.mofcom.gov.cn/xfpyjhx/index.html)（商务部-新闻发布，net=10）
 
+### 4. 未分类 / new_product+policy_support
+- 故事分：42
+- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：无
+- 代表线索：
+  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
+  - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
+  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
+
 ### 5. 未分类 / new_product
 - 故事分：39
 - 来源数：3，来源：上交所-披露公告, 巨潮资讯-公告检索页, 证监会-新闻发布
@@ -383,8 +383,8 @@
 - 风险提示：无
 - 代表线索：
   - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
+  - [关于上市审核中心](https://www.sse.com.cn/listing/aboutus/home/)（上交所-披露公告，net=6）
   - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
-  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
 
 ### 6. 未分类 / policy_support
 - 故事分：38
@@ -415,25 +415,7 @@
 - 代表线索：
   - [李强主持召开国务院常务会议 研究促进创业投资发展的有关举措等](https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html)（工信部-新闻动态，net=17）
 
-### 9. 未分类 / demand_strong+policy_support
-- 故事分：17
-- 来源数：1，来源：中国政府采购网-采购公告
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [厦门中实-公开招标-2026-ZS3303[2026CGZXGKZB0007]-部分学生宿舍楼家具改造专项-采购公告](http://www.ccgp.gov.cn/cggg/zygg/qtgg/202606/t20260627_26828006.htm)（中国政府采购网-采购公告，net=14）
-
-### 10. AI算力 / demand_strong
-- 故事分：15
-- 来源数：1，来源：中国政府采购网-采购公告
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [浙江建科工程项目管理有限公司关于萧山三职AIGC数字内容创作实训室建设项目的公开招标公告](http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260627_26828430.htm)（中国政府采购网-采购公告，net=12）
-
-### 11. 未分类 / high_prosperity+policy_support
+### 9. 未分类 / high_prosperity+policy_support
 - 故事分：12
 - 来源数：1，来源：国家发改委-新闻动态
 - 产品：无
@@ -442,7 +424,7 @@
 - 代表线索：
   - [关于印发《生态保护修复领域中央预算内投资专项管理办法》的通知](https://www.ndrc.gov.cn/xwdt/tzgg/202606/t20260608_1405756.html)（国家发改委-新闻动态，net=9）
 
-### 12. AI算力 / policy_support
+### 10. AI算力 / policy_support
 - 故事分：12
 - 来源数：1，来源：商务部-新闻发布
 - 产品：无
