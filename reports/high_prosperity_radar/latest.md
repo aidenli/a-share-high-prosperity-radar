@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-06-28T06:52:57.954602Z
+生成时间：2026-06-28T09:51:36.636468Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,9 +18,9 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
 | 巨潮资讯-公告检索页 | ok | 19 | 1 | 1 |  |
-| 上交所-披露公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
+| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
-| 中国政府采购网-采购公告 | ok | 21 | 7 | 7 |  |
+| 中国政府采购网-采购公告 | ok | 21 | 9 | 9 |  |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
 | 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
@@ -129,7 +129,37 @@
 - 风险词：无
 - 链接：http://www.ccgp.gov.cn/cggg/zygg/zbgg/202606/t20260628_26829923.htm
 
-### 11. 2023－2024年中国家电行业品牌评价结果发布
+### 11. 内蒙古自治区计量测试研究院2026年专业计量设备采购项目招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260628_26830122.htm
+
+### 12. 曲靖市马龙区教育体育系统公办学校食堂大宗食材及辅料采购配送项目公开招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260628_26830118.htm
+
+### 13. AI赋能智改数转平台建设项目公开招标公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 主题：AI算力
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["招标", "采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260628_26830111.htm
+
+### 14. 2023－2024年中国家电行业品牌评价结果发布
 - 来源：工信部-新闻动态 / A1 / CN
 - 分数：net=10, signal=2, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海
@@ -139,7 +169,27 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html
 
-### 12. 消费品以旧换新
+### 15. 企业上市服务
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["上市"], "policy_support": ["支持", "政策"]}
+- 风险词：无
+- 链接：https://www.sse.com.cn/services/listingwithsse/home/
+
+### 16. 交易技术支持专区
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["上市"], "policy_support": ["support", "支持"]}
+- 风险词：无
+- 链接：https://www.sse.com.cn/services/tradingtech/notice/
+
+### 17. 消费品以旧换新
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=10, signal=2, risk=0, 证据等级=C, 正文抓取=否
 - 主题：消费出海
@@ -149,7 +199,7 @@
 - 风险词：无
 - 链接：http://scyxs.mofcom.gov.cn/xfpyjhx/index.html
 
-### 13. 关于印发《生态保护修复领域中央预算内投资专项管理办法》的通知
+### 18. 关于印发《生态保护修复领域中央预算内投资专项管理办法》的通知
 - 来源：国家发改委-新闻动态 / A1 / CN
 - 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -159,7 +209,7 @@
 - 风险词：无
 - 链接：https://www.ndrc.gov.cn/xwdt/tzgg/202606/t20260608_1405756.html
 
-### 14. 稳外贸稳外资政策措施
+### 19. 稳外贸稳外资政策措施
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
 - 主题：AI算力, 消费出海, 资源品涨价
@@ -169,7 +219,7 @@
 - 风险词：无
 - 链接：http://www.mofcom.gov.cn/zcfb/wwmwwzzccs/index.html
 
-### 15. 2026年5月中国采购经理指数运行情况
+### 20. 2026年5月中国采购经理指数运行情况
 - 来源：国家统计局-数据发布 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -179,7 +229,17 @@
 - 风险词：无
 - 链接：https://www.stats.gov.cn/sj/zxfb/202605/t20260531_1963824.html
 
-### 16. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
+### 21. 债券发行上市一件事
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["上市"], "policy_support": ["支持"]}
+- 风险词：无
+- 链接：https://one.sse.com.cn/onething/zqfx/
+
+### 22. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
 - 来源：证监会-新闻发布 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -189,7 +249,7 @@
 - 风险词：无
 - 链接：http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml
 
-### 17. 国务院关于印发《加快农业农村现代化“十五五”规划》的通知
+### 23. 国务院关于印发《加快农业农村现代化“十五五”规划》的通知
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -199,7 +259,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/content/202606/content_7070901.htm
 
-### 18. 国家发展改革委相关工作负责同志参加国务院政策例行吹风会 介绍《城市更新“十五五”规划》有...
+### 24. 国家发展改革委相关工作负责同志参加国务院政策例行吹风会 介绍《城市更新“十五五”规划》有...
 - 来源：国家发改委-新闻动态 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -209,7 +269,7 @@
 - 风险词：无
 - 链接：http://www.china.com.cn/zhibo/content_118531198.htm
 
-### 19. 中国科学院大气物理研究所大气常规污染物监测系统采购项目竞争性磋商
+### 25. 昌吉州消防救援支队2026年度支队本级车辆维修保养定点服务采购项目（二次）竞争性磋商公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -217,9 +277,9 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202606/t20260627_26829387.htm
+- 链接：http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202606/t20260628_26830095.htm
 
-### 20. 农产品加工厂建设项目结果公告（采购包1）
+### 26. 富锦市环境卫生服务中心新建路停车场采购装配式公共卫生间(三次)竞争性谈判公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -227,19 +287,9 @@
 - 公司映射：无
 - 命中：{"demand_strong": ["采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202606/t20260628_26829988.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202606/t20260628_26830116.htm
 
-### 21. 农产品加工厂建设项目结果公告（采购包2）
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"demand_strong": ["采购"]}
-- 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202606/t20260628_26829986.htm
-
-### 22. 上市公司嵌入
+### 27. 上市公司嵌入
 - 来源：巨潮资讯-公告检索页 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -249,90 +299,40 @@
 - 风险词：无
 - 链接：http://webapi.cninfo.com.cn/
 
-### 23. 中国证监会原发审委委员、上海证券交易所原科创板上市审核中心副主任操舰严重违纪违法被开除党籍和公职
-- 来源：证监会-新闻发布 / A1 / CN
+### 28. 关于上市审核中心
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=6, signal=7, risk=4, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["上市"], "policy_support": ["政策", "规划"]}
+- 风险词：终止
+- 链接：https://www.sse.com.cn/listing/aboutus/home/
+
+### 29. 上市公司信息
+- 来源：上交所-披露公告 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
 - 命中：{"new_product": ["上市"]}
 - 风险词：无
-- 链接：http://www.csrc.gov.cn/csrc/c100028/c1605559/content.shtml
+- 链接：https://www.sse.com.cn/disclosure/listedinfo/announcement/
 
-### 24. 证监会就上市公司监管法规体系整合涉及相关规则公开征求意见
-- 来源：证监会-新闻发布 / A1 / CN
+### 30. 上市公司监管
+- 来源：上交所-披露公告 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
 - 命中：{"new_product": ["上市"]}
 - 风险词：无
-- 链接：http://www.csrc.gov.cn/csrc/c100028/c1556032/content.shtml
-
-### 25. 国务院办公厅关于进一步完善大中型水库移民后期扶持政策的通知
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["政策"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/content/202606/content_7073259.htm
-
-### 26. 国务院关于印发《实施就业优先战略“十五五”规划》的通知
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["规划"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/content/202606/content_7072481.htm
-
-### 27. 国务院关于印发《现代化应急体系建设“十五五”规划》的通知
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["规划"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/content/202606/content_7071451.htm
-
-### 28. 国办关于加强监管防范风险促进私募投资基金高质量发展的指导意见
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["促进"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/content/202606/content_7071204.htm
-
-### 29. 国家发展改革委、人力资源社会保障部有关负责人就《实施就业优先战略“十五五”规划》答记者问
-- 来源：国家发改委-新闻动态 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["规划"]}
-- 风险词：无
-- 链接：https://www.ndrc.gov.cn/xwdt/xwfb/202606/t20260618_1405994.html
-
-### 30. 关于印发《新型能源体系建设“十五五”规划》的通知
-- 来源：国家发改委-新闻动态 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["规划"]}
-- 风险词：无
-- 链接：https://www.ndrc.gov.cn/xwdt/tzgg/202606/t20260625_1406081.html
+- 链接：https://www.sse.com.cn/regulation/supervision/dynamic/
 
 ## 3. 合并故事线
 
 ### 1. 未分类 / demand_strong
-- 故事分：66
+- 故事分：70
 - 来源数：3，来源：中国政府采购网-采购公告, 国家统计局-数据发布, 工信部-新闻动态
 - 产品：无
 - 公司：无
@@ -342,7 +342,29 @@
   - [国家税务总局西藏拉萨经济技术开发区税务局办公区及税务小区物业管理服务采购项目公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260628_26829968.htm)（中国政府采购网-采购公告，net=12）
   - [国家税务总局林芝市税务局2026年机关物业管理服务采购项目公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260628_26829939.htm)（中国政府采购网-采购公告，net=12）
 
-### 2. 消费出海 / policy_support
+### 2. 未分类 / demand_strong+new_product
+- 故事分：50
+- 来源数：3，来源：上交所-披露公告, 中国政府网-政策, 工信部-新闻动态
+- 产品：无
+- 公司：无
+- 风险提示：延期, 终止
+- 代表线索：
+  - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
+  - [图表：我国发电装机突破40亿千瓦 位居全球首位](https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7073272.htm)（中国政府网-政策，net=13）
+  - [REITs发行上市一件事](https://one.sse.com.cn/onething/reits/)（上交所-披露公告，net=5）
+
+### 3. 未分类 / new_product+policy_support
+- 故事分：48
+- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：终止
+- 代表线索：
+  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
+  - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
+  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
+
+### 4. 消费出海 / policy_support
 - 故事分：45
 - 来源数：3，来源：商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
 - 产品：家电以旧换新/出海
@@ -353,17 +375,18 @@
   - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（工信部-新闻动态，net=10）
   - [消费品以旧换新](http://scyxs.mofcom.gov.cn/xfpyjhx/index.html)（商务部-新闻发布，net=10）
 
-### 3. 未分类 / demand_strong+new_product
-- 故事分：42
-- 来源数：2，来源：中国政府网-政策, 工信部-新闻动态
+### 5. 未分类 / new_product
+- 故事分：39
+- 来源数：3，来源：上交所-披露公告, 巨潮资讯-公告检索页, 证监会-新闻发布
 - 产品：无
 - 公司：无
 - 风险提示：无
 - 代表线索：
-  - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
-  - [图表：我国发电装机突破40亿千瓦 位居全球首位](https://www.gov.cn/zhengce/jiedu/tujie/202606/content_7073272.htm)（中国政府网-政策，net=13）
+  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
+  - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
+  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
 
-### 4. 未分类 / policy_support
+### 6. 未分类 / policy_support
 - 故事分：38
 - 来源数：3，来源：中国政府网-政策, 商务部-新闻发布, 国家发改委-新闻动态
 - 产品：无
@@ -374,18 +397,7 @@
   - [国家发展改革委相关工作负责同志参加国务院政策例行吹风会 介绍《城市更新“十五五”规划》有...](http://www.china.com.cn/zhibo/content_118531198.htm)（国家发改委-新闻动态，net=7）
   - [国务院办公厅关于进一步完善大中型水库移民后期扶持政策的通知](https://www.gov.cn/zhengce/content/202606/content_7073259.htm)（中国政府网-政策，net=5）
 
-### 5. 未分类 / new_product
-- 故事分：24
-- 来源数：2，来源：巨潮资讯-公告检索页, 证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
-  - [中国证监会原发审委委员、上海证券交易所原科创板上市审核中心副主任操舰严重违纪违法被开除党籍和公职](http://www.csrc.gov.cn/csrc/c100028/c1605559/content.shtml)（证监会-新闻发布，net=6）
-  - [证监会就上市公司监管法规体系整合涉及相关规则公开征求意见](http://www.csrc.gov.cn/csrc/c100028/c1556032/content.shtml)（证监会-新闻发布，net=6）
-
-### 6. AI算力 / new_product+policy_support
+### 7. AI算力 / new_product+policy_support
 - 故事分：22
 - 来源数：1，来源：商务部-新闻发布
 - 产品：家电以旧换新/出海
@@ -394,7 +406,7 @@
 - 代表线索：
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（商务部-新闻发布，net=17）
 
-### 7. 消费出海 / new_product+policy_support
+### 8. 消费出海 / new_product+policy_support
 - 故事分：20
 - 来源数：1，来源：工信部-新闻动态
 - 产品：无
@@ -403,7 +415,7 @@
 - 代表线索：
   - [李强主持召开国务院常务会议 研究促进创业投资发展的有关举措等](https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html)（工信部-新闻动态，net=17）
 
-### 8. 未分类 / demand_strong+policy_support
+### 9. 未分类 / demand_strong+policy_support
 - 故事分：17
 - 来源数：1，来源：中国政府采购网-采购公告
 - 产品：无
@@ -412,7 +424,16 @@
 - 代表线索：
   - [华东师范大学校园监控设备更新项目公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202606/t20260628_26829948.htm)（中国政府采购网-采购公告，net=14）
 
-### 9. 未分类 / high_prosperity+policy_support
+### 10. AI算力 / demand_strong
+- 故事分：15
+- 来源数：1，来源：中国政府采购网-采购公告
+- 产品：无
+- 公司：无
+- 风险提示：无
+- 代表线索：
+  - [AI赋能智改数转平台建设项目公开招标公告](http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260628_26830111.htm)（中国政府采购网-采购公告，net=12）
+
+### 11. 未分类 / high_prosperity+policy_support
 - 故事分：12
 - 来源数：1，来源：国家发改委-新闻动态
 - 产品：无
@@ -421,7 +442,7 @@
 - 代表线索：
   - [关于印发《生态保护修复领域中央预算内投资专项管理办法》的通知](https://www.ndrc.gov.cn/xwdt/tzgg/202606/t20260608_1405756.html)（国家发改委-新闻动态，net=9）
 
-### 10. AI算力 / policy_support
+### 12. AI算力 / policy_support
 - 故事分：12
 - 来源数：1，来源：商务部-新闻发布
 - 产品：无
@@ -429,15 +450,6 @@
 - 风险提示：无
 - 代表线索：
   - [稳外贸稳外资政策措施](http://www.mofcom.gov.cn/zcfb/wwmwwzzccs/index.html)（商务部-新闻发布，net=9）
-
-### 11. 未分类 / new_product+policy_support
-- 故事分：11
-- 来源数：1，来源：证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [证监会组织开展“读懂上市公司报告”投资者教育专项活动](http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml)（证监会-新闻发布，net=8）
 
 ## 4. 公司线索映射
 
