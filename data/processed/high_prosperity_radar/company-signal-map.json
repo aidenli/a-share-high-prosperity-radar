@@ -1,5 +1,129 @@
 [
   {
+    "name": "平高电气",
+    "code": "600312.SH",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国美术学院象山校区配电房设备更新采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26846233.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "思源电气",
+    "code": "002028.SZ",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国美术学院象山校区配电房设备更新采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26846233.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "特变电工",
+    "code": "600089.SH",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国美术学院象山校区配电房设备更新采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26846233.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "许继电气",
+    "code": "000400.SZ",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国美术学院象山校区配电房设备更新采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26846233.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "格力电器",
     "code": "000651.SZ",
     "theme": "消费出海",
@@ -317,114 +441,6 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中微公司",
-    "code": "688012.SH",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "北方华创",
-    "code": "002371.SZ",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "拓荆科技",
-    "code": "688072.SH",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "盛美上海",
-    "code": "688082.SH",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
