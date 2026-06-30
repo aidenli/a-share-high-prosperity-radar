@@ -324,26 +324,25 @@
     ]
   },
   {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
+    "name": "中微公司",
+    "code": "688012.SH",
+    "theme": "半导体",
     "products": [
-      "铜/铝/稀土等资源品"
+      "半导体设备"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜仁市林业局关于铜仁市2026年中央林业草原改革发展资金（林业有害生物防治补助）项目松材线...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26840389.htm",
-        "net_score": 17,
+        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
@@ -352,26 +351,25 @@
     ]
   },
   {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
+    "name": "北方华创",
+    "code": "002371.SZ",
+    "theme": "半导体",
     "products": [
-      "铜/铝/稀土等资源品"
+      "半导体设备"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜仁市林业局关于铜仁市2026年中央林业草原改革发展资金（林业有害生物防治补助）项目松材线...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26840389.htm",
-        "net_score": 17,
+        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
@@ -380,26 +378,25 @@
     ]
   },
   {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
+    "name": "拓荆科技",
+    "code": "688072.SH",
+    "theme": "半导体",
     "products": [
-      "铜/铝/稀土等资源品"
+      "半导体设备"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜仁市林业局关于铜仁市2026年中央林业草原改革发展资金（林业有害生物防治补助）项目松材线...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26840389.htm",
-        "net_score": 17,
+        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
@@ -408,26 +405,25 @@
     ]
   },
   {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
+    "name": "盛美上海",
+    "code": "688082.SH",
+    "theme": "半导体",
     "products": [
-      "铜/铝/稀土等资源品"
+      "半导体设备"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜仁市林业局关于铜仁市2026年中央林业草原改革发展资金（林业有害生物防治补助）项目松材线...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202606/t20260630_26840389.htm",
-        "net_score": 17,
+        "title": "zycgr24041501关于二维半导体先导技术研发装置实验室设备二次配工程的成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202606/t20260630_26844973.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
