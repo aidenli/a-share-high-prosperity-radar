@@ -322,5 +322,113 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中微公司",
+    "code": "688012.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学罗山校区半导体学院项目图书馆家具采购的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260703_26863337.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方华创",
+    "code": "002371.SZ",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学罗山校区半导体学院项目图书馆家具采购的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260703_26863337.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "拓荆科技",
+    "code": "688072.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学罗山校区半导体学院项目图书馆家具采购的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260703_26863337.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "盛美上海",
+    "code": "688082.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "关于南方科技大学罗山校区半导体学院项目图书馆家具采购的更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260703_26863337.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
