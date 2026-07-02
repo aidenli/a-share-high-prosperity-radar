@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-07-02T21:57:43.308347Z
+生成时间：2026-07-02T23:00:57.254638Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,9 +18,9 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
 | 巨潮资讯-公告检索页 | ok | 19 | 1 | 1 |  |
-| 上交所-披露公告 | error | 0 | 0 | 0 | URLError(OSError(101, 'Network is unreachable')) |
+| 上交所-披露公告 | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
-| 中国政府采购网-采购公告 | ok | 21 | 15 | 15 |  |
+| 中国政府采购网-采购公告 | ok | 21 | 15 | 14 |  |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
 | 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
@@ -81,7 +81,7 @@
 
 ### 6. 中国科学院光电技术研究所模板表面平坦化处理设备采购项目公开招标公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 分数：net=12, signal=10, risk=0, 证据等级=B, 正文抓取=否
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
