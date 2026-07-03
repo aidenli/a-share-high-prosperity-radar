@@ -43,7 +43,6 @@
         "evidence_level": "B",
         "signal_hits": {
           "policy_support": [
-            "产业升级",
             "以旧换新",
             "推动",
             "支持",
@@ -124,7 +123,6 @@
         "evidence_level": "B",
         "signal_hits": {
           "policy_support": [
-            "产业升级",
             "以旧换新",
             "推动",
             "支持",
@@ -205,7 +203,6 @@
         "evidence_level": "B",
         "signal_hits": {
           "policy_support": [
-            "产业升级",
             "以旧换新",
             "推动",
             "支持",
@@ -286,7 +283,6 @@
         "evidence_level": "B",
         "signal_hits": {
           "policy_support": [
-            "产业升级",
             "以旧换新",
             "推动",
             "支持",
@@ -317,114 +313,6 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中科曙光",
-    "code": "603019.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院大学第二轮高性能GPU、CPU算力服务采购项目更正公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260703_26867878.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "工业富联",
-    "code": "601138.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院大学第二轮高性能GPU、CPU算力服务采购项目更正公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260703_26867878.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "浪潮信息",
-    "code": "000977.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院大学第二轮高性能GPU、CPU算力服务采购项目更正公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260703_26867878.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫光股份",
-    "code": "000938.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 12,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院大学第二轮高性能GPU、CPU算力服务采购项目更正公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260703_26867878.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
