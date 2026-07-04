@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-07-04T16:51:06.643304Z
+生成时间：2026-07-04T17:54:54.205190Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -49,15 +49,15 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html
 
-### 3. 江西卓谨招标代理有限公司关于赣县区花样年华幼儿园空调设备采购(项目编号:JXZJ2026-GZ-J001 ...
+### 3. 浙江省成套招标代理有限公司关于农业资源与环境实验室一期建设项目中标(成交)结果公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=17, signal=10, risk=0, 证据等级=B, 正文抓取=是
+- 分数：net=17, signal=15, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
-- 产品映射：家电以旧换新/出海
-- 公司映射：格力电器, 海尔智家, 石头科技, 美的集团
-- 命中：{"demand_strong": ["招标", "采购"]}
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["中标", "招标", "采购"]}
 - 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202607/t20260704_26874074.htm
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260705_26874086.htm
 
 ### 4. 提振消费专项行动 政策集成和综合解读专栏
 - 来源：商务部-新闻发布 / A1 / CN
@@ -289,7 +289,17 @@
 - 风险词：无
 - 链接：http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260703_26871802.htm
 
-### 27. 云冈研究院竞争性磋商云冈石窟地下安全勘测及影响评价项目监理服务的采购公告
+### 27. 关于深圳理工大学总医院劳保办公用品及应急物资采购更正公告
+- 来源：中国政府采购网-采购公告 / A2 / CN
+- 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["采购"]}
+- 风险词：无
+- 链接：http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260705_26874084.htm
+
+### 28. 云冈研究院竞争性磋商云冈石窟地下安全勘测及影响评价项目监理服务的采购公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -299,7 +309,7 @@
 - 风险词：无
 - 链接：http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260705_26874076.htm
 
-### 28. 云冈研究院竞争性磋商云冈石窟地下安全勘测及影响评价项目跟踪审计服务的采购公告
+### 29. 云冈研究院竞争性磋商云冈石窟地下安全勘测及影响评价项目跟踪审计服务的采购公告
 - 来源：中国政府采购网-采购公告 / A2 / CN
 - 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -308,16 +318,6 @@
 - 命中：{"demand_strong": ["采购"]}
 - 风险词：无
 - 链接：http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260705_26874077.htm
-
-### 29. 山西省水利厅水土保持率目标值核定的采购公告
-- 来源：中国政府采购网-采购公告 / A2 / CN
-- 分数：net=7, signal=5, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"demand_strong": ["采购"]}
-- 风险词：无
-- 链接：http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260705_26874078.htm
 
 ### 30. 上市公司嵌入
 - 来源：巨潮资讯-公告检索页 / A1 / CN
@@ -332,15 +332,15 @@
 ## 3. 合并故事线
 
 ### 1. 未分类 / demand_strong
-- 故事分：70
+- 故事分：75
 - 来源数：3，来源：中国政府采购网-采购公告, 国家统计局-数据发布, 工信部-新闻动态
 - 产品：无
 - 公司：无
 - 风险提示：无
 - 代表线索：
+  - [浙江省成套招标代理有限公司关于农业资源与环境实验室一期建设项目中标(成交)结果公告](http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260705_26874086.htm)（中国政府采购网-采购公告，net=17）
   - [我国自主研制的载人飞艇AS700首架交付即将开启商业运营](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html)（工信部-新闻动态，net=13）
   - [中国科学院大气物理研究所环境智能监测装备研发测试平台高性能计算集群采购项目公开招标公告](http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260704_26873247.htm)（中国政府采购网-采购公告，net=12）
-  - [国家税务总局丹阳市税务局2026年食堂食材采购项目中标公告](http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260704_26872633.htm)（中国政府采购网-采购公告，net=12）
 
 ### 2. 未分类 / new_product+policy_support
 - 故事分：48
@@ -396,16 +396,7 @@
   - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
   - [REITs发行上市一件事](https://one.sse.com.cn/onething/reits/)（上交所-披露公告，net=5）
 
-### 7. 家电以旧换新/出海 / demand_strong
-- 故事分：22
-- 来源数：1，来源：中国政府采购网-采购公告
-- 产品：家电以旧换新/出海
-- 公司：格力电器, 海尔智家, 石头科技, 美的集团
-- 风险提示：无
-- 代表线索：
-  - [江西卓谨招标代理有限公司关于赣县区花样年华幼儿园空调设备采购(项目编号:JXZJ2026-GZ-J001 ...](http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202607/t20260704_26874074.htm)（中国政府采购网-采购公告，net=17）
-
-### 8. AI算力 / new_product+policy_support
+### 7. AI算力 / new_product+policy_support
 - 故事分：22
 - 来源数：1，来源：商务部-新闻发布
 - 产品：家电以旧换新/出海
@@ -414,7 +405,7 @@
 - 代表线索：
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（商务部-新闻发布，net=17）
 
-### 9. 消费出海 / new_product+policy_support
+### 8. 消费出海 / new_product+policy_support
 - 故事分：20
 - 来源数：1，来源：工信部-新闻动态
 - 产品：无
@@ -423,7 +414,7 @@
 - 代表线索：
   - [李强主持召开国务院常务会议 研究促进创业投资发展的有关举措等](https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html)（工信部-新闻动态，net=17）
 
-### 10. 消费出海 / high_prosperity+policy_support
+### 9. 消费出海 / high_prosperity+policy_support
 - 故事分：12
 - 来源数：1，来源：中国政府网-政策
 - 产品：无
@@ -432,7 +423,7 @@
 - 代表线索：
   - [图表：2026年前5个月我国服务进出口总额同比增长6%](https://www.gov.cn/zhengce/jiedu/tujie/202607/content_7073999.htm)（中国政府网-政策，net=9）
 
-### 11. 未分类 / high_prosperity+policy_support
+### 10. 未分类 / high_prosperity+policy_support
 - 故事分：12
 - 来源数：1，来源：国家发改委-新闻动态
 - 产品：无
@@ -441,7 +432,7 @@
 - 代表线索：
   - [关于印发《生态保护修复领域中央预算内投资专项管理办法》的通知](https://www.ndrc.gov.cn/xwdt/tzgg/202606/t20260608_1405756.html)（国家发改委-新闻动态，net=9）
 
-### 12. 未分类 / demand_strong+policy_support
+### 11. 未分类 / demand_strong+policy_support
 - 故事分：12
 - 来源数：1，来源：中国政府采购网-采购公告
 - 产品：无
@@ -450,43 +441,52 @@
 - 代表线索：
   - [山西省水利厅国家水土保持重点工程监管技术支持的采购公告](http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260705_26874079.htm)（中国政府采购网-采购公告，net=9）
 
+### 12. AI算力 / policy_support
+- 故事分：12
+- 来源数：1，来源：商务部-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：无
+- 代表线索：
+  - [稳外贸稳外资政策措施](http://www.mofcom.gov.cn/zcfb/wwmwwzzccs/index.html)（商务部-新闻发布，net=9）
+
 ## 4. 公司线索映射
 
 ### 格力电器（000651.SZ）
 - 主题：消费出海
 - 产品：家电以旧换新/出海
-- 信号数：5，最高分：17，来源：中国政府采购网-采购公告, 商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
+- 信号数：4，最高分：17，来源：商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
 - 代表信号：
-  - [江西卓谨招标代理有限公司关于赣县区花样年华幼儿园空调设备采购(项目编号:JXZJ2026-GZ-J001 ...](http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202607/t20260704_26874074.htm)（net=17，B）
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（net=17，B）
   - [推动大规模设备更新和消费品以旧换新](https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/)（net=14，B）
+  - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（net=10，C）
 
 ### 海尔智家（600690.SH）
 - 主题：消费出海
 - 产品：家电以旧换新/出海
-- 信号数：5，最高分：17，来源：中国政府采购网-采购公告, 商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
+- 信号数：4，最高分：17，来源：商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
 - 代表信号：
-  - [江西卓谨招标代理有限公司关于赣县区花样年华幼儿园空调设备采购(项目编号:JXZJ2026-GZ-J001 ...](http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202607/t20260704_26874074.htm)（net=17，B）
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（net=17，B）
   - [推动大规模设备更新和消费品以旧换新](https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/)（net=14，B）
+  - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（net=10，C）
 
 ### 石头科技（688169.SH）
 - 主题：消费出海
 - 产品：家电以旧换新/出海
-- 信号数：5，最高分：17，来源：中国政府采购网-采购公告, 商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
+- 信号数：4，最高分：17，来源：商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
 - 代表信号：
-  - [江西卓谨招标代理有限公司关于赣县区花样年华幼儿园空调设备采购(项目编号:JXZJ2026-GZ-J001 ...](http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202607/t20260704_26874074.htm)（net=17，B）
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（net=17，B）
   - [推动大规模设备更新和消费品以旧换新](https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/)（net=14，B）
+  - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（net=10，C）
 
 ### 美的集团（000333.SZ）
 - 主题：消费出海
 - 产品：家电以旧换新/出海
-- 信号数：5，最高分：17，来源：中国政府采购网-采购公告, 商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
+- 信号数：4，最高分：17，来源：商务部-新闻发布, 国家发改委-新闻动态, 工信部-新闻动态
 - 代表信号：
-  - [江西卓谨招标代理有限公司关于赣县区花样年华幼儿园空调设备采购(项目编号:JXZJ2026-GZ-J001 ...](http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202607/t20260704_26874074.htm)（net=17，B）
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（net=17，B）
   - [推动大规模设备更新和消费品以旧换新](https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/)（net=14，B）
+  - [2023－2024年中国家电行业品牌评价结果发布](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html)（net=10，C）
 
 ## 5. 下一步验证规则
 
