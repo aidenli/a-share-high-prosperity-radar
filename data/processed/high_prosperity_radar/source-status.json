@@ -7,9 +7,9 @@
     "relevant_count": 9,
     "body_fetched_count": 9,
     "body_failed_count": 0,
-    "duration_sec": 6.01,
+    "duration_sec": 6.02,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -19,9 +19,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.35,
+    "duration_sec": 1.18,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "ndrc_news",
@@ -31,9 +31,9 @@
     "relevant_count": 9,
     "body_fetched_count": 9,
     "body_failed_count": 0,
-    "duration_sec": 6.99,
+    "duration_sec": 6.57,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "miit_news",
@@ -43,9 +43,9 @@
     "relevant_count": 4,
     "body_fetched_count": 4,
     "body_failed_count": 0,
-    "duration_sec": 10.48,
+    "duration_sec": 6.02,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "stats_cn",
@@ -55,9 +55,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 11.9,
+    "duration_sec": 14.27,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "fed_press",
@@ -67,9 +67,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.13,
+    "duration_sec": 0.07,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "ecb_press",
@@ -79,9 +79,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.68,
+    "duration_sec": 0.63,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "imf_news",
@@ -91,9 +91,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.05,
+    "duration_sec": 0.06,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "ap_business",
@@ -105,7 +105,7 @@
     "body_failed_count": 0,
     "duration_sec": 0.15,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "cninfo_announcement",
@@ -115,21 +115,21 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 3.94,
+    "duration_sec": 6.33,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "sse_disclosure",
     "source_name": "上交所-披露公告",
-    "status": "error",
-    "fetched_count": 0,
-    "relevant_count": 0,
-    "body_fetched_count": 0,
-    "body_failed_count": 0,
-    "duration_sec": 0.44,
-    "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "status": "ok",
+    "fetched_count": 40,
+    "relevant_count": 9,
+    "body_fetched_count": 7,
+    "body_failed_count": 3,
+    "duration_sec": 69.87,
+    "error": "",
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "szse_disclosure",
@@ -139,9 +139,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.9,
+    "duration_sec": 2.24,
     "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "ccgp_purchase",
@@ -151,9 +151,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.79,
-    "error": "<HTTPError 502: 'Bad Gateway'>",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "duration_sec": 22.29,
+    "error": "TimeoutError('timed out')",
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "customs_stats",
@@ -163,9 +163,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.1,
+    "duration_sec": 1.62,
     "error": "<HTTPError 412: 'Precondition Failed'>",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "mofcom_news",
@@ -175,9 +175,9 @@
     "relevant_count": 4,
     "body_fetched_count": 3,
     "body_failed_count": 1,
-    "duration_sec": 2.76,
+    "duration_sec": 5.66,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "caam_news",
@@ -187,9 +187,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.79,
+    "duration_sec": 1.01,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "cpia_news",
@@ -199,9 +199,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 2.12,
+    "duration_sec": 3.04,
     "error": "<HTTPError 404: 'Not Found'>",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   },
   {
     "source_id": "csrc_news",
@@ -211,8 +211,8 @@
     "relevant_count": 3,
     "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 2.41,
+    "duration_sec": 4.25,
     "error": "",
-    "checked_at": "2026-07-04T23:51:54.700098Z"
+    "checked_at": "2026-07-05T01:55:51.340715Z"
   }
 ]
