@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -79,6 +80,20 @@
           ]
         },
         "risk_hits": []
+      },
+      {
+        "title": "伊犁边境管理支队业务技术用房家电采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202607/t20260710_26916273.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
@@ -89,9 +104,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -162,6 +178,20 @@
           ]
         },
         "risk_hits": []
+      },
+      {
+        "title": "伊犁边境管理支队业务技术用房家电采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202607/t20260710_26916273.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
@@ -172,9 +202,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -245,6 +276,20 @@
           ]
         },
         "risk_hits": []
+      },
+      {
+        "title": "伊犁边境管理支队业务技术用房家电采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202607/t20260710_26916273.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
@@ -255,9 +300,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -328,6 +374,20 @@
           ]
         },
         "risk_hits": []
+      },
+      {
+        "title": "伊犁边境管理支队业务技术用房家电采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202607/t20260710_26916273.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
       }
     ]
   },
