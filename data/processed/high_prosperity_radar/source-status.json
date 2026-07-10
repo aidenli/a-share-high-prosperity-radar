@@ -7,9 +7,9 @@
     "relevant_count": 10,
     "body_fetched_count": 10,
     "body_failed_count": 0,
-    "duration_sec": 6.24,
+    "duration_sec": 7.38,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -19,9 +19,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.89,
+    "duration_sec": 1.07,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "ndrc_news",
@@ -31,9 +31,9 @@
     "relevant_count": 8,
     "body_fetched_count": 8,
     "body_failed_count": 0,
-    "duration_sec": 5.64,
+    "duration_sec": 5.66,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "miit_news",
@@ -43,9 +43,9 @@
     "relevant_count": 4,
     "body_fetched_count": 4,
     "body_failed_count": 0,
-    "duration_sec": 5.91,
+    "duration_sec": 4.88,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "stats_cn",
@@ -55,9 +55,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 15.19,
+    "duration_sec": 9.46,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "fed_press",
@@ -67,9 +67,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.07,
+    "duration_sec": 0.12,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "ecb_press",
@@ -81,7 +81,7 @@
     "body_failed_count": 0,
     "duration_sec": 0.82,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "imf_news",
@@ -91,9 +91,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.17,
+    "duration_sec": 0.24,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "ap_business",
@@ -103,9 +103,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.18,
+    "duration_sec": 0.12,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "cninfo_announcement",
@@ -115,9 +115,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 3.94,
+    "duration_sec": 9.19,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "sse_disclosure",
@@ -125,11 +125,11 @@
     "status": "ok",
     "fetched_count": 40,
     "relevant_count": 9,
-    "body_fetched_count": 8,
-    "body_failed_count": 2,
-    "duration_sec": 55.82,
+    "body_fetched_count": 10,
+    "body_failed_count": 0,
+    "duration_sec": 22.16,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "szse_disclosure",
@@ -139,21 +139,21 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 2.81,
+    "duration_sec": 2.6,
     "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "ccgp_purchase",
     "source_name": "中国政府采购网-采购公告",
-    "status": "ok",
-    "fetched_count": 21,
-    "relevant_count": 14,
-    "body_fetched_count": 14,
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 7.47,
-    "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "duration_sec": 1.36,
+    "error": "<HTTPError 502: 'Bad Gateway'>",
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "customs_stats",
@@ -163,9 +163,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.35,
+    "duration_sec": 1.11,
     "error": "<HTTPError 412: 'Precondition Failed'>",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "mofcom_news",
@@ -175,9 +175,9 @@
     "relevant_count": 4,
     "body_fetched_count": 3,
     "body_failed_count": 1,
-    "duration_sec": 4.66,
+    "duration_sec": 3.81,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "caam_news",
@@ -187,9 +187,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.96,
+    "duration_sec": 0.76,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "cpia_news",
@@ -199,9 +199,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 3.09,
+    "duration_sec": 2.58,
     "error": "<HTTPError 404: 'Not Found'>",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   },
   {
     "source_id": "csrc_news",
@@ -211,8 +211,8 @@
     "relevant_count": 3,
     "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 4.15,
+    "duration_sec": 3.83,
     "error": "",
-    "checked_at": "2026-07-10T05:52:25.848428Z"
+    "checked_at": "2026-07-10T08:59:09.827377Z"
   }
 ]
