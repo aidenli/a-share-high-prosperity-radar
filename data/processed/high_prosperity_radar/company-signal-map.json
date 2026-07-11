@@ -338,25 +338,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "浙江欣成工程咨询有限公司关于兰溪市创新城高中改扩建配电项目设计施工一体化工程的竞争性磋...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260711_26918262.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -374,25 +361,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "浙江欣成工程咨询有限公司关于兰溪市创新城高中改扩建配电项目设计施工一体化工程的竞争性磋...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260711_26918262.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -410,25 +384,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "浙江欣成工程咨询有限公司关于兰溪市创新城高中改扩建配电项目设计施工一体化工程的竞争性磋...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260711_26918262.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -446,25 +407,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "浙江欣成工程咨询有限公司关于兰溪市创新城高中改扩建配电项目设计施工一体化工程的竞争性磋...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260711_26918262.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
