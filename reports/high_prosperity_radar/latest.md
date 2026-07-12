@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-07-12T07:56:52.579769Z
+生成时间：2026-07-12T09:45:28.820153Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,9 +18,9 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
 | 巨潮资讯-公告检索页 | ok | 18 | 1 | 1 |  |
-| 上交所-披露公告 | ok | 40 | 9 | 8 |  |
+| 上交所-披露公告 | ok | 40 | 9 | 9 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
-| 中国政府采购网-采购公告 | ok | 0 | 0 | 0 |  |
+| 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
 | 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
@@ -261,12 +261,12 @@
 
 ### 24. 关于上市审核中心
 - 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=否
+- 分数：net=6, signal=7, risk=4, 证据等级=C, 正文抓取=是
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"new_product": ["上市"]}
-- 风险词：无
+- 命中：{"new_product": ["上市"], "policy_support": ["政策", "规划"]}
+- 风险词：终止
 - 链接：https://www.sse.com.cn/listing/aboutus/home/
 
 ### 25. 上市公司信息
@@ -336,7 +336,7 @@
 - 来源数：3，来源：上交所-披露公告, 中国政府网-政策, 证监会-新闻发布
 - 产品：无
 - 公司：无
-- 风险提示：无
+- 风险提示：终止
 - 代表线索：
   - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
   - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=10）
@@ -372,8 +372,8 @@
 - 风险提示：无
 - 代表线索：
   - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
-  - [关于上市审核中心](https://www.sse.com.cn/listing/aboutus/home/)（上交所-披露公告，net=6）
   - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
+  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
 
 ### 5. 未分类 / demand_strong+new_product
 - 故事分：34
