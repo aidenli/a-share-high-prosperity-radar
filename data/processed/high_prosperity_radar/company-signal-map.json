@@ -332,154 +332,6 @@
     ]
   },
   {
-    "name": "平高电气",
-    "code": "600312.SH",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 2,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告",
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
-        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "思源电气",
-    "code": "002028.SZ",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 2,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告",
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
-        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "特变电工",
-    "code": "600089.SH",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 2,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告",
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
-        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "许继电气",
-    "code": "000400.SZ",
-    "theme": "电力储能",
-    "products": [
-      "电网设备/变压器"
-    ],
-    "signal_count": 2,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告",
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
-        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
     "name": "中科曙光",
     "code": "603019.SH",
     "theme": "AI算力",
@@ -587,6 +439,98 @@
             "采购"
           ]
         },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "平高电气",
+    "code": "600312.SH",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
+        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "思源电气",
+    "code": "002028.SZ",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
+        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "特变电工",
+    "code": "600089.SH",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
+        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "许继电气",
+    "code": "000400.SZ",
+    "theme": "电力储能",
+    "products": [
+      "电网设备/变压器"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
+        "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
         "risk_hits": []
       }
     ]
