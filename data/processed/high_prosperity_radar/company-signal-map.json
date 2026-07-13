@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -40,6 +41,35 @@
         "risk_hits": []
       },
       {
+        "title": "新疆医科大学医药科技创新平台（第二批）以旧换新设备采购项目（四包）（二次）中标(成交)结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260713_26923073.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "同济大学学苑饮食广场空调更新项目采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260713_26922945.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -52,6 +82,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "济南市消防救援支队指挥中心空调主机采购及安装项目询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260713_26922942.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -89,9 +131,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -123,6 +166,35 @@
         "risk_hits": []
       },
       {
+        "title": "新疆医科大学医药科技创新平台（第二批）以旧换新设备采购项目（四包）（二次）中标(成交)结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260713_26923073.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "同济大学学苑饮食广场空调更新项目采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260713_26922945.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -135,6 +207,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "济南市消防救援支队指挥中心空调主机采购及安装项目询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260713_26922942.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -172,9 +256,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -206,6 +291,35 @@
         "risk_hits": []
       },
       {
+        "title": "新疆医科大学医药科技创新平台（第二批）以旧换新设备采购项目（四包）（二次）中标(成交)结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260713_26923073.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "同济大学学苑饮食广场空调更新项目采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260713_26922945.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -218,6 +332,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "济南市消防救援支队指挥中心空调主机采购及安装项目询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260713_26922942.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -255,9 +381,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -289,6 +416,35 @@
         "risk_hits": []
       },
       {
+        "title": "新疆医科大学医药科技创新平台（第二批）以旧换新设备采购项目（四包）（二次）中标(成交)结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260713_26923073.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "同济大学学苑饮食广场空调更新项目采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260713_26922945.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -301,6 +457,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "济南市消防救援支队指挥中心空调主机采购及安装项目询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260713_26922942.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -332,27 +500,29 @@
     ]
   },
   {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜梁区龙都小学校园广播系统改造项目(TLQ26A00268)中标（成交）结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202607/t20260713_26920673.htm",
-        "net_score": 17,
+        "title": "中国电子口岸数据中心上海分中心2026年度若干系统开发技术支持服务项目（第二次）竞争性磋商",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260713_26922985.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "中标",
             "采购"
+          ],
+          "policy_support": [
+            "支持"
           ]
         },
         "risk_hits": []
@@ -360,27 +530,29 @@
     ]
   },
   {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜梁区龙都小学校园广播系统改造项目(TLQ26A00268)中标（成交）结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202607/t20260713_26920673.htm",
-        "net_score": 17,
+        "title": "中国电子口岸数据中心上海分中心2026年度若干系统开发技术支持服务项目（第二次）竞争性磋商",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260713_26922985.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "中标",
             "采购"
+          ],
+          "policy_support": [
+            "支持"
           ]
         },
         "risk_hits": []
@@ -388,27 +560,29 @@
     ]
   },
   {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜梁区龙都小学校园广播系统改造项目(TLQ26A00268)中标（成交）结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202607/t20260713_26920673.htm",
-        "net_score": 17,
+        "title": "中国电子口岸数据中心上海分中心2026年度若干系统开发技术支持服务项目（第二次）竞争性磋商",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260713_26922985.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "中标",
             "采购"
+          ],
+          "policy_support": [
+            "支持"
           ]
         },
         "risk_hits": []
@@ -416,27 +590,29 @@
     ]
   },
   {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜梁区龙都小学校园广播系统改造项目(TLQ26A00268)中标（成交）结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/cjgg/202607/t20260713_26920673.htm",
-        "net_score": 17,
+        "title": "中国电子口岸数据中心上海分中心2026年度若干系统开发技术支持服务项目（第二次）竞争性磋商",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260713_26922985.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "中标",
             "采购"
+          ],
+          "policy_support": [
+            "支持"
           ]
         },
         "risk_hits": []
