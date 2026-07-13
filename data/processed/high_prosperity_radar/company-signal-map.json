@@ -338,12 +338,26 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -361,12 +375,26 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -384,12 +412,26 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -407,18 +449,144 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "华泾市民中心城市更新项目变配电工程项目的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260714_26926532.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
         "net_score": 8,
         "evidence_level": "C",
         "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
         "risk_hits": []
       }
     ]
