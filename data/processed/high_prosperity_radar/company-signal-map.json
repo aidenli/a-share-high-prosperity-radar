@@ -339,20 +339,22 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
-        "net_score": 17,
+        "title": "河北工业大学2025年教学科研设备更新项目-理学院-大数据、云计算与智能科学算力教学平台废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202607/t20260714_26926659.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
+          ],
+          "policy_support": [
+            "设备更新"
           ]
         },
         "risk_hits": []
@@ -367,20 +369,22 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
-        "net_score": 17,
+        "title": "河北工业大学2025年教学科研设备更新项目-理学院-大数据、云计算与智能科学算力教学平台废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202607/t20260714_26926659.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
+          ],
+          "policy_support": [
+            "设备更新"
           ]
         },
         "risk_hits": []
@@ -395,20 +399,22 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
-        "net_score": 17,
+        "title": "河北工业大学2025年教学科研设备更新项目-理学院-大数据、云计算与智能科学算力教学平台废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202607/t20260714_26926659.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
+          ],
+          "policy_support": [
+            "设备更新"
           ]
         },
         "risk_hits": []
@@ -423,20 +429,22 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 14,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "北京航空航天大学软件学院计算服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260713_26926018.htm",
-        "net_score": 17,
+        "title": "河北工业大学2025年教学科研设备更新项目-理学院-大数据、云计算与智能科学算力教学平台废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202607/t20260714_26926659.htm",
+        "net_score": 14,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
+          ],
+          "policy_support": [
+            "设备更新"
           ]
         },
         "risk_hits": []
