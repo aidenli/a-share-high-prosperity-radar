@@ -338,12 +338,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -361,12 +374,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -384,12 +410,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -407,12 +446,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
