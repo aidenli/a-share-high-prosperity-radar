@@ -332,31 +332,130 @@
     ]
   },
   {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学远航大学生活动中心超低能耗断桥铝合金门窗等采购及安装项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260715_26934968.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学远航大学生活动中心超低能耗断桥铝合金门窗等采购及安装项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260715_26934968.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学远航大学生活动中心超低能耗断桥铝合金门窗等采购及安装项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260715_26934968.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学远航大学生活动中心超低能耗断桥铝合金门窗等采购及安装项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260715_26934968.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "平高电气",
     "code": "600312.SH",
     "theme": "电力储能",
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -374,25 +473,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -410,25 +496,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -446,25 +519,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "广州市人力资源和社会保障数据服务中心2026年双回路电房供配电维护服务项目（CZ2026-0853）结...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260715_26934881.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
