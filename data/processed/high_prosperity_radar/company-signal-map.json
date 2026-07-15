@@ -6,11 +6,13 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 3,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -39,6 +41,19 @@
         "risk_hits": []
       },
       {
+        "title": "衢州市公共资源交易常山分中心关于实验小学有机更新工程-空调采购（三次）的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260715_26942874.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -51,6 +66,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
@@ -76,11 +103,13 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 3,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -109,6 +138,19 @@
         "risk_hits": []
       },
       {
+        "title": "衢州市公共资源交易常山分中心关于实验小学有机更新工程-空调采购（三次）的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260715_26942874.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -121,6 +163,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
@@ -146,11 +200,13 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 3,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -179,6 +235,19 @@
         "risk_hits": []
       },
       {
+        "title": "衢州市公共资源交易常山分中心关于实验小学有机更新工程-空调采购（三次）的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260715_26942874.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -191,6 +260,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
@@ -216,11 +297,13 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 3,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -249,6 +332,19 @@
         "risk_hits": []
       },
       {
+        "title": "衢州市公共资源交易常山分中心关于实验小学有机更新工程-空调采购（三次）的公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260715_26942874.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -261,6 +357,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
