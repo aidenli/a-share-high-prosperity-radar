@@ -6,7 +6,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -36,19 +36,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华诚工程咨询集团有限公司关于浙江省商务厅环球资源移动电子、智能家居，安防及家电展项目中...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260716_26951390.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -115,7 +102,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -145,19 +132,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华诚工程咨询集团有限公司关于浙江省商务厅环球资源移动电子、智能家居，安防及家电展项目中...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260716_26951390.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -224,7 +198,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -254,19 +228,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华诚工程咨询集团有限公司关于浙江省商务厅环球资源移动电子、智能家居，安防及家电展项目中...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260716_26951390.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -333,7 +294,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -363,19 +324,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华诚工程咨询集团有限公司关于浙江省商务厅环球资源移动电子、智能家居，安防及家电展项目中...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260716_26951390.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -442,12 +390,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "智能电网人机协同风险管控与运行优化具身系统设备采购（二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260716_26951407.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -465,12 +426,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "智能电网人机协同风险管控与运行优化具身系统设备采购（二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260716_26951407.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -488,12 +462,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "智能电网人机协同风险管控与运行优化具身系统设备采购（二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260716_26951407.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -511,12 +498,25 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "智能电网人机协同风险管控与运行优化具身系统设备采购（二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260716_26951407.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
