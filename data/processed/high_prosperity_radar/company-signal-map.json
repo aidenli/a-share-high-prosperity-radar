@@ -332,130 +332,32 @@
     ]
   },
   {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "厦门大学萨本栋微米纳米科学技术研究院电镀铜液、金电镀液及镍钯金化学镀液采购项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260716_26945068.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "厦门大学萨本栋微米纳米科学技术研究院电镀铜液、金电镀液及镍钯金化学镀液采购项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260716_26945068.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "厦门大学萨本栋微米纳米科学技术研究院电镀铜液、金电镀液及镍钯金化学镀液采购项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260716_26945068.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "厦门大学萨本栋微米纳米科学技术研究院电镀铜液、金电镀液及镍钯金化学镀液采购项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260716_26945068.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
     "name": "平高电气",
     "code": "600312.SH",
     "theme": "电力储能",
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "会议中心北戴河管理部配电室更换低压主开关及配套设备采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260716_26946085.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -473,12 +375,26 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "会议中心北戴河管理部配电室更换低压主开关及配套设备采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260716_26946085.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -496,12 +412,26 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "会议中心北戴河管理部配电室更换低压主开关及配套设备采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260716_26946085.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -519,12 +449,26 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "会议中心北戴河管理部配电室更换低压主开关及配套设备采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260716_26946085.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
