@@ -6,10 +6,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -36,22 +35,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "新华通讯社技术系统升级改造二期项目机房空调设备更新子项项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260717_26958410.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
           ]
         },
         "risk_hits": []
@@ -106,10 +89,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -136,22 +118,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "新华通讯社技术系统升级改造二期项目机房空调设备更新子项项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260717_26958410.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
           ]
         },
         "risk_hits": []
@@ -206,10 +172,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -236,22 +201,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "新华通讯社技术系统升级改造二期项目机房空调设备更新子项项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260717_26958410.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
           ]
         },
         "risk_hits": []
@@ -306,10 +255,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -336,22 +284,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "新华通讯社技术系统升级改造二期项目机房空调设备更新子项项目中标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260717_26958410.htm",
-        "net_score": 19,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
           ]
         },
         "risk_hits": []
@@ -393,118 +325,6 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中科曙光",
-    "code": "603019.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院计算机网络信息中心GPU服务器设备采购项目公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260717_26958295.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "工业富联",
-    "code": "601138.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院计算机网络信息中心GPU服务器设备采购项目公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260717_26958295.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "浪潮信息",
-    "code": "000977.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院计算机网络信息中心GPU服务器设备采购项目公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260717_26958295.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫光股份",
-    "code": "000938.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "中国科学院计算机网络信息中心GPU服务器设备采购项目公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260717_26958295.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
