@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -40,6 +41,19 @@
         "risk_hits": []
       },
       {
+        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -52,6 +66,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -89,9 +115,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -123,6 +150,19 @@
         "risk_hits": []
       },
       {
+        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -135,6 +175,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -172,9 +224,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -206,6 +259,19 @@
         "risk_hits": []
       },
       {
+        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -218,6 +284,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -255,9 +333,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -289,6 +368,19 @@
         "risk_hits": []
       },
       {
+        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -301,6 +393,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
