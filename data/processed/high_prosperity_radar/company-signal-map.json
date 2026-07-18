@@ -6,10 +6,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -53,18 +52,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -102,10 +89,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -149,18 +135,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -198,10 +172,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -245,18 +218,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -294,10 +255,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -346,18 +306,6 @@
         "risk_hits": []
       },
       {
-        "title": "华中师范大学第一附属中学（高中）教学楼空调改造（4、5号教学楼）（第二次）竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260718_26961691.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "2023－2024年中国家电行业品牌评价结果发布",
         "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
         "net_score": 10,
@@ -377,254 +325,6 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中微公司",
-    "code": "688012.SH",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "北方华创",
-    "code": "002371.SZ",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "拓荆科技",
-    "code": "688072.SH",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "盛美上海",
-    "code": "688082.SH",
-    "theme": "半导体",
-    "products": [
-      "半导体设备"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
-    "products": [
-      "铜/铝/稀土等资源品"
-    ],
-    "signal_count": 1,
-    "max_score": 21,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
-        "net_score": 21,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "中标",
-            "采购"
-          ],
-          "policy_support": [
-            "设备更新"
           ]
         },
         "risk_hits": []
