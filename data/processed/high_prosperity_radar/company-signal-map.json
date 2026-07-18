@@ -6,7 +6,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -36,19 +36,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -115,7 +102,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -145,19 +132,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -224,7 +198,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -254,19 +228,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -333,7 +294,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府采购网-采购公告",
@@ -363,19 +324,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "浙江省国际技术设备招标有限公司关于温州医科大学附属第一医院龙港院区空调系统及净化系统维...",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202607/t20260718_26961730.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -429,6 +377,254 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中微公司",
+    "code": "688012.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方华创",
+    "code": "002371.SZ",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "拓荆科技",
+    "code": "688072.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "盛美上海",
+    "code": "688082.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 21,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-半导体材料微纳加工项目...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260718_26961871.htm",
+        "net_score": 21,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
           ]
         },
         "risk_hits": []
