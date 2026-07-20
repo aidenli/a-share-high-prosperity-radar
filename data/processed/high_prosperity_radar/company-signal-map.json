@@ -6,10 +6,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -53,18 +52,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "山东大学中心校区知新楼A座中央空调系统维修更换竞争性磋商",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260719_26963603.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -102,10 +89,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -149,18 +135,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "山东大学中心校区知新楼A座中央空调系统维修更换竞争性磋商",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260719_26963603.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -198,10 +172,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -245,18 +218,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "山东大学中心校区知新楼A座中央空调系统维修更换竞争性磋商",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260719_26963603.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -294,10 +255,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
+    "signal_count": 4,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -341,18 +301,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "山东大学中心校区知新楼A座中央空调系统维修更换竞争性磋商",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260719_26963603.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -391,19 +339,18 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "东北大学软件学院实验平台建设服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260719_26963479.htm",
-        "net_score": 17,
+        "title": "某单位交通研究所服务器（询价）采购项目需求公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260720_26964017.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
@@ -419,19 +366,18 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "东北大学软件学院实验平台建设服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260719_26963479.htm",
-        "net_score": 17,
+        "title": "某单位交通研究所服务器（询价）采购项目需求公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260720_26964017.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
@@ -447,19 +393,18 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "东北大学软件学院实验平台建设服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260719_26963479.htm",
-        "net_score": 17,
+        "title": "某单位交通研究所服务器（询价）采购项目需求公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260720_26964017.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
@@ -475,19 +420,18 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "东北大学软件学院实验平台建设服务器采购公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260719_26963479.htm",
-        "net_score": 17,
+        "title": "某单位交通研究所服务器（询价）采购项目需求公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260720_26964017.htm",
+        "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "招标",
             "采购"
           ]
         },
