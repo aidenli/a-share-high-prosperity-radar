@@ -394,25 +394,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "北京交通大学校园基础设施及校舍安全改造（国际学院电力增容及1、2号配电室等安全改造）工程...",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26988955.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -430,25 +417,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "北京交通大学校园基础设施及校舍安全改造（国际学院电力增容及1、2号配电室等安全改造）工程...",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26988955.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -466,25 +440,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "北京交通大学校园基础设施及校舍安全改造（国际学院电力增容及1、2号配电室等安全改造）工程...",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26988955.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
@@ -502,25 +463,12 @@
     "products": [
       "电网设备/变压器"
     ],
-    "signal_count": 2,
-    "max_score": 12,
+    "signal_count": 1,
+    "max_score": 8,
     "sources": [
-      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "北京交通大学校园基础设施及校舍安全改造（国际学院电力增容及1、2号配电室等安全改造）工程...",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26988955.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
