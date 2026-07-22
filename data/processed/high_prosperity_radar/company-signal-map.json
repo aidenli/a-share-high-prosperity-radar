@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -52,6 +53,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "无锡市消防救援支队机关大楼空调维修保养项目（第二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260722_26980221.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -89,9 +102,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -135,6 +149,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "无锡市消防救援支队机关大楼空调维修保养项目（第二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260722_26980221.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -172,9 +198,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -218,6 +245,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "无锡市消防救援支队机关大楼空调维修保养项目（第二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260722_26980221.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -255,9 +294,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -301,6 +341,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "无锡市消防救援支队机关大楼空调维修保养项目（第二次）废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260722_26980221.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -416,6 +468,98 @@
       {
         "title": "关于第四监管周期省级电网输配电价、区域电网输电价格及有关事项的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202607/t20260710_1406433.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
+        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
+        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
+        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {},
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 8,
+    "sources": [
+      "国家发改委-新闻动态"
+    ],
+    "signals": [
+      {
+        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
+        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
         "net_score": 8,
         "evidence_level": "C",
         "signal_hits": {},
