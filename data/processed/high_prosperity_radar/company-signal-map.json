@@ -6,11 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 7,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -42,19 +41,6 @@
         "risk_hits": []
       },
       {
-        "title": "北京第二外国语学院1、3、5、7号学生公寓空调租赁服务项目公开招标公告（二次）",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260723_26990924.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -81,18 +67,6 @@
           "policy_support": [
             "以旧换新",
             "政策"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京邮电大学西土城路校区和沙河校区分体空调维修服务采购项目成交结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26990888.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -130,11 +104,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 7,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -166,19 +139,6 @@
         "risk_hits": []
       },
       {
-        "title": "北京第二外国语学院1、3、5、7号学生公寓空调租赁服务项目公开招标公告（二次）",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260723_26990924.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -205,18 +165,6 @@
           "policy_support": [
             "以旧换新",
             "政策"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京邮电大学西土城路校区和沙河校区分体空调维修服务采购项目成交结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26990888.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -254,11 +202,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 7,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -290,19 +237,6 @@
         "risk_hits": []
       },
       {
-        "title": "北京第二外国语学院1、3、5、7号学生公寓空调租赁服务项目公开招标公告（二次）",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260723_26990924.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -329,18 +263,6 @@
           "policy_support": [
             "以旧换新",
             "政策"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京邮电大学西土城路校区和沙河校区分体空调维修服务采购项目成交结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26990888.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -378,11 +300,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 7,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -414,19 +335,6 @@
         "risk_hits": []
       },
       {
-        "title": "北京第二外国语学院1、3、5、7号学生公寓空调租赁服务项目公开招标公告（二次）",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260723_26990924.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "推动大规模设备更新和消费品以旧换新",
         "url": "https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/",
         "net_score": 14,
@@ -453,18 +361,6 @@
           "policy_support": [
             "以旧换新",
             "政策"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京邮电大学西土城路校区和沙河校区分体空调维修服务采购项目成交结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202607/t20260723_26990888.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
