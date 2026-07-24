@@ -398,12 +398,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "自然资源部第三海洋研究所服务器（询价）采购项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260724_27006734.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
@@ -421,12 +434,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "自然资源部第三海洋研究所服务器（询价）采购项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260724_27006734.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
@@ -444,12 +470,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "自然资源部第三海洋研究所服务器（询价）采购项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260724_27006734.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
@@ -467,12 +506,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 8,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
+      "中国政府采购网-采购公告",
       "国家发改委-新闻动态"
     ],
     "signals": [
+      {
+        "title": "自然资源部第三海洋研究所服务器（询价）采购项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202607/t20260724_27006734.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
