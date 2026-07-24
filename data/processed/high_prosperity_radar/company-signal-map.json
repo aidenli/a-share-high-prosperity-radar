@@ -392,6 +392,118 @@
     ]
   },
   {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学材化与公共分析测试楼建设项目超低能耗断桥铝合金门窗等采购及安装项目招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260724_27005147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学材化与公共分析测试楼建设项目超低能耗断桥铝合金门窗等采购及安装项目招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260724_27005147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学材化与公共分析测试楼建设项目超低能耗断桥铝合金门窗等采购及安装项目招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260724_27005147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "哈尔滨工程大学材化与公共分析测试楼建设项目超低能耗断桥铝合金门窗等采购及安装项目招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260724_27005147.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "中科曙光",
     "code": "603019.SH",
     "theme": "AI算力",
