@@ -6,7 +6,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
@@ -75,6 +75,18 @@
       {
         "title": "阿勒泰地区消防救援支队空调设备采购及安装项目竞争性谈判公告",
         "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxtpgg/202607/t20260725_27007744.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "广昌孟戏体验馆数字化设备采购及内容制作、空调、灯光、音响等设备采购项目第三次",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260725_27008690.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -117,7 +129,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
@@ -186,6 +198,18 @@
       {
         "title": "阿勒泰地区消防救援支队空调设备采购及安装项目竞争性谈判公告",
         "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxtpgg/202607/t20260725_27007744.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "广昌孟戏体验馆数字化设备采购及内容制作、空调、灯光、音响等设备采购项目第三次",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260725_27008690.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -228,7 +252,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
@@ -307,6 +331,18 @@
         "risk_hits": []
       },
       {
+        "title": "广昌孟戏体验馆数字化设备采购及内容制作、空调、灯光、音响等设备采购项目第三次",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260725_27008690.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "2023－2024年中国家电行业品牌评价结果发布",
         "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
         "net_score": 10,
@@ -339,7 +375,7 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
@@ -408,6 +444,18 @@
       {
         "title": "阿勒泰地区消防救援支队空调设备采购及安装项目竞争性谈判公告",
         "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxtpgg/202607/t20260725_27007744.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "广昌孟戏体验馆数字化设备采购及内容制作、空调、灯光、音响等设备采购项目第三次",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202607/t20260725_27008690.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
