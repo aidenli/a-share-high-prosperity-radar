@@ -6,12 +6,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -66,6 +68,42 @@
           "policy_support": [
             "以旧换新",
             "政策"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "红河边境管理支队2026年业务技术用房家电采购项目（四次）询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260726_27009375.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山东大学千佛山校区学府大厦屋面及空调管道维修竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260726_27009279.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
@@ -91,12 +129,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -151,6 +191,42 @@
           "policy_support": [
             "以旧换新",
             "政策"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "红河边境管理支队2026年业务技术用房家电采购项目（四次）询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260726_27009375.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山东大学千佛山校区学府大厦屋面及空调管道维修竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260726_27009279.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
@@ -176,12 +252,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -236,6 +314,42 @@
           "policy_support": [
             "以旧换新",
             "政策"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "红河边境管理支队2026年业务技术用房家电采购项目（四次）询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260726_27009375.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山东大学千佛山校区学府大厦屋面及空调管道维修竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260726_27009279.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
           ]
         },
         "risk_hits": []
@@ -261,12 +375,14 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 7,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
-      "国家发改委-新闻动态"
+      "国家发改委-新闻动态",
+      "工信部-新闻动态"
     ],
     "signals": [
       {
@@ -326,6 +442,42 @@
         "risk_hits": []
       },
       {
+        "title": "红河边境管理支队2026年业务技术用房家电采购项目（四次）询价公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202607/t20260726_27009375.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山东大学千佛山校区学府大厦屋面及空调管道维修竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202607/t20260726_27009279.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2023－2024年中国家电行业品牌评价结果发布",
+        "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "行动方案"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "消费品以旧换新",
         "url": "http://scyxs.mofcom.gov.cn/xfpyjhx/index.html",
         "net_score": 10,
@@ -333,6 +485,114 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川监狱后沟室外给水管道维修工程竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260726_27009427.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川监狱后沟室外给水管道维修工程竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260726_27009427.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川监狱后沟室外给水管道维修工程竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260726_27009427.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川监狱后沟室外给水管道维修工程竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202607/t20260726_27009427.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
