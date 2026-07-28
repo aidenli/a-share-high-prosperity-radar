@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -53,6 +54,30 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "中央美术学院花家地校区洗衣房及学生公寓自助洗衣机招租项目公开招租公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019260.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2026年空调类设备维修保养服务项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019217.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -90,9 +115,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -137,6 +163,30 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "中央美术学院花家地校区洗衣房及学生公寓自助洗衣机招租项目公开招租公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019260.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2026年空调类设备维修保养服务项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019217.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -174,9 +224,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -221,6 +272,30 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "中央美术学院花家地校区洗衣房及学生公寓自助洗衣机招租项目公开招租公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019260.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2026年空调类设备维修保养服务项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019217.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -258,9 +333,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 6,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -305,6 +381,30 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "中央美术学院花家地校区洗衣房及学生公寓自助洗衣机招租项目公开招租公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019260.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "2026年空调类设备维修保养服务项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202607/t20260728_27019217.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
