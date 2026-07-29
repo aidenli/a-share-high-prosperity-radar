@@ -9,7 +9,7 @@
     "signal_count": 5,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
+      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -59,16 +59,13 @@
         "risk_hits": []
       },
       {
-        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
-        "net_score": 14,
-        "evidence_level": "B",
+        "title": "中国空调15天运到欧洲，靠它→",
+        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
           "policy_support": [
-            "以旧换新"
+            "政策"
           ]
         },
         "risk_hits": []
@@ -109,7 +106,7 @@
     "signal_count": 5,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
+      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -159,16 +156,13 @@
         "risk_hits": []
       },
       {
-        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
-        "net_score": 14,
-        "evidence_level": "B",
+        "title": "中国空调15天运到欧洲，靠它→",
+        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
           "policy_support": [
-            "以旧换新"
+            "政策"
           ]
         },
         "risk_hits": []
@@ -209,7 +203,7 @@
     "signal_count": 5,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
+      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -259,16 +253,13 @@
         "risk_hits": []
       },
       {
-        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
-        "net_score": 14,
-        "evidence_level": "B",
+        "title": "中国空调15天运到欧洲，靠它→",
+        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
           "policy_support": [
-            "以旧换新"
+            "政策"
           ]
         },
         "risk_hits": []
@@ -309,7 +300,7 @@
     "signal_count": 5,
     "max_score": 21,
     "sources": [
-      "中国政府采购网-采购公告",
+      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -359,16 +350,13 @@
         "risk_hits": []
       },
       {
-        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
-        "net_score": 14,
-        "evidence_level": "B",
+        "title": "中国空调15天运到欧洲，靠它→",
+        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
           "policy_support": [
-            "以旧换新"
+            "政策"
           ]
         },
         "risk_hits": []
