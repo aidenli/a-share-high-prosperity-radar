@@ -6,9 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -53,6 +54,21 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
+        "net_score": 14,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
           ]
         },
         "risk_hits": []
@@ -90,9 +106,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -137,6 +154,21 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
+        "net_score": 14,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
           ]
         },
         "risk_hits": []
@@ -174,9 +206,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -221,6 +254,21 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
+        "net_score": 14,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
           ]
         },
         "risk_hits": []
@@ -258,9 +306,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -305,6 +354,21 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "山西师范大学2026年地理科学学院科研教学仪器设备以旧换新项目结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202607/t20260729_27030016.htm",
+        "net_score": 14,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ],
+          "policy_support": [
+            "以旧换新"
           ]
         },
         "risk_hits": []
