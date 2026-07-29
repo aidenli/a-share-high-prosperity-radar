@@ -336,6 +336,118 @@
     ]
   },
   {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院青藏高原研究所国家青藏高原科学数据中心体系化能力提升建设项目观测-数据-模型一...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260729_27026582.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院青藏高原研究所国家青藏高原科学数据中心体系化能力提升建设项目观测-数据-模型一...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260729_27026582.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院青藏高原研究所国家青藏高原科学数据中心体系化能力提升建设项目观测-数据-模型一...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260729_27026582.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院青藏高原研究所国家青藏高原科学数据中心体系化能力提升建设项目观测-数据-模型一...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202607/t20260729_27026582.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "上能电气",
     "code": "300827.SZ",
     "theme": "电力储能",
@@ -420,98 +532,6 @@
       {
         "title": "宁夏回族自治区发展改革委召开2026年下半年新能源和新型储能项目并网工作推进会",
         "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260727_1406675.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中科曙光",
-    "code": "603019.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "工业富联",
-    "code": "601138.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "浪潮信息",
-    "code": "000977.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫光股份",
-    "code": "000938.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "吉林省零碳园区谋划建设算力设施工作推进会在白城市召开",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260722_1406618.html",
         "net_score": 8,
         "evidence_level": "C",
         "signal_hits": {},
