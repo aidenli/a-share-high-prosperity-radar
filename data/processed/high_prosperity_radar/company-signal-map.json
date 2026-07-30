@@ -6,11 +6,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -37,19 +36,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京航空航天大学网络信息中心机房精密空调采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260729_27034762.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -117,11 +103,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -148,19 +133,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京航空航天大学网络信息中心机房精密空调采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260729_27034762.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -228,11 +200,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -259,19 +230,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京航空航天大学网络信息中心机房精密空调采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260729_27034762.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
@@ -339,11 +297,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 5,
     "max_score": 21,
     "sources": [
       "中国政府网-政策",
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -370,19 +327,6 @@
             "支持",
             "政策",
             "新质生产力"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京航空航天大学网络信息中心机房精密空调采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202607/t20260729_27034762.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
