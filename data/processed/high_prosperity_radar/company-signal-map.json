@@ -388,25 +388,26 @@
     ]
   },
   {
-    "name": "平高电气",
-    "code": "600312.SH",
-    "theme": "电力储能",
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
     "products": [
-      "电网设备/变压器"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "荆州市分行高低压配电柜更新改造项目竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202608/t20260802_27055631.htm",
-        "net_score": 12,
+        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "招标",
             "采购"
           ]
         },
@@ -415,25 +416,26 @@
     ]
   },
   {
-    "name": "思源电气",
-    "code": "002028.SZ",
-    "theme": "电力储能",
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
     "products": [
-      "电网设备/变压器"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "荆州市分行高低压配电柜更新改造项目竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202608/t20260802_27055631.htm",
-        "net_score": 12,
+        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "招标",
             "采购"
           ]
         },
@@ -442,25 +444,26 @@
     ]
   },
   {
-    "name": "特变电工",
-    "code": "600089.SH",
-    "theme": "电力储能",
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
     "products": [
-      "电网设备/变压器"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "荆州市分行高低压配电柜更新改造项目竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202608/t20260802_27055631.htm",
-        "net_score": 12,
+        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "招标",
             "采购"
           ]
         },
@@ -469,120 +472,29 @@
     ]
   },
   {
-    "name": "许继电气",
-    "code": "000400.SZ",
-    "theme": "电力储能",
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
     "products": [
-      "电网设备/变压器"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "荆州市分行高低压配电柜更新改造项目竞争性磋商公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/jzxcs/202608/t20260802_27055631.htm",
-        "net_score": 12,
+        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "招标",
             "采购"
           ]
         },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "上能电气",
-    "code": "300827.SZ",
-    "theme": "电力储能",
-    "products": [
-      "储能/PCS/逆变器"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "宁夏回族自治区发展改革委召开2026年下半年新能源和新型储能项目并网工作推进会",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260727_1406675.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "固德威",
-    "code": "688390.SH",
-    "theme": "电力储能",
-    "products": [
-      "储能/PCS/逆变器"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "宁夏回族自治区发展改革委召开2026年下半年新能源和新型储能项目并网工作推进会",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260727_1406675.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "德业股份",
-    "code": "605117.SH",
-    "theme": "电力储能",
-    "products": [
-      "储能/PCS/逆变器"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "宁夏回族自治区发展改革委召开2026年下半年新能源和新型储能项目并网工作推进会",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260727_1406675.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "阳光电源",
-    "code": "300274.SZ",
-    "theme": "电力储能",
-    "products": [
-      "储能/PCS/逆变器"
-    ],
-    "signal_count": 1,
-    "max_score": 8,
-    "sources": [
-      "国家发改委-新闻动态"
-    ],
-    "signals": [
-      {
-        "title": "宁夏回族自治区发展改革委召开2026年下半年新能源和新型储能项目并网工作推进会",
-        "url": "https://www.ndrc.gov.cn/xwdt/dt/dfdt/202607/t20260727_1406675.html",
-        "net_score": 8,
-        "evidence_level": "C",
-        "signal_hits": {},
         "risk_hits": []
       }
     ]
