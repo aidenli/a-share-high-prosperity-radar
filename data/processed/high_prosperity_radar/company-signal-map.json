@@ -6,10 +6,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 21,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -18,14 +17,11 @@
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
-        "net_score": 21,
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "new_product": [
             "新产品"
-          ],
-          "high_prosperity": [
-            "同比增长"
           ],
           "policy_support": [
             "专项",
@@ -54,18 +50,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国空调15天运到欧洲，靠它→",
-        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
           ]
         },
         "risk_hits": []
@@ -103,10 +87,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 21,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -115,14 +98,11 @@
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
-        "net_score": 21,
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "new_product": [
             "新产品"
-          ],
-          "high_prosperity": [
-            "同比增长"
           ],
           "policy_support": [
             "专项",
@@ -151,18 +131,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国空调15天运到欧洲，靠它→",
-        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
           ]
         },
         "risk_hits": []
@@ -200,10 +168,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 21,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -212,14 +179,11 @@
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
-        "net_score": 21,
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "new_product": [
             "新产品"
-          ],
-          "high_prosperity": [
-            "同比增长"
           ],
           "policy_support": [
             "专项",
@@ -248,18 +212,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国空调15天运到欧洲，靠它→",
-        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
           ]
         },
         "risk_hits": []
@@ -297,10 +249,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 5,
-    "max_score": 21,
+    "signal_count": 4,
+    "max_score": 17,
     "sources": [
-      "中国政府网-政策",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -309,14 +260,11 @@
       {
         "title": "提振消费专项行动 政策集成和综合解读专栏",
         "url": "https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm",
-        "net_score": 21,
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "new_product": [
             "新产品"
-          ],
-          "high_prosperity": [
-            "同比增长"
           ],
           "policy_support": [
             "专项",
@@ -350,18 +298,6 @@
         "risk_hits": []
       },
       {
-        "title": "中国空调15天运到欧洲，靠它→",
-        "url": "https://www.gov.cn/zhengce/202607/content_7076863.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
         "title": "2023－2024年中国家电行业品牌评价结果发布",
         "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
         "net_score": 10,
@@ -388,27 +324,26 @@
     ]
   },
   {
-    "name": "中科曙光",
-    "code": "603019.SH",
-    "theme": "AI算力",
+    "name": "平高电气",
+    "code": "600312.SH",
+    "theme": "电力储能",
     "products": [
-      "AI服务器/算力基础设施"
+      "电网设备/变压器"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 10,
     "sources": [
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
       {
-        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
-        "net_score": 17,
-        "evidence_level": "B",
+        "title": "国务院常务会议解读 | 国务院常务会议部署新型电网、物流网建设",
+        "url": "https://www.gov.cn/zhengce/202607/content_7077244.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
+          "policy_support": [
+            "政策"
           ]
         },
         "risk_hits": []
@@ -416,27 +351,26 @@
     ]
   },
   {
-    "name": "工业富联",
-    "code": "601138.SH",
-    "theme": "AI算力",
+    "name": "思源电气",
+    "code": "002028.SZ",
+    "theme": "电力储能",
     "products": [
-      "AI服务器/算力基础设施"
+      "电网设备/变压器"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 10,
     "sources": [
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
       {
-        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
-        "net_score": 17,
-        "evidence_level": "B",
+        "title": "国务院常务会议解读 | 国务院常务会议部署新型电网、物流网建设",
+        "url": "https://www.gov.cn/zhengce/202607/content_7077244.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
+          "policy_support": [
+            "政策"
           ]
         },
         "risk_hits": []
@@ -444,27 +378,26 @@
     ]
   },
   {
-    "name": "浪潮信息",
-    "code": "000977.SZ",
-    "theme": "AI算力",
+    "name": "特变电工",
+    "code": "600089.SH",
+    "theme": "电力储能",
     "products": [
-      "AI服务器/算力基础设施"
+      "电网设备/变压器"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 10,
     "sources": [
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
       {
-        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
-        "net_score": 17,
-        "evidence_level": "B",
+        "title": "国务院常务会议解读 | 国务院常务会议部署新型电网、物流网建设",
+        "url": "https://www.gov.cn/zhengce/202607/content_7077244.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
+          "policy_support": [
+            "政策"
           ]
         },
         "risk_hits": []
@@ -472,27 +405,26 @@
     ]
   },
   {
-    "name": "紫光股份",
-    "code": "000938.SZ",
-    "theme": "AI算力",
+    "name": "许继电气",
+    "code": "000400.SZ",
+    "theme": "电力储能",
     "products": [
-      "AI服务器/算力基础设施"
+      "电网设备/变压器"
     ],
     "signal_count": 1,
-    "max_score": 17,
+    "max_score": 10,
     "sources": [
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
       {
-        "title": "东南大学信息科学与工程学院高性能算力平台采购项目(第二次)公开招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260803_27055844.htm",
-        "net_score": 17,
-        "evidence_level": "B",
+        "title": "国务院常务会议解读 | 国务院常务会议部署新型电网、物流网建设",
+        "url": "https://www.gov.cn/zhengce/202607/content_7077244.htm",
+        "net_score": 10,
+        "evidence_level": "C",
         "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
+          "policy_support": [
+            "政策"
           ]
         },
         "risk_hits": []
