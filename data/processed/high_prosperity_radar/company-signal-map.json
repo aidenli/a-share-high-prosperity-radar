@@ -1,14 +1,139 @@
 [
   {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-材料力学性能应用系统项...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202608/t20260805_27080156.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-材料力学性能应用系统项...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202608/t20260805_27080156.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-材料力学性能应用系统项...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202608/t20260805_27080156.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "2026年铜陵学院铜基新材料与先进制造学科群科研仪器设备更新改造项目-材料力学性能应用系统项...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202608/t20260805_27080156.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ],
+          "policy_support": [
+            "设备更新"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "格力电器",
     "code": "000651.SZ",
     "theme": "消费出海",
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -50,6 +175,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "云南屏边湾塘乡中心小学及湾塘乡幼儿园空调采购项目（第三次采购）竞争性谈判公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202608/t20260805_27080161.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -87,9 +224,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -131,6 +269,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "云南屏边湾塘乡中心小学及湾塘乡幼儿园空调采购项目（第三次采购）竞争性谈判公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202608/t20260805_27080161.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -168,9 +318,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -212,6 +363,18 @@
             "政策",
             "行动方案",
             "设备更新"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "云南屏边湾塘乡中心小学及湾塘乡幼儿园空调采购项目（第三次采购）竞争性谈判公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202608/t20260805_27080161.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
           ]
         },
         "risk_hits": []
@@ -249,9 +412,10 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 4,
+    "signal_count": 5,
     "max_score": 17,
     "sources": [
+      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -298,6 +462,18 @@
         "risk_hits": []
       },
       {
+        "title": "云南屏边湾塘乡中心小学及湾塘乡幼儿园空调采购项目（第三次采购）竞争性谈判公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxtpgg/202608/t20260805_27080161.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
         "title": "2023－2024年中国家电行业品牌评价结果发布",
         "url": "https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html",
         "net_score": 10,
@@ -317,118 +493,6 @@
         "signal_hits": {
           "policy_support": [
             "以旧换新"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "中科曙光",
-    "code": "603019.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "重要呼吸道病原遗传变异特征和跨种传播机制研究服务器采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260805_27079194.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "工业富联",
-    "code": "601138.SH",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "重要呼吸道病原遗传变异特征和跨种传播机制研究服务器采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260805_27079194.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "浪潮信息",
-    "code": "000977.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "重要呼吸道病原遗传变异特征和跨种传播机制研究服务器采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260805_27079194.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      }
-    ]
-  },
-  {
-    "name": "紫光股份",
-    "code": "000938.SZ",
-    "theme": "AI算力",
-    "products": [
-      "AI服务器/算力基础设施"
-    ],
-    "signal_count": 1,
-    "max_score": 17,
-    "sources": [
-      "中国政府采购网-采购公告"
-    ],
-    "signals": [
-      {
-        "title": "重要呼吸道病原遗传变异特征和跨种传播机制研究服务器采购项目招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202608/t20260805_27079194.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
           ]
         },
         "risk_hits": []
