@@ -324,110 +324,122 @@
     ]
   },
   {
-    "name": "中国铝业",
-    "code": "601600.SH",
-    "theme": "资源品涨价",
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 13,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜川市医疗保障局铜川市基层医保经办服务体系专线网络服务项目采购实行单一来源采购方式的公示",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202608/t20260805_27072335.htm",
-        "net_score": 12,
+        "title": "福建省气象数据中心关于福建省智慧气象保障工程综合能力建设项目基础资源池支撑能力升级（三...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260805_27074081.htm",
+        "net_score": 13,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "采购"
+            "采购",
+            "采购需求"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "调查"
+        ]
       }
     ]
   },
   {
-    "name": "北方稀土",
-    "code": "600111.SH",
-    "theme": "资源品涨价",
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 13,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜川市医疗保障局铜川市基层医保经办服务体系专线网络服务项目采购实行单一来源采购方式的公示",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202608/t20260805_27072335.htm",
-        "net_score": 12,
+        "title": "福建省气象数据中心关于福建省智慧气象保障工程综合能力建设项目基础资源池支撑能力升级（三...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260805_27074081.htm",
+        "net_score": 13,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "采购"
+            "采购",
+            "采购需求"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "调查"
+        ]
       }
     ]
   },
   {
-    "name": "洛阳钼业",
-    "code": "603993.SH",
-    "theme": "资源品涨价",
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 13,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜川市医疗保障局铜川市基层医保经办服务体系专线网络服务项目采购实行单一来源采购方式的公示",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202608/t20260805_27072335.htm",
-        "net_score": 12,
+        "title": "福建省气象数据中心关于福建省智慧气象保障工程综合能力建设项目基础资源池支撑能力升级（三...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260805_27074081.htm",
+        "net_score": 13,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "采购"
+            "采购",
+            "采购需求"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "调查"
+        ]
       }
     ]
   },
   {
-    "name": "紫金矿业",
-    "code": "601899.SH",
-    "theme": "资源品涨价",
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
     "products": [
-      "铜/铝/稀土等资源品"
+      "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 13,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "铜川市医疗保障局铜川市基层医保经办服务体系专线网络服务项目采购实行单一来源采购方式的公示",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/dylygg/202608/t20260805_27072335.htm",
-        "net_score": 12,
+        "title": "福建省气象数据中心关于福建省智慧气象保障工程综合能力建设项目基础资源池支撑能力升级（三...",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260805_27074081.htm",
+        "net_score": 13,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
-            "采购"
+            "采购",
+            "采购需求"
           ]
         },
-        "risk_hits": []
+        "risk_hits": [
+          "调查"
+        ]
       }
     ]
   },
