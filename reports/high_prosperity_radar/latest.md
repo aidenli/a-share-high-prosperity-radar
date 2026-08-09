@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-08-09T18:22:15.974278Z
+生成时间：2026-08-09T19:23:49.347468Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,7 +18,7 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | ParseError('not well-formed (invalid token): line 3, column 239') |
 | 巨潮资讯-公告检索页 | ok | 18 | 1 | 1 |  |
-| 上交所-披露公告 | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
+| 上交所-披露公告 | error | 0 | 0 | 0 | URLError(OSError(101, 'Network is unreachable')) |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
 | 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
