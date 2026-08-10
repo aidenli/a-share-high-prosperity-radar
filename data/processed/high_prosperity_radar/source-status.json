@@ -7,9 +7,9 @@
     "relevant_count": 9,
     "body_fetched_count": 9,
     "body_failed_count": 0,
-    "duration_sec": 7.08,
+    "duration_sec": 6.97,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -19,9 +19,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.14,
+    "duration_sec": 1.12,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "ndrc_news",
@@ -31,9 +31,9 @@
     "relevant_count": 6,
     "body_fetched_count": 6,
     "body_failed_count": 0,
-    "duration_sec": 5.21,
+    "duration_sec": 5.82,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "miit_news",
@@ -43,9 +43,9 @@
     "relevant_count": 4,
     "body_fetched_count": 4,
     "body_failed_count": 0,
-    "duration_sec": 3.54,
+    "duration_sec": 4.68,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "stats_cn",
@@ -55,9 +55,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 9.98,
+    "duration_sec": 12.02,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "fed_press",
@@ -67,9 +67,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.07,
+    "duration_sec": 0.1,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "ecb_press",
@@ -79,9 +79,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.82,
+    "duration_sec": 0.91,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "imf_news",
@@ -91,9 +91,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.11,
+    "duration_sec": 0.37,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "ap_business",
@@ -103,9 +103,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.21,
+    "duration_sec": 0.24,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "cninfo_announcement",
@@ -115,9 +115,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 4.08,
+    "duration_sec": 5.41,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "sse_disclosure",
@@ -127,9 +127,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 20.38,
-    "error": "URLError(OSError(101, 'Network is unreachable'))",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "duration_sec": 0.78,
+    "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "szse_disclosure",
@@ -139,9 +139,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.91,
-    "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "duration_sec": 10.04,
+    "error": "URLError(gaierror(-3, 'Temporary failure in name resolution'))",
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "ccgp_purchase",
@@ -151,9 +151,9 @@
     "relevant_count": 15,
     "body_fetched_count": 15,
     "body_failed_count": 0,
-    "duration_sec": 13.53,
+    "duration_sec": 14.9,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "customs_stats",
@@ -163,9 +163,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.92,
+    "duration_sec": 1.5,
     "error": "<HTTPError 412: 'Precondition Failed'>",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "mofcom_news",
@@ -175,9 +175,9 @@
     "relevant_count": 4,
     "body_fetched_count": 3,
     "body_failed_count": 1,
-    "duration_sec": 4.98,
+    "duration_sec": 5.82,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "caam_news",
@@ -187,9 +187,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.93,
+    "duration_sec": 1.04,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "cpia_news",
@@ -199,9 +199,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 21.12,
-    "error": "TimeoutError('The read operation timed out')",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "duration_sec": 1.5,
+    "error": "<HTTPError 404: 'Not Found'>",
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   },
   {
     "source_id": "csrc_news",
@@ -211,8 +211,8 @@
     "relevant_count": 3,
     "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 2.61,
+    "duration_sec": 2.11,
     "error": "",
-    "checked_at": "2026-08-10T19:46:18.884737Z"
+    "checked_at": "2026-08-10T20:29:36.234982Z"
   }
 ]
