@@ -324,6 +324,274 @@
     ]
   },
   {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "新疆税务2026年数据中心硬件和支撑系统维修保养服务项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260811_27114818.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "新疆税务2026年数据中心硬件和支撑系统维修保养服务项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260811_27114818.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "新疆税务2026年数据中心硬件和支撑系统维修保养服务项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260811_27114818.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "新疆税务2026年数据中心硬件和支撑系统维修保养服务项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260811_27114818.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川市印台区教育质量提升暨课堂教学改革三年行动（2026年度）项目竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202608/t20260811_27114991.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "伊春市友好区供水服务中心伊春市友好区自来水厂2026年聚合氯化铝采购项目采购更正公告（第一次）",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202608/t20260811_27114980.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川市印台区教育质量提升暨课堂教学改革三年行动（2026年度）项目竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202608/t20260811_27114991.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "伊春市友好区供水服务中心伊春市友好区自来水厂2026年聚合氯化铝采购项目采购更正公告（第一次）",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202608/t20260811_27114980.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川市印台区教育质量提升暨课堂教学改革三年行动（2026年度）项目竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202608/t20260811_27114991.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "伊春市友好区供水服务中心伊春市友好区自来水厂2026年聚合氯化铝采购项目采购更正公告（第一次）",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202608/t20260811_27114980.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜川市印台区教育质量提升暨课堂教学改革三年行动（2026年度）项目竞争性磋商公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/jzxcs/202608/t20260811_27114991.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "伊春市友好区供水服务中心伊春市友好区自来水厂2026年聚合氯化铝采购项目采购更正公告（第一次）",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gzgg/202608/t20260811_27114980.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "上能电气",
     "code": "300827.SZ",
     "theme": "电力储能",
