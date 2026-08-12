@@ -6,10 +6,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -51,30 +50,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京中医药大学三校区空调清洗服务采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260812_27117625.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "长安大学公共建筑加装空调（二期）（二次）废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260812_27117610.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -112,10 +87,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -157,30 +131,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京中医药大学三校区空调清洗服务采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260812_27117625.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "长安大学公共建筑加装空调（二期）（二次）废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260812_27117610.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -218,10 +168,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -263,30 +212,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京中医药大学三校区空调清洗服务采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260812_27117625.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "长安大学公共建筑加装空调（二期）（二次）废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260812_27117610.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
@@ -324,10 +249,9 @@
     "products": [
       "家电以旧换新/出海"
     ],
-    "signal_count": 6,
+    "signal_count": 4,
     "max_score": 17,
     "sources": [
-      "中国政府采购网-采购公告",
       "商务部-新闻发布",
       "国家发改委-新闻动态",
       "工信部-新闻动态"
@@ -369,30 +293,6 @@
             "政策",
             "行动方案",
             "设备更新"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "北京中医药大学三校区空调清洗服务采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260812_27117625.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "长安大学公共建筑加装空调（二期）（二次）废标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202608/t20260812_27117610.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
           ]
         },
         "risk_hits": []
