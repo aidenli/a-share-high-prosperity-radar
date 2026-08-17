@@ -330,25 +330,12 @@
     "products": [
       "储能/PCS/逆变器"
     ],
-    "signal_count": 2,
+    "signal_count": 1,
     "max_score": 10,
     "sources": [
-      "中国政府网-政策",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "新型电力系统建设迎来“十五五”发展路线图",
-        "url": "https://www.gov.cn/zhengce/202608/content_7077423.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于印发《新型电力系统建设“十五五”规划》的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260803_1406884.html",
@@ -370,25 +357,12 @@
     "products": [
       "储能/PCS/逆变器"
     ],
-    "signal_count": 2,
+    "signal_count": 1,
     "max_score": 10,
     "sources": [
-      "中国政府网-政策",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "新型电力系统建设迎来“十五五”发展路线图",
-        "url": "https://www.gov.cn/zhengce/202608/content_7077423.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于印发《新型电力系统建设“十五五”规划》的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260803_1406884.html",
@@ -410,25 +384,12 @@
     "products": [
       "储能/PCS/逆变器"
     ],
-    "signal_count": 2,
+    "signal_count": 1,
     "max_score": 10,
     "sources": [
-      "中国政府网-政策",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "新型电力系统建设迎来“十五五”发展路线图",
-        "url": "https://www.gov.cn/zhengce/202608/content_7077423.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于印发《新型电力系统建设“十五五”规划》的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260803_1406884.html",
@@ -450,25 +411,12 @@
     "products": [
       "储能/PCS/逆变器"
     ],
-    "signal_count": 2,
+    "signal_count": 1,
     "max_score": 10,
     "sources": [
-      "中国政府网-政策",
       "国家发改委-新闻动态"
     ],
     "signals": [
-      {
-        "title": "新型电力系统建设迎来“十五五”发展路线图",
-        "url": "https://www.gov.cn/zhengce/202608/content_7077423.htm",
-        "net_score": 10,
-        "evidence_level": "C",
-        "signal_hits": {
-          "policy_support": [
-            "政策"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "关于印发《新型电力系统建设“十五五”规划》的通知",
         "url": "https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260803_1406884.html",
