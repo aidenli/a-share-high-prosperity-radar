@@ -331,18 +331,19 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "黑龙江省科技资源共享服务中心网络专线、服务器托管、云服务等结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202608/t20260818_27152820.htm",
-        "net_score": 12,
+        "title": "中国科学院计算技术研究所服务器系统采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260818_27153486.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "中标",
             "采购"
           ]
         },
@@ -358,18 +359,19 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "黑龙江省科技资源共享服务中心网络专线、服务器托管、云服务等结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202608/t20260818_27152820.htm",
-        "net_score": 12,
+        "title": "中国科学院计算技术研究所服务器系统采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260818_27153486.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "中标",
             "采购"
           ]
         },
@@ -385,18 +387,19 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "黑龙江省科技资源共享服务中心网络专线、服务器托管、云服务等结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202608/t20260818_27152820.htm",
-        "net_score": 12,
+        "title": "中国科学院计算技术研究所服务器系统采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260818_27153486.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "中标",
             "采购"
           ]
         },
@@ -412,18 +415,19 @@
       "AI服务器/算力基础设施"
     ],
     "signal_count": 1,
-    "max_score": 12,
+    "max_score": 17,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "黑龙江省科技资源共享服务中心网络专线、服务器托管、云服务等结果公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/qtgg/202608/t20260818_27152820.htm",
-        "net_score": 12,
+        "title": "中国科学院计算技术研究所服务器系统采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202608/t20260818_27153486.htm",
+        "net_score": 17,
         "evidence_level": "B",
         "signal_hits": {
           "demand_strong": [
+            "中标",
             "采购"
           ]
         },
