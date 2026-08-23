@@ -322,5 +322,113 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "工业和信息化部新闻宣传中心（人民邮电报社）2026中国算力大会接待服务项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202608/t20260823_27187787.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "工业和信息化部新闻宣传中心（人民邮电报社）2026中国算力大会接待服务项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202608/t20260823_27187787.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "工业和信息化部新闻宣传中心（人民邮电报社）2026中国算力大会接待服务项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202608/t20260823_27187787.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "工业和信息化部新闻宣传中心（人民邮电报社）2026中国算力大会接待服务项目更正公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gzgg/202608/t20260823_27187787.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
