@@ -322,5 +322,169 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "汇川技术",
+    "code": "300124.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "华中科技大学人形机器人工业场景训练场系统成交结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260824_27194946.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中科技大学惯性传感器通讯盒设计开发与测试采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202608/t20260824_27194948.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "秦川机床",
+    "code": "000837.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "华中科技大学人形机器人工业场景训练场系统成交结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260824_27194946.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中科技大学惯性传感器通讯盒设计开发与测试采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202608/t20260824_27194948.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "绿的谐波",
+    "code": "688017.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "华中科技大学人形机器人工业场景训练场系统成交结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260824_27194946.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中科技大学惯性传感器通讯盒设计开发与测试采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202608/t20260824_27194948.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
+      }
+    ]
+  },
+  {
+    "name": "鸣志电器",
+    "code": "603728.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 2,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "华中科技大学人形机器人工业场景训练场系统成交结果公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202608/t20260824_27194946.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "华中科技大学惯性传感器通讯盒设计开发与测试采购项目终止公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/fblbgg/202608/t20260824_27194948.htm",
+        "net_score": 8,
+        "evidence_level": "C",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": [
+          "终止"
+        ]
+      }
+    ]
   }
 ]
