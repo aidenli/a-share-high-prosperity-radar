@@ -1,5 +1,98 @@
 [
   {
+    "name": "三美股份",
+    "code": "603379.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "制冷剂/氟化工"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "深圳碳市场碳配额分配技术支持及MRV机制优化服务项目（2027年度）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260908_27283392.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "支持"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "巨化股份",
+    "code": "600160.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "制冷剂/氟化工"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "深圳碳市场碳配额分配技术支持及MRV机制优化服务项目（2027年度）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260908_27283392.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "支持"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "永和股份",
+    "code": "605020.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "制冷剂/氟化工"
+    ],
+    "signal_count": 1,
+    "max_score": 19,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "深圳碳市场碳配额分配技术支持及MRV机制优化服务项目（2027年度）招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260908_27283392.htm",
+        "net_score": 19,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ],
+          "policy_support": [
+            "支持"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "格力电器",
     "code": "000651.SZ",
     "theme": "消费出海",
