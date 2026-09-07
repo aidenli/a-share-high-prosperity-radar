@@ -7,9 +7,9 @@
     "relevant_count": 5,
     "body_fetched_count": 5,
     "body_failed_count": 0,
-    "duration_sec": 3.17,
+    "duration_sec": 4.01,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -19,9 +19,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.79,
+    "duration_sec": 1.07,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "ndrc_news",
@@ -31,9 +31,9 @@
     "relevant_count": 8,
     "body_fetched_count": 8,
     "body_failed_count": 0,
-    "duration_sec": 4.01,
+    "duration_sec": 5.75,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "miit_news",
@@ -43,9 +43,9 @@
     "relevant_count": 4,
     "body_fetched_count": 4,
     "body_failed_count": 0,
-    "duration_sec": 5.82,
+    "duration_sec": 7.69,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "stats_cn",
@@ -55,9 +55,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 10.95,
+    "duration_sec": 10.93,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "fed_press",
@@ -67,9 +67,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.07,
+    "duration_sec": 0.06,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "ecb_press",
@@ -79,9 +79,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.61,
+    "duration_sec": 0.49,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "imf_news",
@@ -91,9 +91,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.07,
+    "duration_sec": 0.18,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "ap_business",
@@ -103,21 +103,21 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.13,
+    "duration_sec": 0.14,
     "error": "ParseError('not well-formed (invalid token): line 3, column 239')",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "cninfo_announcement",
     "source_name": "巨潮资讯-公告检索页",
-    "status": "error",
-    "fetched_count": 0,
-    "relevant_count": 0,
-    "body_fetched_count": 0,
+    "status": "ok",
+    "fetched_count": 18,
+    "relevant_count": 1,
+    "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 20.82,
-    "error": "<HTTPError 504: 'Gateway Time-out'>",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "duration_sec": 4.07,
+    "error": "",
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "sse_disclosure",
@@ -127,9 +127,9 @@
     "relevant_count": 9,
     "body_fetched_count": 10,
     "body_failed_count": 0,
-    "duration_sec": 22.72,
+    "duration_sec": 20.1,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "szse_disclosure",
@@ -139,9 +139,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.77,
+    "duration_sec": 3.18,
     "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "ccgp_purchase",
@@ -151,9 +151,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 2.03,
+    "duration_sec": 3.08,
     "error": "<HTTPError 502: 'Bad Gateway'>",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "customs_stats",
@@ -163,9 +163,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.37,
+    "duration_sec": 1.7,
     "error": "<HTTPError 412: 'Precondition Failed'>",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "mofcom_news",
@@ -175,9 +175,9 @@
     "relevant_count": 4,
     "body_fetched_count": 3,
     "body_failed_count": 1,
-    "duration_sec": 3.74,
+    "duration_sec": 5.0,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "caam_news",
@@ -187,9 +187,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.92,
+    "duration_sec": 0.93,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "cpia_news",
@@ -199,9 +199,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.56,
+    "duration_sec": 1.58,
     "error": "<HTTPError 404: 'Not Found'>",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   },
   {
     "source_id": "csrc_news",
@@ -211,8 +211,8 @@
     "relevant_count": 3,
     "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 10.12,
+    "duration_sec": 8.42,
     "error": "",
-    "checked_at": "2026-09-07T05:24:12.159925Z"
+    "checked_at": "2026-09-07T10:56:56.055716Z"
   }
 ]
