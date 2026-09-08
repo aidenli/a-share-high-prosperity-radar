@@ -1,5 +1,121 @@
 [
   {
+    "name": "汇川技术",
+    "code": "300124.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 22,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "浙江省国际技术设备招标有限公司关于浙江大学医学院附属邵逸夫医院手术机器人模拟器项目中标(...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260908_27291281.htm",
+        "net_score": 22,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "秦川机床",
+    "code": "000837.SZ",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 22,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "浙江省国际技术设备招标有限公司关于浙江大学医学院附属邵逸夫医院手术机器人模拟器项目中标(...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260908_27291281.htm",
+        "net_score": 22,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "绿的谐波",
+    "code": "688017.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 22,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "浙江省国际技术设备招标有限公司关于浙江大学医学院附属邵逸夫医院手术机器人模拟器项目中标(...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260908_27291281.htm",
+        "net_score": 22,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "鸣志电器",
+    "code": "603728.SH",
+    "theme": "机器人高端制造",
+    "products": [
+      "人形机器人核心零部件"
+    ],
+    "signal_count": 1,
+    "max_score": 22,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "浙江省国际技术设备招标有限公司关于浙江大学医学院附属邵逸夫医院手术机器人模拟器项目中标(...",
+        "url": "http://www.ccgp.gov.cn/cggg/dfgg/zbgg/202609/t20260908_27291281.htm",
+        "net_score": 22,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "格力电器",
     "code": "000651.SZ",
     "theme": "消费出海",
