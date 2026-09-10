@@ -322,5 +322,113 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中国铝业",
+    "code": "601600.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜排、电缆采购项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260910_27307785.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方稀土",
+    "code": "600111.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜排、电缆采购项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260910_27307785.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "洛阳钼业",
+    "code": "603993.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜排、电缆采购项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260910_27307785.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫金矿业",
+    "code": "601899.SH",
+    "theme": "资源品涨价",
+    "products": [
+      "铜/铝/稀土等资源品"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "铜排、电缆采购项目废标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/qtgg/202609/t20260910_27307785.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
