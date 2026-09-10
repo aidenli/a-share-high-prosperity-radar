@@ -330,30 +330,15 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 4,
-    "max_score": 15,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "建材工业质量认证管理中心服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300592.htm",
-        "net_score": 15,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
-          "new_product": [
-            "认证"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民警察大学计算资源扩容项目服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300595.htm",
+        "title": "四川大学华西医院(四川省国际医院)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301407.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -364,20 +349,8 @@
         "risk_hits": []
       },
       {
-        "title": "中国科学技术信息研究所服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300593.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民公安大学服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300609.htm",
+        "title": "国家气象中心(中央气象台)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301415.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -396,30 +369,15 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 4,
-    "max_score": 15,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "建材工业质量认证管理中心服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300592.htm",
-        "net_score": 15,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
-          "new_product": [
-            "认证"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民警察大学计算资源扩容项目服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300595.htm",
+        "title": "四川大学华西医院(四川省国际医院)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301407.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -430,20 +388,8 @@
         "risk_hits": []
       },
       {
-        "title": "中国科学技术信息研究所服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300593.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民公安大学服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300609.htm",
+        "title": "国家气象中心(中央气象台)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301415.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -462,30 +408,15 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 4,
-    "max_score": 15,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "建材工业质量认证管理中心服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300592.htm",
-        "net_score": 15,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
-          "new_product": [
-            "认证"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民警察大学计算资源扩容项目服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300595.htm",
+        "title": "四川大学华西医院(四川省国际医院)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301407.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -496,20 +427,8 @@
         "risk_hits": []
       },
       {
-        "title": "中国科学技术信息研究所服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300593.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民公安大学服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300609.htm",
+        "title": "国家气象中心(中央气象台)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301415.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -528,30 +447,15 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 4,
-    "max_score": 15,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
       "中国政府采购网-采购公告"
     ],
     "signals": [
       {
-        "title": "建材工业质量认证管理中心服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300592.htm",
-        "net_score": 15,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ],
-          "new_product": [
-            "认证"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民警察大学计算资源扩容项目服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300595.htm",
+        "title": "四川大学华西医院(四川省国际医院)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301407.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
@@ -562,20 +466,8 @@
         "risk_hits": []
       },
       {
-        "title": "中国科学技术信息研究所服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300593.htm",
-        "net_score": 12,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
-      {
-        "title": "中国人民公安大学服务器（询价）采购项目成交公告",
-        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260909_27300609.htm",
+        "title": "国家气象中心(中央气象台)服务器（询价）采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260910_27301415.htm",
         "net_score": 12,
         "evidence_level": "B",
         "signal_hits": {
