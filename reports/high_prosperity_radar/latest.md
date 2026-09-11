@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-09-10T23:31:41.082203Z
+生成时间：2026-09-11T01:53:27.066568Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -18,7 +18,7 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | 巨潮资讯-公告检索页 | ok | 18 | 1 | 1 |  |
-| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
+| 上交所-披露公告 | ok | 40 | 9 | 8 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
 | 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
@@ -181,17 +181,17 @@
 
 ### 16. 关于上市审核中心
 - 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=7, risk=4, 证据等级=C, 正文抓取=是
+- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=否
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
-- 命中：{"new_product": ["上市"], "policy_support": ["政策", "规划"]}
-- 风险词：终止
+- 命中：{"new_product": ["上市"]}
+- 风险词：无
 - 链接：https://www.sse.com.cn/listing/aboutus/home/
 
 ### 17. 上市公司信息
 - 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
+- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=否
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
@@ -360,21 +360,10 @@
 - 风险提示：无
 - 代表线索：
   - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
+  - [关于上市审核中心](https://www.sse.com.cn/listing/aboutus/home/)（上交所-披露公告，net=6）
   - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
-  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
 
-### 4. 未分类 / new_product+policy_support
-- 故事分：38
-- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：终止
-- 代表线索：
-  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
-  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
-  - [证监会组织开展“读懂上市公司报告”投资者教育专项活动](http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml)（证监会-新闻发布，net=8）
-
-### 5. 未分类 / policy_support
+### 4. 未分类 / policy_support
 - 故事分：36
 - 来源数：3，来源：中国政府网-政策, 商务部-新闻发布, 国家发改委-新闻动态
 - 产品：无
@@ -385,7 +374,7 @@
   - [国家发展改革委召开“十五五”规划《纲要》重大工程建设推进会议 调度109项重大工程项目实施](https://www.ndrc.gov.cn/xwdt/xwfb/202609/t20260904_1407416.html)（国家发改委-新闻动态，net=5）
   - [国家发展改革委发展战略和规划司研究课题征集公告](https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260820_1407104.html)（国家发改委-新闻动态，net=5）
 
-### 6. 未分类 / demand_strong+new_product
+### 5. 未分类 / demand_strong+new_product
 - 故事分：34
 - 来源数：2，来源：上交所-披露公告, 工信部-新闻动态
 - 产品：无
@@ -394,6 +383,17 @@
 - 代表线索：
   - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
   - [REITs发行上市一件事](https://one.sse.com.cn/onething/reits/)（上交所-披露公告，net=5）
+
+### 6. 未分类 / new_product+policy_support
+- 故事分：32
+- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：无
+- 代表线索：
+  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
+  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
+  - [证监会组织开展“读懂上市公司报告”投资者教育专项活动](http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml)（证监会-新闻发布，net=8）
 
 ### 7. 未分类 / demand_strong
 - 故事分：27
