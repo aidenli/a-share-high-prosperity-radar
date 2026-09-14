@@ -322,5 +322,113 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中科曙光",
+    "code": "603019.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 10,
+    "sources": [
+      "中国政府网-政策"
+    ],
+    "signals": [
+      {
+        "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
+        "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "政策"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "工业富联",
+    "code": "601138.SH",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 10,
+    "sources": [
+      "中国政府网-政策"
+    ],
+    "signals": [
+      {
+        "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
+        "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "政策"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "浪潮信息",
+    "code": "000977.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 10,
+    "sources": [
+      "中国政府网-政策"
+    ],
+    "signals": [
+      {
+        "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
+        "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "政策"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "紫光股份",
+    "code": "000938.SZ",
+    "theme": "AI算力",
+    "products": [
+      "AI服务器/算力基础设施"
+    ],
+    "signal_count": 1,
+    "max_score": 10,
+    "sources": [
+      "中国政府网-政策"
+    ],
+    "signals": [
+      {
+        "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
+        "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
+        "net_score": 10,
+        "evidence_level": "C",
+        "signal_hits": {
+          "policy_support": [
+            "政策"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]

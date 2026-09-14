@@ -4,12 +4,12 @@
     "source_name": "中国政府网-政策",
     "status": "ok",
     "fetched_count": 30,
-    "relevant_count": 1,
-    "body_fetched_count": 1,
+    "relevant_count": 3,
+    "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 0.91,
+    "duration_sec": 3.09,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "xinhua_fortune",
@@ -19,21 +19,21 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.89,
+    "duration_sec": 0.77,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "ndrc_news",
     "source_name": "国家发改委-新闻动态",
     "status": "ok",
     "fetched_count": 38,
-    "relevant_count": 6,
-    "body_fetched_count": 6,
+    "relevant_count": 5,
+    "body_fetched_count": 5,
     "body_failed_count": 0,
-    "duration_sec": 4.02,
+    "duration_sec": 3.47,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "miit_news",
@@ -43,9 +43,9 @@
     "relevant_count": 4,
     "body_fetched_count": 4,
     "body_failed_count": 0,
-    "duration_sec": 5.53,
+    "duration_sec": 5.32,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "stats_cn",
@@ -55,9 +55,9 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 10.99,
+    "duration_sec": 12.79,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "fed_press",
@@ -67,9 +67,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.08,
+    "duration_sec": 0.07,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "ecb_press",
@@ -79,9 +79,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.5,
+    "duration_sec": 0.74,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "imf_news",
@@ -91,9 +91,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 0.09,
+    "duration_sec": 0.1,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "ap_business",
@@ -105,7 +105,7 @@
     "body_failed_count": 0,
     "duration_sec": 0.14,
     "error": "<HTTPError 403: 'Forbidden'>",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "cninfo_announcement",
@@ -115,21 +115,21 @@
     "relevant_count": 1,
     "body_fetched_count": 1,
     "body_failed_count": 0,
-    "duration_sec": 5.06,
+    "duration_sec": 3.84,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "sse_disclosure",
     "source_name": "上交所-披露公告",
-    "status": "ok",
-    "fetched_count": 40,
-    "relevant_count": 9,
-    "body_fetched_count": 10,
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 18.96,
-    "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "duration_sec": 1.36,
+    "error": "<HTTPError 403: 'Forbidden'>",
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "szse_disclosure",
@@ -139,21 +139,21 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 3.4,
+    "duration_sec": 3.38,
     "error": "URLError(ConnectionResetError(104, 'Connection reset by peer'))",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "ccgp_purchase",
     "source_name": "中国政府采购网-采购公告",
-    "status": "ok",
-    "fetched_count": 21,
-    "relevant_count": 10,
-    "body_fetched_count": 10,
+    "status": "error",
+    "fetched_count": 0,
+    "relevant_count": 0,
+    "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 10.61,
-    "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "duration_sec": 0.94,
+    "error": "<HTTPError 403: 'Forbidden'>",
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "customs_stats",
@@ -163,9 +163,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.13,
+    "duration_sec": 1.86,
     "error": "<HTTPError 412: 'Precondition Failed'>",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "mofcom_news",
@@ -175,9 +175,9 @@
     "relevant_count": 4,
     "body_fetched_count": 3,
     "body_failed_count": 1,
-    "duration_sec": 4.2,
+    "duration_sec": 5.6,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "caam_news",
@@ -187,9 +187,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 1.05,
+    "duration_sec": 1.41,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "cpia_news",
@@ -199,9 +199,9 @@
     "relevant_count": 0,
     "body_fetched_count": 0,
     "body_failed_count": 0,
-    "duration_sec": 2.03,
+    "duration_sec": 1.7,
     "error": "<HTTPError 404: 'Not Found'>",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   },
   {
     "source_id": "csrc_news",
@@ -211,8 +211,8 @@
     "relevant_count": 3,
     "body_fetched_count": 3,
     "body_failed_count": 0,
-    "duration_sec": 7.1,
+    "duration_sec": 8.16,
     "error": "",
-    "checked_at": "2026-09-13T23:44:34.395816Z"
+    "checked_at": "2026-09-14T02:09:37.774253Z"
   }
 ]
