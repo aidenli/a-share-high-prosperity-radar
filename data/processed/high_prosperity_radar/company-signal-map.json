@@ -330,26 +330,12 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 2,
-    "max_score": 17,
+    "signal_count": 1,
+    "max_score": 10,
     "sources": [
-      "中国政府网-政策",
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
-      {
-        "title": "深圳市新华医院超融合服务器和分布式存储设备采购项目（A）招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260916_27333681.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
@@ -371,26 +357,12 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 2,
-    "max_score": 17,
+    "signal_count": 1,
+    "max_score": 10,
     "sources": [
-      "中国政府网-政策",
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
-      {
-        "title": "深圳市新华医院超融合服务器和分布式存储设备采购项目（A）招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260916_27333681.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
@@ -412,26 +384,12 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 2,
-    "max_score": 17,
+    "signal_count": 1,
+    "max_score": 10,
     "sources": [
-      "中国政府网-政策",
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
-      {
-        "title": "深圳市新华医院超融合服务器和分布式存储设备采购项目（A）招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260916_27333681.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
@@ -453,26 +411,12 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 2,
-    "max_score": 17,
+    "signal_count": 1,
+    "max_score": 10,
     "sources": [
-      "中国政府网-政策",
-      "中国政府采购网-采购公告"
+      "中国政府网-政策"
     ],
     "signals": [
-      {
-        "title": "深圳市新华医院超融合服务器和分布式存储设备采购项目（A）招标公告",
-        "url": "http://www.ccgp.gov.cn/cggg/dfgg/gkzb/202609/t20260916_27333681.htm",
-        "net_score": 17,
-        "evidence_level": "B",
-        "signal_hits": {
-          "demand_strong": [
-            "招标",
-            "采购"
-          ]
-        },
-        "risk_hits": []
-      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
