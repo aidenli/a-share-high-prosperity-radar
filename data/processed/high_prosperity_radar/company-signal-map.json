@@ -330,12 +330,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 10,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
-      "中国政府网-政策"
+      "中国政府网-政策",
+      "中国政府采购网-采购公告"
     ],
     "signals": [
+      {
+        "title": "公安部大数据中心2026年2025式被装采购项目II",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202609/t20260916_27334166.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
@@ -357,12 +370,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 10,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
-      "中国政府网-政策"
+      "中国政府网-政策",
+      "中国政府采购网-采购公告"
     ],
     "signals": [
+      {
+        "title": "公安部大数据中心2026年2025式被装采购项目II",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202609/t20260916_27334166.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
@@ -384,12 +410,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 10,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
-      "中国政府网-政策"
+      "中国政府网-政策",
+      "中国政府采购网-采购公告"
     ],
     "signals": [
+      {
+        "title": "公安部大数据中心2026年2025式被装采购项目II",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202609/t20260916_27334166.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
@@ -411,12 +450,25 @@
     "products": [
       "AI服务器/算力基础设施"
     ],
-    "signal_count": 1,
-    "max_score": 10,
+    "signal_count": 2,
+    "max_score": 12,
     "sources": [
-      "中国政府网-政策"
+      "中国政府网-政策",
+      "中国政府采购网-采购公告"
     ],
     "signals": [
+      {
+        "title": "公安部大数据中心2026年2025式被装采购项目II",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/xjgg/202609/t20260916_27334166.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
       {
         "title": "国务院常务会议解读｜国务院常务会议研究算力网建设有关工作",
         "url": "https://www.gov.cn/zhengce/202609/content_7080805.htm",
