@@ -324,6 +324,114 @@
     ]
   },
   {
+    "name": "中微公司",
+    "code": "688012.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海技术物理研究所低温超深宽比反应离子刻蚀系统采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260916_27341401.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方华创",
+    "code": "002371.SZ",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海技术物理研究所低温超深宽比反应离子刻蚀系统采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260916_27341401.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "拓荆科技",
+    "code": "688072.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海技术物理研究所低温超深宽比反应离子刻蚀系统采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260916_27341401.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "盛美上海",
+    "code": "688082.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 1,
+    "max_score": 12,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中国科学院上海技术物理研究所低温超深宽比反应离子刻蚀系统采购项目成交公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/cjgg/202609/t20260916_27341401.htm",
+        "net_score": 12,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
     "name": "中科曙光",
     "code": "603019.SH",
     "theme": "AI算力",
