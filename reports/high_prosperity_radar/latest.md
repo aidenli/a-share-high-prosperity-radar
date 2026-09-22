@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-09-21T21:20:05.477188Z
+生成时间：2026-09-22T00:20:51.309151Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -23,7 +23,7 @@
 | 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
-| 中国汽车工业协会-行业信息 | error | 0 | 0 | 0 | ConnectionResetError(104, 'Connection reset by peer') |
+| 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
 | 中国光伏行业协会-新闻动态 | error | 0 | 0 | 0 | URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifica |
 | 证监会-新闻发布 | ok | 24 | 3 | 3 |  |
 
