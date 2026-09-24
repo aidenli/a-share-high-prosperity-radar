@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-09-24T07:53:52.270042Z
+生成时间：2026-09-24T12:58:36.729392Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -89,7 +89,17 @@
 - 风险词：无
 - 链接：https://www.sse.com.cn/services/tradingtech/notice/
 
-### 7. 2023－2024年中国家电行业品牌评价结果发布
+### 7. 图表：截至2026年8月底全国累计发电装机容量达41.03亿千瓦
+- 来源：中国政府网-政策 / A1 / CN
+- 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["装机"], "policy_support": ["政策"]}
+- 风险词：无
+- 链接：https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081984.htm
+
+### 8. 2023－2024年中国家电行业品牌评价结果发布
 - 来源：工信部-新闻动态 / A1 / CN
 - 分数：net=10, signal=2, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海
@@ -99,7 +109,7 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html
 
-### 8. 企业上市服务
+### 9. 企业上市服务
 - 来源：上交所-披露公告 / A1 / CN
 - 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -109,7 +119,7 @@
 - 风险词：无
 - 链接：https://www.sse.com.cn/services/listingwithsse/home/
 
-### 9. 消费品以旧换新
+### 10. 消费品以旧换新
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=10, signal=2, risk=0, 证据等级=C, 正文抓取=否
 - 主题：消费出海
@@ -118,16 +128,6 @@
 - 命中：{"policy_support": ["以旧换新"]}
 - 风险词：无
 - 链接：http://scyxs.mofcom.gov.cn/xfpyjhx/index.html
-
-### 10. 图表:前8个月全国一般公共预算收入同比增长5.7%
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"high_prosperity": ["同比增长"], "policy_support": ["政策"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081476.htm
 
 ### 11. 稳外贸稳外资政策措施
 - 来源：商务部-新闻发布 / A1 / CN
@@ -279,7 +279,7 @@
 - 风险词：无
 - 链接：http://www.csrc.gov.cn/csrc/c100028/c1556032/content.shtml
 
-### 26. 国务院办公厅转发文化和旅游部等部门《关于促进房车消费的若干措施》的通知
+### 26. 关于促进房车消费的若干措施
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海
@@ -414,14 +414,14 @@
 - 代表线索：
   - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=12）
 
-### 9. 未分类 / high_prosperity+policy_support
-- 故事分：12
+### 9. 未分类 / demand_strong+policy_support
+- 故事分：13
 - 来源数：1，来源：中国政府网-政策
 - 产品：无
 - 公司：无
 - 风险提示：无
 - 代表线索：
-  - [图表:前8个月全国一般公共预算收入同比增长5.7%](https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081476.htm)（中国政府网-政策，net=9）
+  - [图表：截至2026年8月底全国累计发电装机容量达41.03亿千瓦](https://www.gov.cn/zhengce/jiedu/tujie/202609/content_7081984.htm)（中国政府网-政策，net=10）
 
 ## 4. 公司线索映射
 
