@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-09-27T22:38:52.689404Z
+生成时间：2026-09-28T01:16:01.931700Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -10,7 +10,7 @@
 |---|---:|---:|---:|---:|---|
 | 中国政府网-政策 | ok | 30 | 5 | 5 |  |
 | 新华社-财经 | ok | 0 | 0 | 0 |  |
-| 国家发改委-新闻动态 | ok | 38 | 7 | 7 |  |
+| 国家发改委-新闻动态 | ok | 38 | 4 | 4 |  |
 | 工信部-新闻动态 | ok | 37 | 4 | 4 |  |
 | 国家统计局-数据发布 | ok | 40 | 1 | 1 |  |
 | Federal Reserve Press Releases | ok | 20 | 0 | 0 |  |
@@ -18,7 +18,7 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | 巨潮资讯-公告检索页 | ok | 18 | 1 | 1 |  |
-| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
+| 上交所-披露公告 | ok | 40 | 9 | 9 |  |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
 | 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
@@ -231,7 +231,7 @@
 
 ### 21. 上市公司监管
 - 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
+- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=否
 - 主题：未分类
 - 产品映射：无
 - 公司映射：无
@@ -309,17 +309,7 @@
 - 风险词：无
 - 链接：https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260820_1407104.html
 
-### 29. 江西省发展改革委召开南昌都市圈发展规划专家咨询会
-- 来源：国家发改委-新闻动态 / A1 / CN
-- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["规划"]}
-- 风险词：无
-- 链接：https://www.ndrc.gov.cn/xwdt/dt/dfdt/202609/t20260922_1407754.html
-
-### 30. 黑龙江省2026年首笔新型政策性金融工具成功投放
+### 29. 国家发展改革委相关工作负责同志参加国新办新闻发布会 介绍利用外资固稳促优有关政策措施有关...
 - 来源：国家发改委-新闻动态 / A1 / CN
 - 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -327,7 +317,17 @@
 - 公司映射：无
 - 命中：{"policy_support": ["政策"]}
 - 风险词：无
-- 链接：https://www.ndrc.gov.cn/xwdt/dt/dfdt/202609/t20260920_1407717.html
+- 链接：http://www.china.com.cn/zhibo/content_118558185.htm
+
+### 30. REITs发行上市一件事
+- 来源：上交所-披露公告 / A1 / CN
+- 分数：net=5, signal=10, risk=8, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"demand_strong": ["合同"], "new_product": ["上市"], "policy_support": ["支持"]}
+- 风险词：延期, 终止
+- 链接：https://one.sse.com.cn/onething/reits/
 
 ## 3. 合并故事线
 
