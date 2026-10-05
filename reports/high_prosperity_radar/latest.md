@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-10-05T01:21:55.093403Z
+生成时间：2026-10-05T07:51:01.647978Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -25,7 +25,7 @@
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
 | 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
 | 中国光伏行业协会-新闻动态 | error | 0 | 0 | 0 | URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifica |
-| 证监会-新闻发布 | error | 0 | 0 | 0 | URLError(TimeoutError('timed out')) |
+| 证监会-新闻发布 | ok | 24 | 3 | 3 |  |
 
 ## 2. 高分信号 Top 30
 
@@ -309,7 +309,17 @@
 - 风险词：无
 - 链接：https://one.sse.com.cn/onething/zqfx/
 
-### 29. 中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》
+### 29. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
+- 来源：证监会-新闻发布 / A1 / CN
+- 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["上市"], "policy_support": ["专项"]}
+- 风险词：无
+- 链接：http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml
+
+### 30. 中共中央办公厅 国务院办公厅印发《文化遗产保护传承“十五五”规划》
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -318,16 +328,6 @@
 - 命中：{"policy_support": ["政策", "规划"]}
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202609/content_7082364.htm
-
-### 30. 国家新闻出版署有关负责同志就《出版业发展“十五五”规划》答记者问
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"policy_support": ["政策", "规划"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/202609/content_7081651.htm
 
 ## 3. 合并故事线
 
@@ -363,7 +363,29 @@
   - [李强主持召开国务院常务会议 研究促进创业投资发展的有关举措等](https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html)（工信部-新闻动态，net=17）
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（商务部-新闻发布，net=17）
 
-### 4. 未分类 / policy_support
+### 4. 未分类 / new_product
+- 故事分：39
+- 来源数：3，来源：上交所-披露公告, 巨潮资讯-公告检索页, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：无
+- 代表线索：
+  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
+  - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
+  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
+
+### 5. 未分类 / new_product+policy_support
+- 故事分：38
+- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
+- 产品：无
+- 公司：无
+- 风险提示：终止
+- 代表线索：
+  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
+  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
+  - [证监会组织开展“读懂上市公司报告”投资者教育专项活动](http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml)（证监会-新闻发布，net=8）
+
+### 6. 未分类 / policy_support
 - 故事分：38
 - 来源数：3，来源：中国政府网-政策, 商务部-新闻发布, 国家发改委-新闻动态
 - 产品：无
@@ -374,18 +396,7 @@
   - [国家新闻出版署有关负责同志就《出版业发展“十五五”规划》答记者问](https://www.gov.cn/zhengce/202609/content_7081651.htm)（中国政府网-政策，net=7）
   - [国家发展改革委发展战略和规划司研究课题入选公告](https://www.ndrc.gov.cn/xwdt/tzgg/202609/t20260914_1407622.html)（国家发改委-新闻动态，net=5）
 
-### 5. 未分类 / new_product
-- 故事分：36
-- 来源数：2，来源：上交所-披露公告, 巨潮资讯-公告检索页
-- 产品：无
-- 公司：无
-- 风险提示：无
-- 代表线索：
-  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
-  - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
-  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
-
-### 6. 未分类 / demand_strong+new_product
+### 7. 未分类 / demand_strong+new_product
 - 故事分：34
 - 来源数：2，来源：上交所-披露公告, 工信部-新闻动态
 - 产品：无
@@ -394,17 +405,6 @@
 - 代表线索：
   - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
   - [REITs发行上市一件事](https://one.sse.com.cn/onething/reits/)（上交所-披露公告，net=5）
-
-### 7. 未分类 / new_product+policy_support
-- 故事分：27
-- 来源数：1，来源：上交所-披露公告
-- 产品：无
-- 公司：无
-- 风险提示：终止
-- 代表线索：
-  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
-  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
-  - [关于上市审核中心](https://www.sse.com.cn/listing/aboutus/home/)（上交所-披露公告，net=6）
 
 ### 8. AI算力 / demand_strong
 - 故事分：22
