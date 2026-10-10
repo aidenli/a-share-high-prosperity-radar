@@ -322,5 +322,169 @@
         "risk_hits": []
       }
     ]
+  },
+  {
+    "name": "中微公司",
+    "code": "688012.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中山大学柔性电子学院半导体器件电性测试平台采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261010_27466013.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "东南大学电子科学与工程学院深反应离子刻蚀机（DRIE）采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261010_27465962.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "北方华创",
+    "code": "002371.SZ",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中山大学柔性电子学院半导体器件电性测试平台采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261010_27466013.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "东南大学电子科学与工程学院深反应离子刻蚀机（DRIE）采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261010_27465962.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "拓荆科技",
+    "code": "688072.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中山大学柔性电子学院半导体器件电性测试平台采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261010_27466013.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "东南大学电子科学与工程学院深反应离子刻蚀机（DRIE）采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261010_27465962.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
+  },
+  {
+    "name": "盛美上海",
+    "code": "688082.SH",
+    "theme": "半导体",
+    "products": [
+      "半导体设备"
+    ],
+    "signal_count": 2,
+    "max_score": 17,
+    "sources": [
+      "中国政府采购网-采购公告"
+    ],
+    "signals": [
+      {
+        "title": "中山大学柔性电子学院半导体器件电性测试平台采购项目公开招标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/gkzb/202610/t20261010_27466013.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "招标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      },
+      {
+        "title": "东南大学电子科学与工程学院深反应离子刻蚀机（DRIE）采购项目中标公告",
+        "url": "http://www.ccgp.gov.cn/cggg/zygg/zbgg/202610/t20261010_27465962.htm",
+        "net_score": 17,
+        "evidence_level": "B",
+        "signal_hits": {
+          "demand_strong": [
+            "中标",
+            "采购"
+          ]
+        },
+        "risk_hits": []
+      }
+    ]
   }
 ]
