@@ -1,6 +1,6 @@
 # A股高景气公开信号雷达 MVP
 
-生成时间：2026-10-10T10:11:43.440703Z
+生成时间：2026-10-10T15:58:44.091045Z
 
 > 说明：本报告只收集公开互联网线索，不使用 Tushare，不构成买卖建议。后续必须经过公司映射、财务、估值、行情和风险反证验证。
 
@@ -8,7 +8,7 @@
 
 | 来源 | 状态 | 抓取数 | 有效信号数 | 正文抓取 | 错误 |
 |---|---:|---:|---:|---:|---|
-| 中国政府网-政策 | ok | 30 | 8 | 8 |  |
+| 中国政府网-政策 | ok | 30 | 7 | 7 |  |
 | 新华社-财经 | ok | 0 | 0 | 0 |  |
 | 国家发改委-新闻动态 | ok | 38 | 6 | 6 |  |
 | 工信部-新闻动态 | ok | 37 | 4 | 4 |  |
@@ -18,12 +18,12 @@
 | IMF News | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | AP Business | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | 巨潮资讯-公告检索页 | ok | 18 | 1 | 1 |  |
-| 上交所-披露公告 | ok | 40 | 9 | 10 |  |
+| 上交所-披露公告 | error | 0 | 0 | 0 | <HTTPError 403: 'Forbidden'> |
 | 深交所-上市公司公告 | error | 0 | 0 | 0 | URLError(ConnectionResetError(104, 'Connection reset by peer')) |
 | 中国政府采购网-采购公告 | error | 0 | 0 | 0 | <HTTPError 502: 'Bad Gateway'> |
 | 海关总署-统计数据 | error | 0 | 0 | 0 | <HTTPError 412: 'Precondition Failed'> |
 | 商务部-新闻发布 | ok | 18 | 4 | 3 |  |
-| 中国汽车工业协会-行业信息 | ok | 40 | 0 | 0 |  |
+| 中国汽车工业协会-行业信息 | ok | 40 | 1 | 1 |  |
 | 中国光伏行业协会-新闻动态 | error | 0 | 0 | 0 | URLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certifica |
 | 证监会-新闻发布 | ok | 24 | 3 | 3 |  |
 
@@ -59,7 +59,17 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm
 
-### 4. 推动大规模设备更新和消费品以旧换新
+### 4. · 支持强化汽车产品创新设计与研发测试验证管理，推动产业可持续健康发展 [2026.10.10]
+- 来源：中国汽车工业协会-行业信息 / A2 / CN
+- 分数：net=17, signal=15, risk=0, 证据等级=B, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"new_product": ["新技术", "认证", "迭代", "验证"], "policy_support": ["加快", "推动", "支持", "政策"]}
+- 风险词：无
+- 链接：http://www.caam.org.cn/chn/1/cate_2/con_5237354.html
+
+### 5. 推动大规模设备更新和消费品以旧换新
 - 来源：国家发改委-新闻动态 / A1 / CN
 - 分数：net=14, signal=6, risk=0, 证据等级=B, 正文抓取=是
 - 主题：消费出海
@@ -69,7 +79,7 @@
 - 风险词：无
 - 链接：https://www.ndrc.gov.cn/xwdt/ztzl/tddgmsbgxhxfpyjhx/
 
-### 5. 我国自主研制的载人飞艇AS700首架交付即将开启商业运营
+### 6. 我国自主研制的载人飞艇AS700首架交付即将开启商业运营
 - 来源：工信部-新闻动态 / A1 / CN
 - 分数：net=13, signal=10, risk=0, 证据等级=B, 正文抓取=是
 - 主题：未分类
@@ -78,16 +88,6 @@
 - 命中：{"demand_strong": ["交付", "订单"]}
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html
-
-### 6. 交易技术支持专区
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=12, signal=9, risk=0, 证据等级=B, 正文抓取=是
-- 主题：AI算力
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"], "policy_support": ["support", "专项", "支持"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/services/tradingtech/notice/
 
 ### 7. 2023－2024年中国家电行业品牌评价结果发布
 - 来源：工信部-新闻动态 / A1 / CN
@@ -99,17 +99,7 @@
 - 风险词：无
 - 链接：https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_ac3ad98e19854c0190f5a3963f4c9252.html
 
-### 8. 企业上市服务
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=10, signal=7, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"], "policy_support": ["支持", "政策"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/services/listingwithsse/home/
-
-### 9. 消费品以旧换新
+### 8. 消费品以旧换新
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=10, signal=2, risk=0, 证据等级=C, 正文抓取=否
 - 主题：消费出海
@@ -119,7 +109,7 @@
 - 风险词：无
 - 链接：http://scyxs.mofcom.gov.cn/xfpyjhx/index.html
 
-### 10. 加快发展新质生产力，顶层设计和路线图来了
+### 9. 加快发展新质生产力，顶层设计和路线图来了
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -129,17 +119,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202610/content_7082841.htm
 
-### 11. 图表：国庆假期高速公路新能源汽车日均充电量同比增长51.42%
-- 来源：中国政府网-政策 / A1 / CN
-- 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
-- 主题：电力储能
-- 产品映射：无
-- 公司映射：无
-- 命中：{"high_prosperity": ["同比增长"], "policy_support": ["政策"]}
-- 风险词：无
-- 链接：https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082752.htm
-
-### 12. 稳外贸稳外资政策措施
+### 10. 稳外贸稳外资政策措施
 - 来源：商务部-新闻发布 / A1 / CN
 - 分数：net=9, signal=6, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海
@@ -149,7 +129,7 @@
 - 风险词：无
 - 链接：http://www.mofcom.gov.cn/zcfb/wwmwwzzccs/index.html
 
-### 13. 2026年9月中国采购经理指数运行情况
+### 11. 2026年9月中国采购经理指数运行情况
 - 来源：国家统计局-数据发布 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -159,17 +139,7 @@
 - 风险词：无
 - 链接：https://www.stats.gov.cn/sj/zxfb/202609/t20260930_1965449.html
 
-### 14. 债券发行上市一件事
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"], "policy_support": ["支持"]}
-- 风险词：无
-- 链接：https://one.sse.com.cn/onething/zqfx/
-
-### 15. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
+### 12. 证监会组织开展“读懂上市公司报告”投资者教育专项活动
 - 来源：证监会-新闻发布 / A1 / CN
 - 分数：net=8, signal=5, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -179,7 +149,7 @@
 - 风险词：无
 - 链接：http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml
 
-### 16. 中共中央 国务院关于发展新质生产力的意见
+### 13. 中共中央 国务院关于发展新质生产力的意见
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -189,7 +159,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202610/content_7082820.htm
 
-### 17. 中办国办印发《文化遗产保护传承“十五五”规划》
+### 14. 中办国办印发《文化遗产保护传承“十五五”规划》
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -199,7 +169,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202609/content_7082364.htm
 
-### 18. 国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问
+### 15. 国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -209,7 +179,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202610/content_7082860.htm
 
-### 19. 国家新闻出版署有关负责同志就《出版业发展“十五五”规划》答记者问
+### 16. 国家新闻出版署有关负责同志就《出版业发展“十五五”规划》答记者问
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -219,7 +189,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202609/content_7081651.htm
 
-### 20. 打通堵点释放潜力 十部门推出促进房车消费若干措施
+### 17. 打通堵点释放潜力 十部门推出促进房车消费若干措施
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：消费出海
@@ -229,7 +199,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/202609/content_7081497.htm
 
-### 21. 图表：中共中央、国务院印发《关于发展新质生产力的意见》围绕5方面创新
+### 18. 图表：中共中央、国务院印发《关于发展新质生产力的意见》围绕5方面创新
 - 来源：中国政府网-政策 / A1 / CN
 - 分数：net=7, signal=4, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -239,7 +209,7 @@
 - 风险词：无
 - 链接：https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082855.htm
 
-### 22. 上市公司嵌入
+### 19. 上市公司嵌入
 - 来源：巨潮资讯-公告检索页 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -249,57 +219,7 @@
 - 风险词：无
 - 链接：http://webapi.cninfo.com.cn/
 
-### 23. 关于上市审核中心
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=7, risk=4, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"], "policy_support": ["政策", "规划"]}
-- 风险词：终止
-- 链接：https://www.sse.com.cn/listing/aboutus/home/
-
-### 24. 上市公司信息
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/disclosure/listedinfo/announcement/
-
-### 25. 上市公司监管
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/regulation/supervision/dynamic/
-
-### 26. 发行上市审核监管
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/regulation/listing/measures/
-
-### 27. 上市公司服务
-- 来源：上交所-披露公告 / A1 / CN
-- 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
-- 主题：未分类
-- 产品映射：无
-- 公司映射：无
-- 命中：{"new_product": ["上市"]}
-- 风险词：无
-- 链接：https://www.sse.com.cn/services/listing/xyzr/
-
-### 28. 中国证监会原发审委委员、上海证券交易所原科创板上市审核中心副主任操舰严重违纪违法被开除党籍和公职
+### 20. 中国证监会原发审委委员、上海证券交易所原科创板上市审核中心副主任操舰严重违纪违法被开除党籍和公职
 - 来源：证监会-新闻发布 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -309,7 +229,7 @@
 - 风险词：无
 - 链接：http://www.csrc.gov.cn/csrc/c100028/c1605559/content.shtml
 
-### 29. 证监会就上市公司监管法规体系整合涉及相关规则公开征求意见
+### 21. 证监会就上市公司监管法规体系整合涉及相关规则公开征求意见
 - 来源：证监会-新闻发布 / A1 / CN
 - 分数：net=6, signal=3, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -319,7 +239,7 @@
 - 风险词：无
 - 链接：http://www.csrc.gov.cn/csrc/c100028/c1556032/content.shtml
 
-### 30. 国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问
+### 22. 国家发展改革委有关负责同志就《关于发展新质生产力的意见》答记者问
 - 来源：国家发改委-新闻动态 / A1 / CN
 - 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
 - 主题：未分类
@@ -328,6 +248,56 @@
 - 命中：{"policy_support": ["新质生产力"]}
 - 风险词：无
 - 链接：https://www.ndrc.gov.cn/xwdt/xwfb/202610/t20261009_1408037.html
+
+### 23. 国家发展改革委发展战略和规划司研究课题入选公告
+- 来源：国家发改委-新闻动态 / A1 / CN
+- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"policy_support": ["规划"]}
+- 风险词：无
+- 链接：https://www.ndrc.gov.cn/xwdt/tzgg/202609/t20260914_1407622.html
+
+### 24. 国家发展改革委发展战略和规划司研究课题征集公告
+- 来源：国家发改委-新闻动态 / A1 / CN
+- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"policy_support": ["规划"]}
+- 风险词：无
+- 链接：https://www.ndrc.gov.cn/xwdt/tzgg/202608/t20260820_1407104.html
+
+### 25. 内蒙古民营企业“走出去”京津冀专项对接活动取得阶段性成果
+- 来源：国家发改委-新闻动态 / A1 / CN
+- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"policy_support": ["专项"]}
+- 风险词：无
+- 链接：https://www.ndrc.gov.cn/xwdt/dt/dfdt/202610/t20261008_1408002.html
+
+### 26. 青海省发展改革委安排以人为本的新型城镇化建设资金4.96亿元 加快补齐城镇化发展短板弱项
+- 来源：国家发改委-新闻动态 / A1 / CN
+- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"policy_support": ["加快"]}
+- 风险词：无
+- 链接：https://www.ndrc.gov.cn/xwdt/dt/dfdt/202609/t20260930_1407945.html
+
+### 27. 商务部惠企政策专题
+- 来源：商务部-新闻发布 / A1 / CN
+- 分数：net=5, signal=2, risk=0, 证据等级=C, 正文抓取=是
+- 主题：未分类
+- 产品映射：无
+- 公司映射：无
+- 命中：{"policy_support": ["政策"]}
+- 风险词：无
+- 链接：https://www.mofcom.gov.cn/swbhqzczt/index.html
 
 ## 3. 合并故事线
 
@@ -363,39 +333,17 @@
   - [李强主持召开国务院常务会议 研究促进创业投资发展的有关举措等](https://www.miit.gov.cn/xwdt/szyw/art/2024/art_9d09b48f6cc5450992815813fd9d4235.html)（工信部-新闻动态，net=17）
   - [提振消费专项行动 政策集成和综合解读专栏](https://www.gov.cn/zhengce/jiedu/tzxfzxxd/index.htm)（商务部-新闻发布，net=17）
 
-### 4. 未分类 / new_product
-- 故事分：39
-- 来源数：3，来源：上交所-披露公告, 巨潮资讯-公告检索页, 证监会-新闻发布
+### 4. 未分类 / new_product+policy_support
+- 故事分：31
+- 来源数：2，来源：中国汽车工业协会-行业信息, 证监会-新闻发布
 - 产品：无
 - 公司：无
 - 风险提示：无
 - 代表线索：
-  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
-  - [上市公司信息](https://www.sse.com.cn/disclosure/listedinfo/announcement/)（上交所-披露公告，net=6）
-  - [上市公司监管](https://www.sse.com.cn/regulation/supervision/dynamic/)（上交所-披露公告，net=6）
-
-### 5. 未分类 / new_product+policy_support
-- 故事分：38
-- 来源数：2，来源：上交所-披露公告, 证监会-新闻发布
-- 产品：无
-- 公司：无
-- 风险提示：终止
-- 代表线索：
-  - [企业上市服务](https://www.sse.com.cn/services/listingwithsse/home/)（上交所-披露公告，net=10）
-  - [债券发行上市一件事](https://one.sse.com.cn/onething/zqfx/)（上交所-披露公告，net=8）
+  - [· 支持强化汽车产品创新设计与研发测试验证管理，推动产业可持续健康发展 [2026.10.10]](http://www.caam.org.cn/chn/1/cate_2/con_5237354.html)（中国汽车工业协会-行业信息，net=17）
   - [证监会组织开展“读懂上市公司报告”投资者教育专项活动](http://www.csrc.gov.cn/csrc/c100028/c1615671/content.shtml)（证监会-新闻发布，net=8）
 
-### 6. 未分类 / demand_strong+new_product
-- 故事分：34
-- 来源数：2，来源：上交所-披露公告, 工信部-新闻动态
-- 产品：无
-- 公司：无
-- 风险提示：延期, 终止
-- 代表线索：
-  - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
-  - [REITs发行上市一件事](https://one.sse.com.cn/onething/reits/)（上交所-披露公告，net=5）
-
-### 7. 未分类 / demand_strong
+### 5. 未分类 / demand_strong
 - 故事分：27
 - 来源数：2，来源：国家统计局-数据发布, 工信部-新闻动态
 - 产品：无
@@ -405,23 +353,25 @@
   - [我国自主研制的载人飞艇AS700首架交付即将开启商业运营](https://www.miit.gov.cn/xwdt/gxdt/sjdt/art/2024/art_bcfee73e787f4e7992233ec421c35d5f.html)（工信部-新闻动态，net=13）
   - [2026年9月中国采购经理指数运行情况](https://www.stats.gov.cn/sj/zxfb/202609/t20260930_1965449.html)（国家统计局-数据发布，net=8）
 
-### 8. AI算力 / new_product+policy_support
-- 故事分：15
-- 来源数：1，来源：上交所-披露公告
+### 6. 未分类 / demand_strong+new_product
+- 故事分：26
+- 来源数：1，来源：工信部-新闻动态
 - 产品：无
 - 公司：无
 - 风险提示：无
 - 代表线索：
-  - [交易技术支持专区](https://www.sse.com.cn/services/tradingtech/notice/)（上交所-披露公告，net=12）
+  - [超百个“硬核”科技亮相！ 工业和信息化部启动高校科技成果转化专项路演](https://www.miit.gov.cn/xwdt/spxw/art/2024/art_6becf5707562410ca2bb93a9d0abb2eb.html)（工信部-新闻动态，net=23）
 
-### 9. 电力储能 / high_prosperity+policy_support
-- 故事分：12
-- 来源数：1，来源：中国政府网-政策
+### 7. 未分类 / new_product
+- 故事分：24
+- 来源数：2，来源：巨潮资讯-公告检索页, 证监会-新闻发布
 - 产品：无
 - 公司：无
 - 风险提示：无
 - 代表线索：
-  - [图表：国庆假期高速公路新能源汽车日均充电量同比增长51.42%](https://www.gov.cn/zhengce/jiedu/tujie/202610/content_7082752.htm)（中国政府网-政策，net=9）
+  - [上市公司嵌入](http://webapi.cninfo.com.cn/)（巨潮资讯-公告检索页，net=6）
+  - [中国证监会原发审委委员、上海证券交易所原科创板上市审核中心副主任操舰严重违纪违法被开除党籍和公职](http://www.csrc.gov.cn/csrc/c100028/c1605559/content.shtml)（证监会-新闻发布，net=6）
+  - [证监会就上市公司监管法规体系整合涉及相关规则公开征求意见](http://www.csrc.gov.cn/csrc/c100028/c1556032/content.shtml)（证监会-新闻发布，net=6）
 
 ## 4. 公司线索映射
 
